@@ -4,7 +4,12 @@ This is a rss aggregator written in GO
 
 ## Building:
 
+If you have golang installed you can just execute 
+```
 go build 
+```
+
+if you have docker install you can use the golang image to build also
 
 ## Configuration
 
@@ -37,7 +42,7 @@ You can build a Docker container using the included Dockerfile.
 docker build -t <image_name>:<tag>
 ```
 
-The container is built using alpine as a base and runs as a user with the name appuser.
+The container will be built using alpine as a base and runs as a user with the name appuser.
 
 You will need to attach a volume to the container to see the results.
 
