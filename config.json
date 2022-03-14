@@ -1,0 +1,264 @@
+[
+    {
+        "name": "Intelligence",
+        "sites": [
+            "https://www.reddit.com/r/Intelligence/new/.rss",
+            "https://www.reddit.com/r/privacy/new.rss",
+            "https://www.privacyinternational.org/news/rss.xml",
+            "http://feeds.feedburner.com/IntelligenceOnline",
+            "https://www.bellingcat.com/feed/"
+        ],
+        "outputFile": "intel.html"
+    },
+    {
+        "name": "News",
+        "sites": [
+            "https://news.google.com/news/section?q=site:theintercept.com&output=rss"
+        ],
+        "outputFile": "news.html"
+    },
+    {
+        "name": "Tech News",
+        "sites": [
+            "https://news.google.com/?q=site:engadget.com&output=rss",
+            "https://news.google.com/?q=site:theregister.co.uk&output=rss",
+            "https://news.google.com/?q=site:arstechnica.com&output=rss",
+            "https://venturebeat.com/feed/"
+        ],
+        "outputFile": "tech.html"
+    },
+    {
+        "name": "Programming",
+        "sites": [
+            "https://www.reddit.com/r/python/new.rss",
+            "https://planet.squeak.org/atom.xml",
+            "https://feed.infoq.com/",
+            "http://feeds.dzone.com/home"
+        ],
+        "outputFile": "prog.html"
+    },
+    {
+        "name": "Dzone",
+        "sites": [
+            "http://feeds.dzone.com/publications"
+        ],
+        "outputFile": "dzone.html"
+    },
+    {
+        "name": "Singapore Terror",
+        "sites": [
+            "https://news.google.com/rss/search?q=Singapore%20AND%20%22Internal%20Security%20Act%22&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "terror.html"
+    },
+    {
+        "name": "TSG",
+        "sites": [
+            "https://news.google.com/rss/search?q=%E6%96%B0%E5%8A%A0%E5%9D%A1+AND+%E5%8F%B0%E7%81%A3&hl=zh-HK&gl=HK&ceid=HK:zh-Hant"
+        ],
+        "outputFile": "tsg.html"
+    },
+    {
+        "name": "AI",
+        "sites": [
+            "https://news.google.com/rss/topics/CAAqJAgKIh5DQkFTRUFvSEwyMHZNRzFyZWhJRlpXNHRSMElvQUFQAQ?hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "aitrends.com/feed",
+            "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
+            "http://news.mit.edu/rss/topic/artificial-intelligence2",
+            "http://research.baidu.com/feed",
+            "https://aws.amazon.com/blogs/ai/feed",
+            "https://openai.com/feed.xml?format=xml",
+            "https://iris.ai/feed",
+            "https://www.youtube.com/feeds/videos.xml?user=MITCSAIL",
+            "https://blogs.nvidia.com/feed",
+            "http://aiweekly.co/issues.rss",
+            "https://www.reddit.com/r/artificial.rss",
+            "http://news.mit.edu/rss/topic/robotics",
+            "http://feeds.dzone.com/ai",
+            "https://www.blog.google/technology/ai/rss",
+            "http://feeds.feedburner.com/blogspot/gJZg"
+        ],
+        "outputFile": "ai.html"
+    },
+    {
+        "name": "Chinese AI",
+        "sites": [
+            "https://news.google.com/rss/search?q=%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0&hl=zh-HK&gl=HK&ceid=HK:zh-Hant",
+            "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&hl=zh-HK&gl=HK&ceid=HK%3Azh-Hant",
+            "https://news.google.com/rss/search?q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7&hl=zh-HK&gl=HK&ceid=HK%3Azh-Hant"
+        ],
+        "outputFile": "chineseAI.html"
+    },
+    {
+        "name": "Military News",
+        "sites": [
+            "http://feeds.feedburner.com/militarydotcom/dailynews",
+            "http://feeds.feedburner.com/rss/category/mil-home",
+            "http://defence-blog.com/feed",
+            "http://www.popsci.com/multi-blog/42/rss.xml?dom=psc&loc=featrow&lnk=rss",
+            "http://www.janes.com/defence/rss",
+            "http://www.army-technology.com/feeds/site-feed.xml",
+            "https://www.military.com/rss-feeds/content?type=blog&blog=defensetech",
+            "http://english.chinamil.com.cn/rss.xml",
+            "http://china-defense.blogspot.com/feeds/posts/default",
+            "https://news.google.com/rss/search?q=military+technology&hl=en-US&gl=US&ceid=US:en"
+        ],
+        "outputFile": "military.html"
+    },
+    {
+        "name": "Fake News",
+        "sites": [
+            "https://news.google.com/rss/search?q=disinformation%20OR%20misinformation%20or%20%22fact%20check%22%20or%20%22fake%20news%22&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "fake_news.html"
+    },
+    {
+        "name": "DarkNet",
+        "sites": [
+            "https://news.google.com/rss/search?q=darknet&hl=en-SG&gl=SG&ceid=SG:en",
+            "https://www.reddit.com/r/onions/search.rss?q=url%3A.onion&sort=new&restrict_sr=on",
+            "http://45.63.84.54/t2rss/DarkDotFail.xml",
+            "http://45.63.84.54/t2rss/darkowlcyber.xml",
+            "http://45.63.84.54/t2rss/digitalshadows.xmls"
+        ],
+        "outputFile": "darknet.html"
+    },
+    {
+        "name": "CoronaVirus",
+        "sites": [
+            "https://news.google.com/rss/search?q=coronavirus&hl=en-US&gl=US&ceid=US%3Aen",
+            "https://news.google.com/rss/search?q=%E6%AD%A6%E6%B1%89%20%E8%82%BA%E7%82%8E%20%E7%97%85%E6%AF%92%202019-nCoV&hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans",
+            "https://reddit.com/r/China_Flu.rss",
+            "https://news.google.com/rss/search?q=covid%2019&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "coronavirus.html"
+    },
+    {
+        "name": "Corona SG",
+        "sites": [
+            "https://news.google.com/rss/search?q=coronavirus%20covid-19%20singapore&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "coronasg.html"
+    },
+    {
+        "name": "Equipment",
+        "sites": [
+            "https://news.google.com/rss/search?q=mask%20reuse&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=ventilators&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "corona_equipment.html"
+    },
+    {
+        "name": "Reddit Masks",
+        "sites": [
+            "https://www.reddit.com/r/singapore/search.rss?q=masks&restrict_sr=1&sort=new"
+        ],
+        "outputFile": "masks.html"
+    },
+    {
+        "name": "Singapore Airshow",
+        "sites": [
+            "https://news.google.com/rss/search?q=Singapore%20Airshow%20coronavirus&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://www.reddit.com/search.rss?q=Singapore%20Airshow&sort=new"
+        ],
+        "outputFile": "sgairshow.html"
+    },
+    {
+        "name": "Travel Ban",
+        "sites": [
+            "https://news.google.com/rss/search?q=travel%20ban%20virus&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "travelban.html"
+    },
+    {
+        "name": "Regional",
+        "sites": [
+            "https://news.google.com/rss/search?q=Indonesia+indonesia%27s+coronavirus&hl=en-SG&gl=SG&ceid=SG:en",
+            "https://news.google.com/rss/search?q=malaysia%20malaysia%27s%20coronavirus&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=Israel%20Singapore&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "regional.html"
+    },
+    {
+        "name": "Ban Masks",
+        "sites": [
+            "https://news.google.com/rss/search?q=ban%20export%20masks&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "banmasks.html"
+    },
+    {
+        "name": "Vaccine",
+        "sites": [
+            "https://www.reddit.com/r/China_Flu/search.rss?q=patent&restrict_sr=1&sort=new",
+            "https://www.reddit.com/r/China_Flu/search.rss?q=vaccine&restrict_sr=1&sort=new",
+            "https://news.google.com/rss/search?q=coronavirus%20vaccine%20cure&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=covid-19%20vaccine&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "vaccine.html"
+    },
+    {
+        "name": "CoronaSolutions",
+        "sites": [
+            "https://news.google.com/rss/search?q=covid-19%20technology&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=covid-19%20solutions&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=coronavirus%20solutions&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=coronavirus%20technology&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=coronavirus%20artificial%20intelligence&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=covid-19%20artificial%20intelligence&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "coronasolution.html"
+    },
+    {
+        "name": "Software",
+        "sites": [
+            "https://news.google.com/rss/search?q=%22Babel%20Street%22&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=cowebs%20israel&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=sparkbeyond&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=cowebs%20technologies&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=Verint&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=BLER%20systems&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "http://45.63.84.54/t2rss/cobwebstech.xml",
+            "http://45.63.84.54/t2rss/digitalshadows.xml",
+            "http://45.63.84.54/t2rss/palantir.xmlhttp://45.63.84.54/t2rss/DigitalCluesAG.xml",
+            "https://news.google.com/rss/search?q=Palantir&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "http://45.63.84.54/t2rss/bler_ltd.xml"
+        ],
+        "outputFile": "software.html"
+    },
+    {
+        "name": "Pandemics, Outbreaks",
+        "sites": [
+            "https://news.google.com/rss/search?q=outbreak&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=epidemic&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=pandemic&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "pandemic.html"
+    },
+    {
+        "name": "Pandemic AI",
+        "sites": [
+            ""
+        ],
+        "outputFile": "pandemic_ai.html"
+    },
+    {
+        "name": "Supply Chain",
+        "sites": [
+            "https://news.google.com/rss/search?q=factory%20shutdown&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=factory%20disrupt&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=supply%20chain%20disruption&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=export%20control&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=export%20ban&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=export%20restrictions&hl=en-SG&gl=SG&ceid=SG%3Aen",
+            "https://news.google.com/rss/search?q=production%20disruption&hl=en-SG&gl=SG&ceid=SG%3Aen"
+        ],
+        "outputFile": "supplychain.html"
+    }, {
+        "name": "Chess",
+        "sites": [
+            "https://www.theguardian.com/sport/chess/rss",
+            "https://news.google.com/rss/search?q=chess&hl=en-SG&gl=SG&ceid=SG:en"
+        ],
+        "outputFile": "chess.html"
+    }
+]

@@ -1,0 +1,8075 @@
+,City,Country
+0,Abadan,IR
+1,Aberdeen,GB
+2,Acton,US
+3,Addison,US
+4,Adra,US
+5,Aguilares,SV
+6,Airdrie,CA
+7,Akbarpur,IN
+8,Aksu,CN
+9,Al Quşayr,SY
+10,Albany,US
+11,Albertville,US
+12,Alekseyevka,RU
+13,Alexandria,US
+14,Alhambra,US
+15,Allen,US
+16,Allende,US
+17,Altamira,US
+18,Alton,US
+19,Altoona,US
+20,Alvand,IR
+21,Amherst,US
+22,Amsterdam,NL
+23,Anderson,US
+24,Andover,US
+25,Annino,US
+26,Apple Valley,US
+27,Arad,IL
+28,Aral,US
+29,Arlington,US
+30,Armavir,RU
+31,Arnold,US
+32,Arrah,IN
+33,Asadābād,AF
+34,Asaka,US
+35,Ashburn,US
+36,Ashford,US
+37,Ashland,US
+38,Ashta,IN
+39,Athens,GR
+40,Auburn,US
+41,Augusta,US
+42,Aurora,US
+43,Austin,US
+44,Avon,US
+45,Avondale,US
+46,Baden,DE
+47,Bagaha,IN
+48,Bahawalnagar,PK
+49,Baki,US
+50,Baldwin,US
+51,Bangaon,IN
+52,Bangor,US
+53,Banjar,JP
+54,Bar,US
+55,Barberton,US
+56,Barbosa,US
+57,Barcelona,ES
+58,Barra,GB
+59,Bartlett,US
+60,Basi,US
+61,Batavia,US
+62,Bay City,US
+63,Bayeux,FR
+64,Bayonne,US
+65,Bayside,US
+66,Beaumont,US
+67,Bedford,US
+68,Bela,US
+69,Bella Vista,US
+70,Belleville,US
+71,Bellevue,US
+72,Belmont,US
+73,Belton,US
+74,Belém,BR
+75,Bethany,US
+76,Bethlehem,
+77,Bexley,US
+78,Bharatpur,IN
+79,Binzhou,CN
+80,Birmingham,US
+81,Blagoveshchensk,RU
+82,Blantyre,US
+83,Bloomingdale,US
+84,Bloomington,US
+85,Bogo,US
+86,Bor,RS
+87,Boston,US
+88,Bowling Green,US
+89,Bragança,PT
+90,Braintree,US
+91,Brandon,US
+92,Brent,US
+93,Brentwood,US
+94,Brest,FR
+95,Bridgeport,US
+96,Brighton,US
+97,Bristol,GB
+98,Brookfield,US
+99,Brownsville,US
+100,Brunswick,US
+101,Buenaventura,CO
+102,Buenavista,US
+103,Buffalo,US
+104,Burbank,US
+105,Burgos,ES
+106,Burlington,US
+107,Busia,KE
+108,Butterworth,US
+109,Bāli,ID
+110,Bārāsat,IN
+111,Cadiz,ES
+112,Camargo,US
+113,Camas,US
+114,Cambridge,GB
+115,Campinas,BR
+116,Candelaria,US
+117,Canton,CN
+118,Carlisle,US
+119,Carlsbad,US
+120,Carmona,ES
+121,Carolina,US
+122,Carrizal,MX
+123,Carrollton,US
+124,Cartagena,CO
+125,Cartago,CR
+126,Cary,US
+127,Cascavel,BR
+128,Castro,US
+129,Centerville,US
+130,Ceres,US
+131,Chaoyang,CN
+132,Charleston,US
+133,Chatham,US
+134,Chelmsford,US
+135,Chelsea,US
+136,Cheltenham,US
+137,Cherry Hill,US
+138,Chester,US
+139,Chesterfield,US
+140,Chinatown,US
+141,Chino,US
+142,Christchurch,NZ
+143,Ciudad Bolívar,VE
+144,Clarksville,US
+145,Clayton,US
+146,Cleveland,US
+147,Clifton,US
+148,Clinton,US
+149,Clovis,US
+150,Coburg,DE
+151,Colchester,GB
+152,Colima,MX
+153,Colombo,LK
+154,Columbia,US
+155,Columbus,US
+156,Colón,US
+157,Comalapa,GT
+158,Compostela,ES
+159,Concepción,CL
+160,Concord,US
+161,Condado,US
+162,Conde,US
+163,Conway,US
+164,Corinto,NI
+165,Corona,US
+166,Coventry,GB
+167,Covington,US
+168,Croydon,GB
+169,Cuauhtémoc,MX
+170,Cudahy,US
+171,Cuenca,EC
+172,Cumberland,US
+173,Cumbum,IN
+174,Cypress,US
+175,Cárdenas,US
+176,Córdoba,ES
+177,Dakhla,
+178,Dallas,US
+179,Damascus,SY
+180,Danao,PH
+181,Danville,US
+182,Darien,US
+183,Datong,CN
+184,Daura,NG
+185,Decatur,US
+186,Deer Park,US
+187,Denton,US
+188,Deoli,IN
+189,Depok,ID
+190,Derby,US
+191,Derry,GB
+192,Des Moines,US
+193,Dickinson,US
+194,Dieppe,FR
+195,Dimitrovgrad,BG
+196,Dixon,US
+197,Dolores,US
+198,Doncaster,GB
+199,Donetsk,UA
+200,Douglas,US
+201,Dover,GB
+202,Dublin,IE
+203,Duluth,US
+204,Duncan,US
+205,Dundalk,US
+206,Dundee,GB
+207,Dunedin,US
+208,Durango,US
+209,Durham,US
+210,Easton,US
+211,Eastwood,US
+212,Edgewater,US
+213,Eisen,US
+214,El Cerrito,US
+215,El Monte,US
+216,El Salto,US
+217,Elgin,US
+218,Elmhurst,US
+219,Elmwood Park,US
+220,Embu,KE
+221,Emiliano Zapata,US
+222,Emmen,NL
+223,Englewood,US
+224,Ennis,US
+225,Enterprise,US
+226,Epe,NG
+227,Epping,US
+228,Ereğli,TR
+229,Erie,US
+230,Esmeraldas,EC
+231,Esperanza,AR
+232,Essen,US
+233,Evans,MX
+234,Everett,US
+235,Fairfield,US
+236,Farmington,US
+237,Farīdpur,BD
+238,Fatehpur,IN
+239,Fatehābād,IN
+240,Fayetteville,US
+241,Feicheng,CN
+242,Fendou,
+243,Ferndale,US
+244,Fitchburg,US
+245,Flint,US
+246,Florence,IT
+247,Florencia,IT
+248,Florida,US
+249,Fontana,US
+250,Forest Hills,US
+251,Forest Lake,US
+252,Forest Park,US
+253,Formosa,US
+254,Four Corners,US
+255,Frankenberg,DE
+256,Frankfort,US
+257,Franklin,US
+258,Freeport,US
+259,Fremont,US
+260,Fresno,US
+261,Friedberg,DE
+262,Frontera,US
+263,Fujioka,JP
+264,Fuyang,CN
+265,Fuyu,US
+266,Gainesville,US
+267,Gangāpur,IN
+268,Gantang,CN
+269,Garden City,US
+270,Gardner,US
+271,Gaya,IN
+272,George Town,US
+273,Georgetown,US
+274,Germantown,US
+275,Gladstone,US
+276,Glendale,US
+277,Gloucester,US
+278,Gorakhpur,IN
+279,Granada,ES
+280,Grand Island,US
+281,Gravesend,GB
+282,Great Falls,US
+283,Greenfield,US
+284,Greenville,US
+285,Greenwood,US
+286,Griffith,US
+287,Guadalajara,MX
+288,Guadalupe,MX
+289,Gwangju,KR
+290,Haikou,CN
+291,Hale,US
+292,Halifax,CA
+293,Halle,DE
+294,Hamilton,US
+295,Hammamet,TN
+296,Hammond,US
+297,Hampton,US
+298,Hamīrpur,IN
+299,Hancheng,CN
+300,Hangu,PK
+301,Hanover,US
+302,Harlingen,US
+303,Harrison,US
+304,Harvey,US
+305,Hastings,US
+306,Haverhill,US
+307,Hawthorne,US
+308,Heidelberg,DE
+309,Helena,US
+310,Henderson,US
+311,Hereford,GB
+312,Highland,US
+313,Hillside,US
+314,Hino,US
+315,Hobart,AU
+316,Hoboken,US
+317,Hollywood,US
+318,Homewood,US
+319,Honchō,GB
+320,Horodok,UA
+321,Huazhou,CN
+322,Huntington,US
+323,Huntsville,US
+324,Hyderabad,IN
+325,Ibi,US
+326,Imperial,US
+327,Independence,US
+328,Irvine,US
+329,Ishikawa,US
+330,Islāmpur,IN
+331,Itabaiana,BR
+332,Itu,US
+333,Izumi,US
+334,Jackson,US
+335,Jacksonville,US
+336,Jalapa,GT
+337,Jaleshwar,NP
+338,Jalālpur,IN
+339,Jalālābād,AF
+340,Jamestown,US
+341,Jamālpur,IN
+342,Jaén,ES
+343,Jesús María,PE
+344,Jincheng,CN
+345,Jining,CN
+346,Jinjiang,CN
+347,Jinzhou,CN
+348,Jobabo,CU
+349,Jodhpur,IN
+350,Johnston,US
+351,Junín,PE
+352,Kadoma,ZW
+353,Kaiyuan,CN
+354,Kansas City,US
+355,Kariya,CA
+356,Kasama,ZM
+357,Katangi,IN
+358,Kawasaki,US
+359,Kayes,ML
+360,Kazan,RU
+361,Kenmore,US
+362,Kensington,US
+363,Kent,US
+364,Kettering,US
+365,Khairāgarh,IN
+366,Kharagpur,IN
+367,Khāsh,IR
+368,Kingston,US
+369,Kirkland,US
+370,Kirov,RU
+371,Kirovsk,RU
+372,Koga,US
+373,Korba,IN
+374,Krasnoarmeysk,RU
+375,Kulu,US
+376,La Libertad,SV
+377,La Mesa,US
+378,La Paz,BO
+379,La Plata,US
+380,La Porte,US
+381,La Rinconada,PE
+382,La Unión,PH
+383,Labuan,MY
+384,Lafayette,US
+385,Lagos,NG
+386,Laguna,US
+387,Lake Forest,US
+388,Lakeside,US
+389,Lakewood,US
+390,Lancaster,US
+391,Langen,DE
+392,Lansing,US
+393,Lanxi,CN
+394,Laredo,US
+395,Latina,US
+396,Laurel,US
+397,Laval,CA
+398,Lawrence,US
+399,Lebanon,LB
+400,Leek,US
+401,Leesburg,US
+402,Lesnoy,RU
+403,Levittown,US
+404,Lewiston,US
+405,Lexington,US
+406,León,ES
+407,Lianzhou,CN
+408,Licheng,CN
+409,Lille,FR
+410,Lima,PE
+411,Limay,FR
+412,Linares,ES
+413,Lincoln,US
+414,Lincoln Park,US
+415,Linden,US
+416,Live Oak,US
+417,Liverpool,US
+418,Livingston,US
+419,Lockport,US
+420,Lodi,US
+421,Loja,EC
+422,London,GB
+423,Long Beach,US
+424,Longview,US
+425,Louisville,US
+426,Lubao,PH
+427,Lucena,PH
+428,Lugo,ES
+429,Luoyang,CN
+430,Lālganj,IN
+431,Macau,MO
+432,Madera,US
+433,Madison,US
+434,Madrid,ES
+435,Mahwah,US
+436,Maitland,US
+437,Manchester,GB
+438,Manhattan,US
+439,Mansfield,US
+440,Manzanares,ES
+441,Manzanillo,MX
+442,Mao,US
+443,Maplewood,US
+444,Margate,US
+445,Marion,US
+446,Martinez,US
+447,Marysville,US
+448,Mau,US
+449,Maywood,US
+450,Medford,US
+451,Medina,SA
+452,Melbourne,AU
+453,Melrose,US
+454,Mercedes,US
+455,Meridian,US
+456,Mesquite,US
+457,Middelburg,NL
+458,Middleton,US
+459,Middletown,US
+460,Midland,US
+461,Milford,US
+462,Milton,US
+463,Minas,US
+464,Mingshui,CN
+465,Mino,US
+466,Miramar,US
+467,Mirnyy,RU
+468,Mirzāpur,IN
+469,Mission,US
+470,Mitcham,GB
+471,Moanda,GA
+472,Monroe,US
+473,Monrovia,US
+474,Montclair,US
+475,Montenegro,ME
+476,Montgomery,US
+477,Montijo,PT
+478,Morales,US
+479,Morley,US
+480,Morong,US
+481,Morristown,US
+482,Morón,AR
+483,Moscow,RU
+484,Moskovskiy,RU
+485,Mount Pleasant,US
+486,Mount Vernon,US
+487,Muhammadābād,IN
+488,Munster,DE
+489,Murcia,ES
+490,Murray,US
+491,Málaga,ES
+492,Mérida,MX
+493,Mülheim,DE
+494,Māndvi,IN
+495,Māngrol,IN
+496,Mānsa,IN
+497,Nabīnagar,IN
+498,Naga,US
+499,Naples,US
+500,Nawābganj,BD
+501,Negotino,MK
+502,Nelson,US
+503,Neston,GB
+504,New Castle,US
+505,New City,US
+506,New Haven,US
+507,Newark,US
+508,Newcastle,GB
+509,Newmarket,US
+510,Newport,US
+511,Newton,US
+512,Niagara Falls,US
+513,Nikol’skoye,RU
+514,Niles,US
+515,Ninghai,CN
+516,Nogales,US
+517,Nola,US
+518,Norfolk,US
+519,Northampton,US
+520,Norton,US
+521,Norwalk,US
+522,Norwich,US
+523,Norwood,US
+524,Ntungamo,UG
+525,Nzega,TZ
+526,Néa Ionía,GR
+527,Nūrābād,IR
+528,O'Fallon,US
+529,Oak Park,US
+530,Oak Ridge,US
+531,Oakdale,US
+532,Oakville,CA
+533,Oceanside,US
+534,Odessa,UA
+535,Oeiras,PT
+536,Okha,IN
+537,Ono,US
+538,Orange,US
+539,Orkney,GB
+540,Ostrov,US
+541,Oswego,US
+542,Otradnoye,RU
+543,Ottawa,CA
+544,Oviedo,US
+545,Oxford,GB
+546,Padampur,IN
+547,Palencia,US
+548,Palm Springs,US
+549,Palmas,BR
+550,Palmira,CO
+551,Pamplona,ES
+552,Paradise,US
+553,Paraiso,US
+554,Paris,FR
+555,Parkland,US
+556,Parma,IT
+557,Parral,MX
+558,Pasadena,US
+559,Patos,VE
+560,Pavlovsk,RU
+561,Payson,US
+562,Pedregal,MX
+563,Peoria,US
+564,Perth,AU
+565,Pervomays’k,UA
+566,Peterborough,GB
+567,Piedade,BR
+568,Pilar,AR
+569,Pittsburg,US
+570,Plainfield,US
+571,Plainview,US
+572,Planaltina,BR
+573,Plymouth,US
+574,Pombal,PT
+575,Pontevedra,ES
+576,Portage,US
+577,Portland,US
+578,Portsmouth,US
+579,Preston,US
+580,Princeton,US
+581,Progreso,MX
+582,Puebla,MX
+583,Pushkino,RU
+584,Puttūr,IN
+585,Pāli,
+586,Pātan,IN
+587,Quezon,PH
+588,Quincy,US
+589,Raipur,IN
+590,Rajpur,IN
+591,Ramsey,US
+592,Randolph,US
+593,Reading,US
+594,Redmond,US
+595,Retiro,AR
+596,Richmond,US
+597,Richmond Hill,US
+598,Ridgewood,US
+599,Rio Claro,CO
+600,Ripon,US
+601,Riverside,US
+602,Rochester,US
+603,Rome,IT
+604,Rosedale,US
+605,Roselle,US
+606,Roseville,US
+607,Rossosh’,RU
+608,Rossville,US
+609,Roswell,US
+610,Rotterdam,NL
+611,Roxas,US
+612,Ryde,US
+613,Río Blanco,US
+614,Río Grande,
+615,Rāipur,IN
+616,Rājgarh,IN
+617,Rāmgarh,IN
+618,Rāmnagar,IN
+619,Rāmpur,IN
+620,Rāmpura,IN
+621,Sabaneta,CO
+622,Sacramento,US
+623,Safi,US
+624,Saginaw,US
+625,Sahiwal,PK
+626,Saidpur,BD
+627,Saint Andrews,US
+628,Saint Charles,US
+629,Saint Cloud,US
+630,Saint Peters,US
+631,Saint-Denis,FR
+632,Saint-Joseph,US
+633,Saint-Leu,RE
+634,Saint-Louis,US
+635,Saint-Pierre,PM
+636,Saint-Raphaël,FR
+637,Sainte-Catherine,CA
+638,Sainte-Marie,MQ
+639,Sakai,US
+640,Saki,US
+641,Salamanca,ES
+642,Sale,US
+643,Salem,US
+644,Salinas,US
+645,Salisbury,US
+646,Salto,AR
+647,Samal,PH
+648,San Antonio,US
+649,San Benito,US
+650,San Buenaventura,US
+651,San Carlos,US
+652,San Clemente,US
+653,San Cristóbal,MX
+654,San Diego,US
+655,San Felipe,MX
+656,San Fernando,US
+657,San Francisco,US
+658,San Gabriel,US
+659,San Isidro,US
+660,San Jacinto,US
+661,San Javier,ES
+662,San Jose,US
+663,San José,US
+664,San Juan,PR
+665,San Lorenzo,US
+666,San Luis,US
+667,San Marcos,US
+668,San Martín,US
+669,San Mateo,US
+670,San Miguel,MX
+671,San Nicolas,US
+672,San Pablo,US
+673,San Pedro,US
+674,San Rafael,US
+675,San Vicente,SV
+676,Sanford,US
+677,Sankt Peter,DE
+678,Santa Ana,US
+679,Santa Barbara,US
+680,Santa Clara,US
+681,Santa Cruz,US
+682,Santa Elena,US
+683,Santa Fe,US
+684,Santa Isabel,PR
+685,Santa Lucía,LC
+686,Santa Luzia,CV
+687,Santa Maria,US
+688,Santa Rita,US
+689,Santa Rosa,US
+690,Santarém,PT
+691,Santiago,CL
+692,Santo Domingo,DO
+693,Santo Tomé,ES
+694,Sarandi,AR
+695,Saratoga Springs,US
+696,Scarborough,US
+697,Seaford,US
+698,Segovia,ES
+699,Selma,US
+700,Senden,DE
+701,Sevilla,ES
+702,Seymour,US
+703,Shamsābād,IR
+704,Shawnee,US
+705,Shelby,US
+706,Shelbyville,US
+707,Sherwood,US
+708,Shibganj,BD
+709,Shingū,JP
+710,Shirley,US
+711,Shrewsbury,US
+712,Shāhpur,IN
+713,Shāhpura,IN
+714,Shāhābād,IN
+715,Silao,MX
+716,Sinnar,IN
+717,Sinop,TR
+718,Sirsi,IN
+719,Sivagiri,US
+720,Slobozia,RO
+721,Smyrna,US
+722,Socorro,US
+723,Soest,DE
+724,Sokol,US
+725,Soledad,US
+726,Somerset,GB
+727,Songling,
+728,Soran,US
+729,South Gate,US
+730,Southport,US
+731,Sovetsk,RU
+732,Spring Hill,US
+733,Spring Valley,US
+734,Springfield,US
+735,St Albans,US
+736,Stafford,US
+737,Stamford,US
+738,Stanley,US
+739,Sterling,US
+740,Stillwater,US
+741,Stratford,US
+742,Sucre,BO
+743,Sudbury,CA
+744,Sun City,US
+745,Sunnyside,US
+746,Suzhou,CN
+747,Swansea,GB
+748,Sydney,AU
+749,Syracuse,US
+750,São Bento,PT
+751,São Pedro,CV
+752,Tabuk,SA
+753,Talas,US
+754,Talisay,PH
+755,Talitsa,RU
+756,Tamworth,GB
+757,Tanabe,JP
+758,Tanauan,PH
+759,Tanda,US
+760,Taunton,US
+761,Taylor,US
+762,Ternate,ID
+763,Texarkana,US
+764,Thomasville,US
+765,Toledo,US
+766,Tonalá,MX
+767,Touba,SN
+768,Trento,IT
+769,Trenton,US
+770,Trindade,BR
+771,Trinidad,TT
+772,Tripoli,LY
+773,Troitsk,RU
+774,Troy,US
+775,Trujillo,PE
+776,Truro,US
+777,Tucumã,BR
+778,Tulsīpur,IN
+779,Tuxpan,MX
+780,Udaipur,IN
+781,Uman,UA
+782,Umarkot,PK
+783,Una,US
+784,Union City,US
+785,Universal City,US
+786,University Park,US
+787,Valencia,US
+788,Valença,PT
+789,Valladolid,ES
+790,Valparaíso,CL
+791,Vancouver,CA
+792,Venice,IT
+793,Venustiano Carranza,MX
+794,Veracruz,MX
+795,Vernon,US
+796,Viana,US
+797,Victoria,US
+798,Vienna,AT
+799,Villa Nueva,US
+800,Villanueva,US
+801,Villarrica,CL
+802,Vincennes,US
+803,Vincent,US
+804,Viseu,PT
+805,Viterbo,US
+806,Viçosa,BR
+807,Vostryakovo,RU
+808,Wakefield,US
+809,Wamba,US
+810,Warren,US
+811,Warwick,US
+812,Wasco,US
+813,Washington,US
+814,Waterford,US
+815,Waterloo,CA
+816,Watertown,US
+817,Wayne,US
+818,Wellington,NZ
+819,West Hollywood,US
+820,West Springfield,US
+821,Westbury,US
+822,Westchester,US
+823,Westfield,US
+824,Westminster,GB
+825,Westmont,US
+826,Weston,US
+827,Weymouth,US
+828,Wheaton,US
+829,Wheeling,US
+830,White Oak,US
+831,Williamsburg,US
+832,Wilmington,US
+833,Winchester,US
+834,Windsor,US
+835,Woodlawn,US
+836,Woodstock,US
+837,Worcester,US
+838,Wuxi,CN
+839,Xico,US
+840,Xinzhou,CN
+841,Yanggu,KR
+842,Yicheng,CN
+843,Yichun,CN
+844,Yilan,TW
+845,York,GB
+846,Zamora,ES
+847,Zaragoza,ES
+848,Zarechnyy,RU
+849,Zhaoyuan,CN
+850,Zheleznogorsk,RU
+851,Zhicheng,US
+852,Zwijndrecht,NL
+853,Āzādshahr,IR
+854,Ōzu,US
+855,Aach,DE
+856,Aalst,BE
+857,Aba,US
+858,Abaca,US
+859,Abalak,NE
+860,Abasolo,MX
+861,Abbeville,US
+862,Abbotsford,CA
+863,Abelardo L. Rodríguez,MX
+864,Aberdare,GB
+865,Abilene,US
+866,Abingdon,US
+867,Aboh,NG
+868,Abovyan,AM
+869,Abram,US
+870,Abucay,PH
+871,Abuyog,PH
+872,Acajete,MX
+873,Acatepec,MX
+874,Acatlán,MX
+875,Aco,US
+876,Acobamba,PE
+877,Acomayo,PE
+878,Acos,US
+879,Acquaviva,US
+880,Actopan,MX
+881,Acuitlapilco,MX
+882,Ada,US
+883,Adams,US
+884,Adamstown,PN
+885,Adamsville,US
+886,Adel,US
+887,Adelaide,AU
+888,Adlington,GB
+889,Adolfo López Mateos,MX
+890,Adrian,US
+891,Advance,US
+892,Adâncata,RO
+893,Aesch,CH
+894,Afton,US
+895,Agua Azul,MX
+896,Agua Blanca,EC
+897,Agua Buena,PA
+898,Agua Caliente,US
+899,Agua Dulce,US
+900,Agua Fría,US
+901,Agua Zarca,MX
+902,Aguada,PR
+903,Aguadulce,ES
+904,Aguas Blancas,ES
+905,Aguas Buenas,PR
+906,Aguilar,US
+907,Agía Marína,GR
+908,Agía Paraskeví,GR
+909,Agía Triáda,GR
+910,Ahuacatlán,MX
+911,Ahuatlán,MX
+912,Ahuehuetitla,MX
+913,Aiton,US
+914,Ak-Suu,KG
+915,Akron,US
+916,Aktau,KZ
+917,Al Hāshimīyah,
+918,Al Manşūrah,EG
+919,Al Mughayyir,
+920,Alaminos,PH
+921,Alamo,US
+922,Alba,US
+923,Albania,AL
+924,Alberton,US
+925,Albeşti,RO
+926,Albi,FR
+927,Albia,US
+928,Albion,US
+929,Alburquerque,US
+930,Alcala,ES
+931,Alcantara,US
+932,Alcocer,ES
+933,Alcoy,ES
+934,Aldama,MX
+935,Aldan,US
+936,Aldershot,GB
+937,Aledo,US
+938,Alegrete,BR
+939,Alegria,US
+940,Aleksandrovskaya,RU
+941,Aleksandrovskoye,RU
+942,Aleksandrów,PL
+943,Alekseyevskaya,RU
+944,Alenquer,PT
+945,Alfajayucan,MX
+946,Alfaro,US
+947,Alfeld,DE
+948,Alford,US
+949,Alfred,US
+950,Alfredo V. Bonfil,MX
+951,Algarrobo,CL
+952,Algeciras,ES
+953,Algona,US
+954,Algonquin,US
+955,Alhandra,PT
+956,Aliabad,AF
+957,Aliaga,TR
+958,Alicante,ES
+959,Alice,US
+960,Alicia,US
+961,Allendale,US
+962,Alma,US
+963,Almolonga,GT
+964,Almoloya,MX
+965,Alpine,US
+966,Alta,US
+967,Alta Sierra,US
+968,Altamirano,MX
+969,Altamont,US
+970,Altanbulag,MN
+971,Altay,RU
+972,Altdorf,CH
+973,Altenburg,DE
+974,Altendorf,US
+975,Altenkirchen,DE
+976,Altenstadt,DE
+977,Alto,US
+978,Altona,US
+979,Aluniş,RO
+980,Alva,US
+981,Alvarado,US
+982,Amato,US
+983,Amelia,US
+984,Ames,US
+985,Amesbury,US
+986,Amilly,FR
+987,Ammāpettai,IN
+988,An Châu,VN
+989,An Lão,VN
+990,An Nāşirah,SY
+991,Anda,US
+992,Andamarca,PE
+993,Andrews,US
+994,Aninoasa,RO
+995,Anna,US
+996,Annandale,US
+997,Annville,US
+998,Anserma,CO
+999,Ansonia,US
+1000,Anta,
+1001,Antella,ES
+1002,Antequera,ES
+1003,Anthony,US
+1004,Antioch,US
+1005,Antipolo,PH
+1006,Anton,US
+1007,Antonio Rosales,MX
+1008,Antrim,GB
+1009,Anuling,PH
+1010,Anyang,CN
+1011,Anáhuac,US
+1012,Aoyang,
+1013,Apas,CA
+1014,Apatzingán,MX
+1015,Aplaya,
+1016,Appleton,US
+1017,Aquila,IT
+1018,Aquiles Serdán,MX
+1019,Aquino,US
+1020,Ar Rawḑah,OM
+1021,Ar Ruways,AE
+1022,Araci,BR
+1023,Aralık,TR
+1024,Aran,IE
+1025,Aranda,US
+1026,Arandas,US
+1027,Arapahoe,US
+1028,Ararat,
+1029,Aras,US
+1030,Arauco,US
+1031,Arauquita,CO
+1032,Arboledas,US
+1033,Arbus,US
+1034,Arcade,US
+1035,Arcadia,US
+1036,Archidona,ES
+1037,Arco,US
+1038,Arcola,US
+1039,Arcos,US
+1040,Ardatov,RU
+1041,Ardmore,US
+1042,Ardon,US
+1043,Ardrossan,GB
+1044,Areia Branca,BR
+1045,Arellano,US
+1046,Arenal,CR
+1047,Arenas,US
+1048,Arevik,AM
+1049,Arevshat,AM
+1050,Argavand,AM
+1051,Argel,DZ
+1052,Argelia,DZ
+1053,Argo,US
+1054,Aria,US
+1055,Ariano,US
+1056,Arlington Heights,US
+1057,Armadale,GB
+1058,Armenia,AM
+1059,Arroyo Seco,US
+1060,Arundel,GB
+1061,Arzberg,AT
+1062,Ascot,US
+1063,Ashburton,US
+1064,Ashfield,US
+1065,Ashley,US
+1066,Astorga,ES
+1067,Astoria,US
+1068,Atherton,US
+1069,Atkins,US
+1070,Atlanta,US
+1071,Atlantic Beach,US
+1072,Atoka,US
+1073,Au,US
+1074,Audubon,US
+1075,Audubon Park,US
+1076,Auerbach,DE
+1077,Ault,US
+1078,Avalon,US
+1079,Avdiyivka,UA
+1080,Aveley,US
+1081,Avellaneda,AR
+1082,Avenel,US
+1083,Avis,US
+1084,Avoca,IE
+1085,Avram Iancu,RO
+1086,Avrillé,FR
+1087,Aya,US
+1088,Ayacucho,PE
+1089,Ayahualulco,MX
+1090,Ayapa,MX
+1091,Aydıncık,TR
+1092,Aygeshat,AM
+1093,Ayl,DE
+1094,Ayna,US
+1095,Ayr,CA
+1096,Ayutla,MX
+1097,Ayvacık,TR
+1098,Az Zāhir,YE
+1099,Azacualpa,HN
+1100,Azagra,ES
+1101,Azara,US
+1102,Azare,NG
+1103,Aznā,IR
+1104,Azé,FR
+1105,Aţ Ţaybah,EG
+1106,Aţ Ţayyibah,JO
+1107,Babana,US
+1108,Babat,IN
+1109,Babenhausen,DE
+1110,Babice,PL
+1111,Babushkin,RU
+1112,Baciu,RO
+1113,Bacolod,PH
+1114,Bacong,PH
+1115,Bacton,GB
+1116,Badian,PH
+1117,Badin,US
+1118,Badrah,AE
+1119,Bagacay,PH
+1120,Bagan,MM
+1121,Bagdad,IQ
+1122,Bagnarola,IT
+1123,Bagumbayan,PH
+1124,Bahía Honda,US
+1125,Baia,IT
+1126,Baicheng,CN
+1127,Baikunthpur,IN
+1128,Baima,CN
+1129,Bainbridge,US
+1130,Baiquan,CN
+1131,Bais,PH
+1132,Baisha,CN
+1133,Baishan,CN
+1134,Baião,BR
+1135,Bakau,GM
+1136,Baker,US
+1137,Bakewell,GB
+1138,Bakhmach,UA
+1139,Bakung,
+1140,Bala,US
+1141,Balabag,PH
+1142,Balaclava,CA
+1143,Balagtas,PH
+1144,Balaklava,CA
+1145,Balan,RO
+1146,Balarāmpur,IN
+1147,Balas,US
+1148,Balboa,US
+1149,Balete,PH
+1150,Balfour,US
+1151,Balibago,PH
+1152,Balite,PH
+1153,Baliwagan,PH
+1154,Ballina,AU
+1155,Balloch,GB
+1156,Ballı,US
+1157,Balogo,PH
+1158,Balsas,MX
+1159,Balta,US
+1160,Baltar,US
+1161,Baltic,
+1162,Baltimore,US
+1163,Balud,PH
+1164,Balung,MY
+1165,Bama,US
+1166,Bamberg,DE
+1167,Ban Na,TH
+1168,Banaba,US
+1169,Banaybanay,PH
+1170,Banda,US
+1171,Bandera,US
+1172,Bandon,US
+1173,Bandung,ID
+1174,Banff,CA
+1175,Banga,AO
+1176,Bangad,
+1177,Bangar,BN
+1178,Bangui,CF
+1179,Bani,DO
+1180,Banilad,PH
+1181,Banks,US
+1182,Bannockburn,GB
+1183,Bantay,PH
+1184,Bantayan,PH
+1185,Bantul,ID
+1186,Banyo,AU
+1187,Baoshan,CN
+1188,Bara,SY
+1189,Baracoa,CU
+1190,Baranowo,PL
+1191,Baranów,PL
+1192,Baras,PH
+1193,Barbacoas,US
+1194,Barbiano,IT
+1195,Barby,DE
+1196,Barcarena,BR
+1197,Barcelos,PT
+1198,Barda,
+1199,Barham,US
+1200,Barice,BA
+1201,Barillas,US
+1202,Barnesville,US
+1203,Barneveld,US
+1204,Barnsley,US
+1205,Baro,US
+1206,Barracas,AR
+1207,Barranca,PE
+1208,Barrancas,US
+1209,Barre,US
+1210,Barreiros,BR
+1211,Barretos,BR
+1212,Barrhead,GB
+1213,Barrington,US
+1214,Barrio de San Miguel,MX
+1215,Barro,US
+1216,Barro Alto,BR
+1217,Barry,US
+1218,Barrón,ES
+1219,Barton,US
+1220,Bartonville,US
+1221,Barza,IR
+1222,Barāgaon,IN
+1223,Basa,US
+1224,Basak,CA
+1225,Basarabi,RO
+1226,Bassens,FR
+1227,Bassett,US
+1228,Bastia,FR
+1229,Bastrop,US
+1230,Basud,PH
+1231,Bata,US
+1232,Batalha,PT
+1233,Batang,ID
+1234,Batasan,PH
+1235,Batesville,US
+1236,Bath,GB
+1237,Bathurst,AU
+1238,Bato,CA
+1239,Battle Creek,US
+1240,Battle Ground,US
+1241,Batu,ID
+1242,Batuan,PH
+1243,Batuputih,ID
+1244,Bauan,PH
+1245,Baud,US
+1246,Bautista,US
+1247,Bavel,US
+1248,Baxter,US
+1249,Bay,US
+1250,Bayabas,
+1251,Bayamón,PR
+1252,Bayan,US
+1253,Bayan-Ovoo,MN
+1254,Bayanbulag,MN
+1255,Bayangol,MN
+1256,Bayanhoshuu,MN
+1257,Bayard,US
+1258,Bayasgalant,CH
+1259,Bayat,IR
+1260,Baybay,PH
+1261,Bayerbach,DE
+1262,Bayou Vista,US
+1263,Bayport,US
+1264,Bayshint,MN
+1265,Bayswater,AU
+1266,Bayview,US
+1267,Bayville,US
+1268,Bañga,PH
+1269,Baños,EC
+1270,Bağlıca,TR
+1271,Baška,HR
+1272,Beach City,US
+1273,Beachwood,US
+1274,Beaconsfield,GB
+1275,Bear Creek,US
+1276,Beatrice,US
+1277,Beau Vallon,SC
+1278,Beaufort,US
+1279,Beaumaris,GB
+1280,Beaupuy,FR
+1281,Beaurepaire,FR
+1282,Beaver,US
+1283,Beaver Dam,US
+1284,Beavercreek,US
+1285,Beaverton,US
+1286,Becerril,CO
+1287,Beckenham,GB
+1288,Beclean,RO
+1289,Bedminster,US
+1290,Beecher,US
+1291,Beechwood,US
+1292,Beek,NL
+1293,Beijinglu,CN
+1294,Bejuco,CR
+1295,Bel Air,US
+1296,Belalcázar,CO
+1297,Belaya,RU
+1298,Belaya Rechka,RU
+1299,Belen,US
+1300,Belfast,GB
+1301,Belfield,US
+1302,Belford,US
+1303,Belfort,US
+1304,Belforte,IT
+1305,Belgrade,RS
+1306,Belisario Domínguez,MX
+1307,Bell,US
+1308,Bellaire,US
+1309,Bellavista,PE
+1310,Belle,US
+1311,Belle Plaine,US
+1312,Bellefonte,US
+1313,Bellegarde,FR
+1314,Bellingham,US
+1315,Bello,US
+1316,Bells,US
+1317,Bellville,US
+1318,Bellwood,US
+1319,Belmonte,PT
+1320,Beloeil,CA
+1321,Belogorsk,RU
+1322,Belogor’ye,RU
+1323,Beloit,US
+1324,Belorechensk,RU
+1325,Belovo,BG
+1326,Beloyarskiy,RU
+1327,Beltrán,US
+1328,Belvedere,US
+1329,Belvidere,US
+1330,Belyy Yar,RU
+1331,Belz,UA
+1332,Belén,
+1333,Belören,TR
+1334,Belūr,IN
+1335,Benavente,ES
+1336,Benavides,MX
+1337,Benito Juárez,AR
+1338,Benjamin,US
+1339,Bennington,US
+1340,Benson,US
+1341,Bentley,US
+1342,Benton,US
+1343,Bera,US
+1344,Berceni,RO
+1345,Berea,US
+1346,Beresford,US
+1347,Berezivka,UA
+1348,Berești,RO
+1349,Berg,US
+1350,Berga,DE
+1351,Berge,US
+1352,Bergen,NO
+1353,Bergheim,DE
+1354,Beringen,BE
+1355,Berkeley,US
+1356,Berkley,US
+1357,Berlin,DE
+1358,Berlín,DE
+1359,Bernal,MX
+1360,Berndorf,AT
+1361,Bernsdorf,DE
+1362,Bernstadt,DE
+1363,Berry,US
+1364,Berryville,US
+1365,Bertram,US
+1366,Bertrange,LU
+1367,Berwick,US
+1368,Berwyn,US
+1369,Berëzovka,BY
+1370,Beshkent,UZ
+1371,Bessemer,US
+1372,Bessonovka,RU
+1373,Betania,MX
+1374,Betanzos,ES
+1375,Bethel,US
+1376,Bethesda,US
+1377,Bettendorf,US
+1378,Bettingen,CH
+1379,Bettola,US
+1380,Betulia,CO
+1381,Betzdorf,DE
+1382,Beulah,US
+1383,Beverley,GB
+1384,Beverly,US
+1385,Beverly Hills,US
+1386,Beyçayırı,TR
+1387,Beşpınar,TR
+1388,Bhojpur,IN
+1389,Biao,US
+1390,Biała,PL
+1391,Białobrzegi,PL
+1392,Biberbach,DE
+1393,Bicaz,RO
+1394,Bicton,GB
+1395,Bielany,PL
+1396,Bieliny,PL
+1397,Big Bend,US
+1398,Big Lake,US
+1399,Biga,US
+1400,Biggar,GB
+1401,Bijela,ME
+1402,Bilje,HR
+1403,Billings,US
+1404,Billiri,NG
+1405,Bilston,GB
+1406,Bilāspur,IN
+1407,Binhe,
+1408,Binuang,ID
+1409,Birkenfeld,DE
+1410,Birkenhead,GB
+1411,Birr,IE
+1412,Bishnupur,IN
+1413,Bishop,US
+1414,Bishopstone,GB
+1415,Bishopton,GB
+1416,Biskupiec,PL
+1417,Bislig,PH
+1418,Bismarck,US
+1419,Bistra,RO
+1420,Bistrița,RO
+1421,Bixad,RO
+1422,Black Diamond,US
+1423,Black Forest,DE
+1424,Black Mountain,US
+1425,Black River,US
+1426,Black Rock,US
+1427,Blackburn,US
+1428,Blackhawk,US
+1429,Blackheath,GB
+1430,Blackrock,US
+1431,Blacksburg,US
+1432,Blackstone,US
+1433,Blackwater,US
+1434,Blackwell,US
+1435,Blackwood,US
+1436,Blagodatnoye,RU
+1437,Blahodatne,UA
+1438,Blaine,US
+1439,Blair,US
+1440,Blair Athol,GB
+1441,Blairgowrie,GB
+1442,Blairsville,US
+1443,Blakely,US
+1444,Blakstad,NO
+1445,Blancafort,ES
+1446,Blanchard,US
+1447,Blang Ara,ID
+1448,Blankenburg,DE
+1449,Blankenheim,DE
+1450,Bloemendaal,NL
+1451,Bloemhof,ZA
+1452,Blomberg,US
+1453,Bloomfield,US
+1454,Blue Mound,US
+1455,Blue Ridge,US
+1456,Bluefield,US
+1457,Bluefields,NI
+1458,Bluewater,US
+1459,Bluffton,US
+1460,Blăgeşti,RO
+1461,Bo,CA
+1462,Boa Esperança,BR
+1463,Boardman,US
+1464,Boaz,US
+1465,Bobon,US
+1466,Bobota,HR
+1467,Bobrovka,RU
+1468,Bobrowniki,PL
+1469,Boca Chica,DO
+1470,Boca del Monte,MX
+1471,Bocholt,DE
+1472,Bochum,DE
+1473,Bockhorn,DE
+1474,Bocşa,RO
+1475,Bodio,CH
+1476,Bogata,RO
+1477,Bogatoye,KZ
+1478,Bogdana,US
+1479,Bogdăneşti,RO
+1480,Bogen,US
+1481,Bogorodskoye,RU
+1482,Boiling Springs,US
+1483,Bojano,IT
+1484,Bokod,HU
+1485,Bol,US
+1486,Bolesławiec,PL
+1487,Bolivar,US
+1488,Bolivia,BO
+1489,Bolo,CA
+1490,Bolognesi,US
+1491,Bolong,AU
+1492,Bolton,GB
+1493,Bolívar,US
+1494,Bom Jardim,BR
+1495,Bonanza,US
+1496,Bonbon,US
+1497,Bondeno,IT
+1498,Bondo,US
+1499,Bonga,US
+1500,Bonifacio,US
+1501,Bonito,US
+1502,Bonnyrigg,GB
+1503,Bono,US
+1504,Bonpland,VE
+1505,Bonstetten,CH
+1506,Bontoc,PH
+1507,Boone,US
+1508,Booneville,US
+1509,Boonville,US
+1510,Boos,US
+1511,Boquerón,PR
+1512,Borba,US
+1513,Borbon,PH
+1514,Borca,RS
+1515,Boreham,US
+1516,Borek,
+1517,Borger,US
+1518,Borgo,US
+1519,Borken,DE
+1520,Born,US
+1521,Borne,US
+1522,Bornheim,DE
+1523,Borodino,RU
+1524,Borova,UA
+1525,Borovo,HR
+1526,Borovoy,US
+1527,Borşa,RO
+1528,Bosia,IT
+1529,Bottesford,GB
+1530,Boulder,US
+1531,Bourbon,US
+1532,Boureni,RO
+1533,Bourg,US
+1534,Bourne,US
+1535,Bous,DE
+1536,Boves,US
+1537,Bowdon,US
+1538,Bowie,US
+1539,Boxberg,DE
+1540,Boyton,US
+1541,Bozhou,CN
+1542,Bozkurt,TR
+1543,Bozova,TR
+1544,Boztepe,TR
+1545,Boţeşti,RO
+1546,Bradbury,US
+1547,Bradfield,US
+1548,Bradford,GB
+1549,Bradley,US
+1550,Bradu,RO
+1551,Bradwell,US
+1552,Bragadiru,RO
+1553,Braidwood,US
+1554,Brakel,BE
+1555,Bramley,GB
+1556,Brampton,CA
+1557,Brand,US
+1558,Braniştea,RO
+1559,Braniștea,RO
+1560,Brax,US
+1561,Bray,IE
+1562,Breaza,RO
+1563,Breckenridge,US
+1564,Breda,NL
+1565,Breese,US
+1566,Breitbrunn,DE
+1567,Breitenbach,US
+1568,Breitenbrunn,AT
+1569,Bremen,DE
+1570,Brenna,PL
+1571,Breteuil,FR
+1572,Breuillet,FR
+1573,Brevik,US
+1574,Brewster,US
+1575,Briceni,MD
+1576,Briceño,CO
+1577,Bridge City,US
+1578,Bridgeton,US
+1579,Bridgetown,BB
+1580,Bridgeville,US
+1581,Bridgewater,US
+1582,Bridport,GB
+1583,Brielle,NL
+1584,Bright,US
+1585,Brimfield,US
+1586,Brione,CH
+1587,Brisbane,AU
+1588,Britz,US
+1589,Brixton,US
+1590,Broadview,US
+1591,Broadwater,US
+1592,Broadway,US
+1593,Broby,SE
+1594,Brodhead,US
+1595,Brodnica,PL
+1596,Brody,PL
+1597,Broken Bow,US
+1598,Brompton,US
+1599,Bronson,US
+1600,Bronte,US
+1601,Brookdale,US
+1602,Brooke,US
+1603,Brookhaven,US
+1604,Brookings,US
+1605,Brookline,US
+1606,Brooklyn,US
+1607,Brooklyn Heights,US
+1608,Brooklyn Park,US
+1609,Brooks,US
+1610,Brookside,US
+1611,Brooksville,US
+1612,Brookville,US
+1613,Broughton,US
+1614,Brownfield,US
+1615,Brownstown,US
+1616,Brownville,US
+1617,Broşteni,RO
+1618,Broșteni,RO
+1619,Bruce,US
+1620,Bruckberg,DE
+1621,Brunn,DE
+1622,Brunna,SE
+1623,Brussels,BE
+1624,Brusturi,RO
+1625,Bryan,US
+1626,Bryant,US
+1627,Bryn Mawr,US
+1628,Brzeziny,PL
+1629,Brzeźnica,PL
+1630,Brójce,PL
+1631,Brücken,DE
+1632,Brüggen,DE
+1633,Brühl,DE
+1634,Brădeşti,RO
+1635,Brăeşti,RO
+1636,Brăneşti,RO
+1637,Brătești,RO
+1638,Bual,US
+1639,Bualan,
+1640,Buan,KR
+1641,Buayan,PH
+1642,Bucak,TR
+1643,Buch,DE
+1644,Bucha,US
+1645,Buchanan,US
+1646,Buchbach,AT
+1647,Buchholz,US
+1648,Buchs,CH
+1649,Bucium,RO
+1650,Buciumeni,RO
+1651,Buciumi,RO
+1652,Buckingham,US
+1653,Buckley,US
+1654,Buckner,US
+1655,Buckow,DE
+1656,Bucovăţ,MD
+1657,Bucşani,RO
+1658,Buda,US
+1659,Bude,GB
+1660,Budeşti,RO
+1661,Budești,RO
+1662,Budrio,IT
+1663,Budzów,PL
+1664,Bued,PH
+1665,Buena Vista,US
+1666,Buenlag,PH
+1667,Buenos Aires,AR
+1668,Buga,CO
+1669,Bugat,MN
+1670,Bughea de Jos,RO
+1671,Buhl,US
+1672,Buinsk,RU
+1673,Bujoreni,RO
+1674,Bukal,CA
+1675,Bula,US
+1676,Bulacan,PH
+1677,Bulag,RU
+1678,Bulalacao,PH
+1679,Bulgan,MN
+1680,Bulihan,PH
+1681,Bully,US
+1682,Bulu,US
+1683,Buluang,PH
+1684,Bunbury,AU
+1685,Bunde,DE
+1686,Buneşti,RO
+1687,Bunga,US
+1688,Bungoma,KE
+1689,Bunker Hill,US
+1690,Burford,GB
+1691,Burg,US
+1692,Burgau,PT
+1693,Burgdorf,US
+1694,Burgfried,AT
+1695,Burias,PH
+1696,Burke,US
+1697,Burla,US
+1698,Burley,US
+1699,Burnham,US
+1700,Burns,US
+1701,Burnside,US
+1702,Burnsville,US
+1703,Burqah,
+1704,Burrington,GB
+1705,Burton,US
+1706,Burwell,US
+1707,Burwood,AU
+1708,Bury,GB
+1709,Busby,US
+1710,Bushnell,US
+1711,Bustamante,MX
+1712,Butler,US
+1713,Butte,US
+1714,Buxton,US
+1715,Buyant,MN
+1716,Buyo,
+1717,Bykovo,RU
+1718,Byram,US
+1719,Byron,US
+1720,Bystra,PL
+1721,Băbeni,RO
+1722,Bălteni,RO
+1723,Băneasa,RO
+1724,Bărcăneşti,RO
+1725,Březnice,CZ
+1726,Březová,CZ
+1727,Cabadiangan,PH
+1728,Cabana,US
+1729,Cabanbanan,PH
+1730,Cabanes,ES
+1731,Cabangahan,PH
+1732,Cabano,CA
+1733,Cabatuan,PH
+1734,Cabay,US
+1735,Cabañas,US
+1736,Cabra,US
+1737,Cabrera,US
+1738,Cabrero,CL
+1739,Cabugao,PH
+1740,Cabuya,CR
+1741,Cacao,US
+1742,Cachipay,CO
+1743,Cachoeirinha,BR
+1744,Cactus,US
+1745,Cadereyta,MX
+1746,Cadillac,US
+1747,Cagny,US
+1748,Caimito,CU
+1749,Cairo,EG
+1750,Cajamarca,PE
+1751,Cala,US
+1752,Calaba,US
+1753,Calais,FR
+1754,Calamar,CO
+1755,Calamba,PH
+1756,Calape,PH
+1757,Caldwell,US
+1758,Caledonia,US
+1759,Calheta,PT
+1760,California,US
+1761,Calumpang,PH
+1762,Calverton,US
+1763,Calzada Larga,PA
+1764,Camajuaní,CU
+1765,Camden,US
+1766,Cameron,US
+1767,Cameron Park,US
+1768,Campbell,US
+1769,Campbelltown,AU
+1770,Camperdown,AU
+1771,Campiglione,IT
+1772,Campo,US
+1773,Campo Grande,BR
+1774,Campo Largo,BR
+1775,Campo Maior,PT
+1776,Canalete,CO
+1777,Canals,US
+1778,Canby,US
+1779,Candela,US
+1780,Canelas,US
+1781,Canneto,IT
+1782,Canoas,BR
+1783,Cantagallo,IT
+1784,Cantanhede,PT
+1785,Cantel,US
+1786,Canterbury,GB
+1787,Cantley,CA
+1788,Cantoria,ES
+1789,Canyon Lake,US
+1790,Capitanejo,CO
+1791,Capula,MX
+1792,Carbondale,US
+1793,Carboneras,ES
+1794,Cardington,US
+1795,Cardona,ES
+1796,Carignan,CA
+1797,Carleton,US
+1798,Carlingford,IE
+1799,Carlton,US
+1800,Carmel,US
+1801,Carmelo,US
+1802,Carmen,US
+1803,Carnegie,US
+1804,Caro,US
+1805,Carona,US
+1806,Carramar,AU
+1807,Carrara,IT
+1808,Carriedo,PH
+1809,Carrillo Puerto,MX
+1810,Carrington,US
+1811,Carson,US
+1812,Carthage,TN
+1813,Carver,US
+1814,Casa Blanca,US
+1815,Casa Grande,US
+1816,Casa Quemada,HN
+1817,Casale,US
+1818,Casay,PH
+1819,Cascade,US
+1820,Caselle,US
+1821,Caseros,AR
+1822,Casey,US
+1823,Cashmere,US
+1824,Casillas,MX
+1825,Casoli,IT
+1826,Castellane,FR
+1827,Castelletto,IT
+1828,Castelli,US
+1829,Castello,US
+1830,Castelo Branco,PT
+1831,Castiglione,IT
+1832,Castillo,US
+1833,Castle Rock,US
+1834,Castlereagh,GB
+1835,Castletown,IM
+1836,Castlewood,US
+1837,Castries,LC
+1838,Catalina,US
+1839,Catarman,PH
+1840,Catmon,PH
+1841,Cato,US
+1842,Cauayan,PH
+1843,Caux,CH
+1844,Cave City,US
+1845,Cave Spring,US
+1846,Cawayan,PH
+1847,Cañada,CA
+1848,Cañas,CR
+1849,Cañaveral,US
+1850,Cedar Bluff,US
+1851,Cedar Grove,US
+1852,Celina,US
+1853,Centennial Park,US
+1854,Center,US
+1855,Center City,US
+1856,Center Point,US
+1857,Centerfield,US
+1858,Centerport,US
+1859,Central,US
+1860,Central City,US
+1861,Centrale,US
+1862,Centralia,US
+1863,Centreville,US
+1864,Centro de Readaptación Social,MX
+1865,Cepeda,US
+1866,Cerano,US
+1867,Cerna,US
+1868,Cernik,HR
+1869,Cernăteşti,RO
+1870,Cerritos,US
+1871,Cerro Azul,US
+1872,Cerro Gordo,US
+1873,Cervantes,US
+1874,Cesa,US
+1875,Ceuta,ES
+1876,Chala,US
+1877,Chalais,FR
+1878,Chalchihuapan,MX
+1879,Chalco,MX
+1880,Chaloem Phra Kiat,TH
+1881,Cham,DE
+1882,Chama,US
+1883,Chamartín,ES
+1884,Chandler,US
+1885,Changning,CN
+1886,Changsha,CN
+1887,Chang’an,US
+1888,Chantilly,FR
+1889,Chaparral,US
+1890,Chapayevka,RU
+1891,Chapel Hill,US
+1892,Chapman,US
+1893,Charco Blanco,MX
+1894,Charleroi,BE
+1895,Charles City,US
+1896,Charlestown,US
+1897,Charleval,FR
+1898,Charlotte,US
+1899,Charlton,US
+1900,Charmes,FR
+1901,Charny,CA
+1902,Chatsworth,US
+1903,Chavarría,MX
+1904,Chaykino,RU
+1905,Chekhov,US
+1906,Chengguan,CN
+1907,Chengxiang,CN
+1908,Chengzhong,CN
+1909,Cherokee,US
+1910,Cherryville,US
+1911,Chichimequillas,MX
+1912,Chico,US
+1913,Chiesa,US
+1914,Chifley,AU
+1915,Chigwell,GB
+1916,Chihuahua,MX
+1917,Chikhli,IN
+1918,Chilapa,MX
+1919,Chillicothe,US
+1920,Chilón,MX
+1921,China,CN
+1922,China Grove,US
+1923,Chinameca,MX
+1924,Chinautla,GT
+1925,Chinchilla,US
+1926,Chipping Norton,GB
+1927,Chiquilistlán,MX
+1928,Chisholm,US
+1929,Chita,RU
+1930,Chmielnik,PL
+1931,Chom Thong,TH
+1932,Christiana,US
+1933,Chrzanów,PL
+1934,Chula Vista,US
+1935,Chupa,US
+1936,Chuquibamba,PE
+1937,Church Hill,US
+1938,Churchill,US
+1939,Churchville,US
+1940,Chálki,GR
+1941,Châtenois,FR
+1942,Châtillon,FR
+1943,Châu Thành,VN
+1944,Chía,
+1945,Chóra,GR
+1946,Chợ Mới,VN
+1947,Cibitung,ID
+1948,Cicero,US
+1949,Cieneguilla,PE
+1950,Cieneguillas,MX
+1951,Cifuentes,US
+1952,Cinco de Mayo,US
+1953,Cinzano,
+1954,Ciocârlia,RO
+1955,Ciocăneşti,RO
+1956,Cireşu,RO
+1957,Cireșoaia,RO
+1958,Cisneros,US
+1959,Citrus Park,US
+1960,Ciudad Cuauhtémoc,MX
+1961,Ciudad Hidalgo,MX
+1962,Ciuperceni,RO
+1963,Ciwaru,ID
+1964,Clapham,GB
+1965,Clare,US
+1966,Claremont,US
+1967,Clarence Town,US
+1968,Clarendon,US
+1969,Clarin,US
+1970,Clarinda,US
+1971,Clarion,US
+1972,Clark,US
+1973,Clarksburg,US
+1974,Clarkson,US
+1975,Clarkston,US
+1976,Claveria,PH
+1977,Clay,US
+1978,Clay Center,US
+1979,Claydon,GB
+1980,Clear Lake,US
+1981,Clearfield,US
+1982,Clearview,US
+1983,Clearwater,US
+1984,Clermont,US
+1985,Clifford,US
+1986,Clifton Springs,US
+1987,Clio,CA
+1988,Clive,US
+1989,Clontarf,IE
+1990,Cloverdale,US
+1991,Cluny,FR
+1992,Clyde,US
+1993,Clymer,US
+1994,Coal City,US
+1995,Coaldale,US
+1996,Coalville,US
+1997,Coatepec,MX
+1998,Coatepeque,GT
+1999,Cobden,US
+2000,Cocachacra,PE
+2001,Cocal,US
+2002,Cochabamba,BO
+2003,Cochrane,CA
+2004,Cockburn Town,TC
+2005,Coconut Grove,US
+2006,Cocula,US
+2007,Coello,US
+2008,Cofradía,MX
+2009,Cogon,
+2010,Cohasset,US
+2011,Colacu,RO
+2012,Colby,US
+2013,Colca,US
+2014,Colcabamba,PE
+2015,Colchani,BO
+2016,Cold Spring,US
+2017,Coldstream,US
+2018,Coldwater,US
+2019,Coleman,US
+2020,Coleraine,GB
+2021,Colfax,US
+2022,Colinas del Sol,US
+2023,College Park,US
+2024,Collegeville,US
+2025,Collierville,US
+2026,Collingwood,CA
+2027,Collinsville,US
+2028,Colmar,FR
+2029,Cologne,DE
+2030,Colombia,CO
+2031,Colombiers,FR
+2032,Coloneşti,RO
+2033,Colonia,US
+2034,Colonia Cuauhtémoc,MX
+2035,Colonia Doctor Gustavo Baz,MX
+2036,Colonia Emiliano Zapata,MX
+2037,Colonia Felipe Ángeles,MX
+2038,Colonia Guadalupe,MX
+2039,Colonia Juárez,MX
+2040,Colonia Lázaro Cárdenas,MX
+2041,Colonia Morelos,MX
+2042,Colonia Obrera,MX
+2043,Colonia Venustiano Carranza,MX
+2044,Colonia Álvaro Obregón,MX
+2045,Colonial Heights,US
+2046,Colorado City,US
+2047,Colorines,US
+2048,Columbia City,US
+2049,Columbiana,US
+2050,Colwich,US
+2051,Colyton,GB
+2052,Comana,RO
+2053,Comanche,US
+2054,Comano,IT
+2055,Comapa,MX
+2056,Comillas,ES
+2057,Commerce,US
+2058,Como,IT
+2059,Compton,US
+2060,Concepcion,CL
+2061,Concordia,US
+2062,Condon,US
+2063,Conejos,US
+2064,Conrad,US
+2065,Consolacion,PH
+2066,Constancia,MX
+2067,Constantia,ZA
+2068,Constantine,US
+2069,Constitución,MX
+2070,Consuegra,ES
+2071,Consuelo,DO
+2072,Converse,US
+2073,Convoy,US
+2074,Conțești,RO
+2075,Coogee,AU
+2076,Cookstown,GB
+2077,Coombs,CA
+2078,Coon Rapids,US
+2079,Cooper,US
+2080,Cooperstown,US
+2081,Copa,US
+2082,Copacabana,US
+2083,Copala,MX
+2084,Coporaque,PE
+2085,Copăceni,RO
+2086,Corbu,US
+2087,Corcoran,CA
+2088,Corcovado,BR
+2089,Cordon,US
+2090,Cordova,US
+2091,Corella,US
+2092,Corinth,GR
+2093,Corio,AU
+2094,Cornelius,US
+2095,Cornetu,RO
+2096,Corneşti,RO
+2097,Corni,RO
+2098,Corning,US
+2099,Cornville,US
+2100,Cornwall,GB
+2101,Coromandel,NZ
+2102,Coron,PH
+2103,Coronado,US
+2104,Corozal,BZ
+2105,Corpus Christi,US
+2106,Corral Falso,MX
+2107,Corrales,US
+2108,Corte,FR
+2109,Cortes,US
+2110,Cortez,US
+2111,Cortland,US
+2112,Corunna,US
+2113,Corydon,US
+2114,Cosmeşti,RO
+2115,Costeşti,RO
+2116,Costești,RO
+2117,Coswig,DE
+2118,Cotoca,BO
+2119,Cottage Grove,US
+2120,Cottingham,US
+2121,Cottonwood,US
+2122,Country Club,US
+2123,Country Club Estates,US
+2124,Country Club Hills,US
+2125,Countryside,US
+2126,Courtenay,CA
+2127,Covasna,RO
+2128,Covelo,US
+2129,Cowes,GB
+2130,Coxcatlán,MX
+2131,Coyotillos,MX
+2132,Craig,US
+2133,Cranbrook,US
+2134,Crane,US
+2135,Crasna,RO
+2136,Crawfordville,US
+2137,Crawley,GB
+2138,Creighton,US
+2139,Cremorne,AU
+2140,Crescent City,US
+2141,Crest,US
+2142,Crestline,US
+2143,Creston,US
+2144,Crestwood,US
+2145,Creswell,US
+2146,Crete,GR
+2147,Creve Coeur,US
+2148,Crewe,GB
+2149,Crețești,RO
+2150,Cristeşti,RO
+2151,Cristian,US
+2152,Cristo Rey,US
+2153,Cristóbal,PA
+2154,Cristóbal Obregón,MX
+2155,Crivina,RO
+2156,Crocker,US
+2157,Crockett,US
+2158,Croft,US
+2159,Crofton,US
+2160,Cromer,US
+2161,Cromwell,US
+2162,Croom,US
+2163,Crosby,US
+2164,Cross Plains,US
+2165,Crossville,US
+2166,Crowley,US
+2167,Crows Nest,US
+2168,Crucea,RO
+2169,Crumlin,IE
+2170,Cruz Alta,BR
+2171,Cruz Blanca,US
+2172,Crystal City,US
+2173,Crystal Lake,US
+2174,Crystal Springs,US
+2175,Crăiești,RO
+2176,Cuatro Caminos,US
+2177,Cuautitlán,MX
+2178,Cuautla,MX
+2179,Cuba,CU
+2180,Cuca,US
+2181,Cucuieți,RO
+2182,Cuesta Blanca,MX
+2183,Cuichapa,MX
+2184,Culasi,PH
+2185,Cullen,US
+2186,Culloden,GB
+2187,Culver,US
+2188,Currie,US
+2189,Curti,IT
+2190,Curtin,US
+2191,Curug,RS
+2192,Cushing,US
+2193,Cut,US
+2194,Cutler,US
+2195,Cuza Vodă,RO
+2196,Cwm,US
+2197,Czarna,PL
+2198,Czarnocin,PL
+2199,Czermin,PL
+2200,Czernica,PL
+2201,Czernichów,PL
+2202,Czerniewice,PL
+2203,Czerwonka,US
+2204,Cáceres,ES
+2205,Câlnic,RO
+2206,Cândeşti,RO
+2207,Cârţa,RO
+2208,Cénac,FR
+2209,Căianu Mic,RO
+2210,Căldăraru,RO
+2211,Călineşti,RO
+2212,Călinești,RO
+2213,Călugăreni,RO
+2214,Călăraşi,RO
+2215,Căscioarele,RO
+2216,Cătina,RO
+2217,Căzăneşti,RO
+2218,Dabra,IN
+2219,Dachnoye,
+2220,Dagatan,PH
+2221,Dagupan,PH
+2222,Dahlem,US
+2223,Dahme,DE
+2224,Dajç,AL
+2225,Dakota City,US
+2226,Dalby,AU
+2227,Dale,US
+2228,Dalen,NO
+2229,Daleville,US
+2230,Dalheim,LU
+2231,Dali,US
+2232,Daliang,CN
+2233,Dalkeith,GB
+2234,Dalmeny,GB
+2235,Dalton,US
+2236,Damme,BE
+2237,Danbury,US
+2238,Danby,CA
+2239,Dancu,RO
+2240,Danişment,TR
+2241,Danvers,US
+2242,Dao,US
+2243,Dapdap,US
+2244,Dapitan,PH
+2245,Dara,TR
+2246,Darfield,NZ
+2247,Darhan,MN
+2248,Darlington,US
+2249,Darmstadt,DE
+2250,Darrington,US
+2251,Dartmouth,US
+2252,Daru,PG
+2253,Darvi,MN
+2254,Darwin,US
+2255,Darıca,TR
+2256,Dasht-e Qal‘ah,
+2257,Dassel,US
+2258,Dasu,PK
+2259,Date,US
+2260,Daulatpur,BD
+2261,Davenport,US
+2262,Davidson,US
+2263,Davis,US
+2264,Dawson,US
+2265,Daxing,CN
+2266,Dayton,US
+2267,De Kalb,US
+2268,De Soto,US
+2269,De Witt,US
+2270,De la Paz,US
+2271,Dealu,RO
+2272,Deba,ES
+2273,Dedham,US
+2274,Dedulești,RO
+2275,Deerfield,US
+2276,Del Monte,US
+2277,Del Pilar,US
+2278,Del Rio,US
+2279,Delano,US
+2280,Delavan,US
+2281,Delaware,US
+2282,Deleni,RO
+2283,Delhi,IN
+2284,Delicias,US
+2285,Dellwood,US
+2286,Delmar,US
+2287,Deloraine,AU
+2288,Delphi,GR
+2289,Delta,US
+2290,Demirci,TR
+2291,Demirtaş,TR
+2292,Denham,US
+2293,Denison,US
+2294,Denmark,DK
+2295,Denver,US
+2296,Derbent,RU
+2297,Dernbach,DE
+2298,Deville,CA
+2299,Devon,GB
+2300,Dexter,US
+2301,Dezhou,CN
+2302,Değirmendere,TR
+2303,Dhībān,JO
+2304,Diamante,US
+2305,Diamantina,BR
+2306,Diaz,US
+2307,Dickson,US
+2308,Dicle,TR
+2309,Didsbury,GB
+2310,Dieciocho de Marzo,MX
+2311,Diez de Octubre,CU
+2312,Dighton,US
+2313,Dillon,US
+2314,Dingcheng,CN
+2315,Dingle,IE
+2316,Dinnington,GB
+2317,Dios Padre,MX
+2318,Dippach,LU
+2319,Diré,ML
+2320,Discovery Bay,US
+2321,División del Norte,MX
+2322,Dmytrivka,UA
+2323,Doba,US
+2324,Dobra,US
+2325,Dobre,US
+2326,Dobreni,RO
+2327,Dobreşti,RO
+2328,Dobroye,RU
+2329,Dobryanka,RU
+2330,Doddington,GB
+2331,Dodurga,TR
+2332,Doesburg,NL
+2333,Doksy,CZ
+2334,Dolní Újezd,CZ
+2335,Dolo,US
+2336,Dolores Hidalgo,MX
+2337,Domaszowice,PL
+2338,Domingo Pérez,ES
+2339,Don,US
+2340,Donald,US
+2341,Dongcheng,US
+2342,Dongcun,CN
+2343,Dongguan,CN
+2344,Dongling,CN
+2345,Dongmyeon,KR
+2346,Dongnae,KR
+2347,Dongping,CN
+2348,Dongshan,CN
+2349,Dongsheng,CN
+2350,Dongxi,
+2351,Donnington,GB
+2352,Donnybrook,US
+2353,Donskoy,CA
+2354,Donskoye,RU
+2355,Doppl,US
+2356,Dorchester,US
+2357,Dordrecht,NL
+2358,Dorobanţu,RO
+2359,Dorobanți,RO
+2360,Dorobanțu,RO
+2361,Dos Arroyos,AR
+2362,Dos Hermanas,ES
+2363,Dos Ríos,US
+2364,Dosso,NE
+2365,Dowlatābād,IR
+2366,Downton,US
+2367,Doylestown,US
+2368,Dragomireşti,RO
+2369,Dresden,DE
+2370,Druzhba,UA
+2371,Dryden,US
+2372,Drăguşeni,RO
+2373,Drăgăneşti,RO
+2374,Dubki,RU
+2375,Dubrovka,RU
+2376,Dudley,GB
+2377,Dulangan,PH
+2378,Dumbrava,RO
+2379,Dumbrăveni,RO
+2380,Dumbrăviţa,RO
+2381,Dumbrăvița,RO
+2382,Dunbar,US
+2383,Dunkirk,FR
+2384,Dunlap,US
+2385,Durand,US
+2386,Durant,US
+2387,Dzerzhinsk,RU
+2388,Dzuunmod,MN
+2389,Dzüünbulag,MN
+2390,Dâmbovicioara,RO
+2391,Dârvari,RO
+2392,Dürnau,DE
+2393,Dăneşti,RO
+2394,Dărmăneşti,RO
+2395,Dąbie,PL
+2396,Dąbrowa,PL
+2397,Dębno,PL
+2398,Dębowiec,PL
+2399,Eagle,US
+2400,Eagle Lake,US
+2401,Eagle Mountain,US
+2402,Eagle Point,US
+2403,Eagle River,US
+2404,Earlston,GB
+2405,Earlville,US
+2406,Easington,GB
+2407,East Cleveland,US
+2408,East End,US
+2409,East Hampton,US
+2410,East Hills,US
+2411,East York,CA
+2412,Eastchester,US
+2413,Eastleigh,GB
+2414,Eastport,US
+2415,Eaton,CA
+2416,Eatonville,US
+2417,Ebenthal,AT
+2418,Ebersbach,DE
+2419,Ebersdorf,DE
+2420,Eccleston,US
+2421,Eching,DE
+2422,Eden,US
+2423,Edgerton,US
+2424,Edgewood,US
+2425,Edinburg,US
+2426,Edmonton,CA
+2427,Edwardsville,US
+2428,Eglinton,CA
+2429,Eisenberg,DE
+2430,Eisingen,DE
+2431,Ejby,DK
+2432,El Alto,BO
+2433,El Arenal,ES
+2434,El Bajío,US
+2435,El Cacao,US
+2436,El Capulín,MX
+2437,El Carmen,US
+2438,El Castillo,US
+2439,El Colorado,AR
+2440,El Dorado,US
+2441,El Durazno,AR
+2442,El Espinal,CO
+2443,El Espino,US
+2444,El Fuerte,MX
+2445,El Guayabito,MX
+2446,El Higo,MX
+2447,El Jazmín,US
+2448,El Jicaral,NI
+2449,El Jobo,US
+2450,El Limón,US
+2451,El Llano,US
+2452,El Maguey,US
+2453,El Mirador,US
+2454,El Molino,US
+2455,El Naranjo,US
+2456,El Obraje,MX
+2457,El Palmar,US
+2458,El Paraíso,US
+2459,El Paso,US
+2460,El Peñón,CO
+2461,El Pino,US
+2462,El Plan,US
+2463,El Porvenir,US
+2464,El Potrero,US
+2465,El Progreso,US
+2466,El Pueblito,US
+2467,El Puerto,US
+2468,El Rancho,US
+2469,El Refugio,US
+2470,El Rincón,US
+2471,El Roble,US
+2472,El Rodeo,US
+2473,El Rosario,MX
+2474,El Salitre,US
+2475,El Salvador,SV
+2476,El Silencio,US
+2477,El Socorro,VE
+2478,El Tablón,MX
+2479,El Tambo,US
+2480,El Tejar,GT
+2481,El Tejocote,US
+2482,El Tequesquite,MX
+2483,El Terrero,MX
+2484,El Tigre,US
+2485,El Toro,US
+2486,El Tortuguero,NI
+2487,El Triunfo,US
+2488,El Tránsito,NI
+2489,El Tular,GT
+2490,El Tule,US
+2491,El Venado,US
+2492,El Verde,US
+2493,El Vergel,MX
+2494,El Zapote,GT
+2495,El Águila,US
+2496,Elbeyli,TR
+2497,Elderslie,US
+2498,Eldorado,US
+2499,Eldridge,US
+2500,Elena,CA
+2501,Eleoúsa,GR
+2502,Elexalde,ES
+2503,Elizabeth,US
+2504,Elizabethtown,US
+2505,Elk Point,US
+2506,Elkhart,US
+2507,Elkhorn,US
+2508,Elkins,US
+2509,Elkton,US
+2510,Ellisville,US
+2511,Ellsworth,US
+2512,Elmenhorst,DE
+2513,Elmore,US
+2514,Elmwood,US
+2515,Elroy,US
+2516,Elsdorf,DE
+2517,Elsmere,US
+2518,Eltham,GB
+2519,Elton,US
+2520,Elwood,US
+2521,Ely,US
+2522,Elze,DE
+2523,Enfield,US
+2524,Ennery,FR
+2525,Epsom,GB
+2526,Epworth,US
+2527,Erlenbach,CH
+2528,Esch,LU
+2529,Eschau,FR
+2530,Eschenbach,US
+2531,Escuintla,GT
+2532,Esmeralda,US
+2533,Esperance,AU
+2534,Esquipulas,GT
+2535,Essex,GB
+2536,Estancia,US
+2537,Estanzuela,MX
+2538,Etna,IT
+2539,Eureka,US
+2540,Evandale,US
+2541,Evanston,US
+2542,Evansville,US
+2543,Evciler,TR
+2544,Evergreen,US
+2545,Evren,US
+2546,Ex-Hacienda de Guadalupe,MX
+2547,Exeter,US
+2548,Exmouth,GB
+2549,Exton,US
+2550,Extrema,US
+2551,Eşme,TR
+2552,Factoryville,US
+2553,Fair Haven,US
+2554,Fair Oaks,US
+2555,Fairbury,US
+2556,Fairdale,US
+2557,Fairfax,US
+2558,Fairfield Heights,US
+2559,Fairhope,US
+2560,Fairland,US
+2561,Fairlawn,US
+2562,Fairlight,US
+2563,Fairmont,US
+2564,Fairmount,US
+2565,Fairview,US
+2566,Fairview Park,US
+2567,Fairwood,US
+2568,Falkenberg,SE
+2569,Falkenstein,DE
+2570,Fall River,US
+2571,Falls Creek,US
+2572,Falmouth,US
+2573,Fanano,IT
+2574,Farah,CA
+2575,Farley,US
+2576,Farmersville,US
+2577,Farmingdale,US
+2578,Farmville,US
+2579,Farnborough,GB
+2580,Farndon,GB
+2581,Farnham,GB
+2582,Farrukhnagar,IN
+2583,Favara,IT
+2584,Fayette,US
+2585,Featherstone,US
+2586,Felipe Carrillo Puerto,MX
+2587,Felsberg,DE
+2588,Felton,US
+2589,Fengcheng,CN
+2590,Fenghuang,CN
+2591,Fengshan,TW
+2592,Fengtai,CN
+2593,Fengyi,US
+2594,Fengzhou,US
+2595,Fenton,US
+2596,Fenwick,US
+2597,Ferreira,CA
+2598,Ferreiros,ES
+2599,Ferriere,IT
+2600,Ferrol,ES
+2601,Fierzë,AL
+2602,Filadelfia,US
+2603,Fillmore,US
+2604,Fincastle,US
+2605,Findon,GB
+2606,Finley,US
+2607,Fischbach,DE
+2608,Fisher,US
+2609,Flat Rock,US
+2610,Flemington,US
+2611,Fletcher,US
+2612,Fleury,CA
+2613,Floing,FR
+2614,Flora,US
+2615,Flores,US
+2616,Floresta,US
+2617,Floreşti,RO
+2618,Floridablanca,CO
+2619,Fogliano,IT
+2620,Folsom,US
+2621,Fonfría,ES
+2622,Forest,US
+2623,Forest City,US
+2624,Forest Hill,US
+2625,Forestdale,US
+2626,Forestville,US
+2627,Fornaci,IT
+2628,Forsyth,US
+2629,Fort Lee,US
+2630,Fortuna,US
+2631,Fowler,US
+2632,Fram,US
+2633,Francheville,FR
+2634,Francisco I. Madero,MX
+2635,Francisco Sarabia,MX
+2636,Francisco Villa,US
+2637,Frankenstein,US
+2638,Frankenthal,DE
+2639,Franklin Park,US
+2640,Franklinton,US
+2641,Franklinville,US
+2642,Frankston,US
+2643,Fraser,US
+2644,Frauenstein,DE
+2645,Frecăţei,RO
+2646,Frederick,US
+2647,Fredericksburg,US
+2648,Fredericktown,US
+2649,Frederiksberg,DK
+2650,Fredonia,US
+2651,Freedom,US
+2652,Freeland,US
+2653,Freetown,SL
+2654,Freiburg,DE
+2655,Frenchtown,US
+2656,Frenchville,US
+2657,Freshwater,US
+2658,Freudenberg,US
+2659,Frickenhausen,DE
+2660,Friedersdorf,DE
+2661,Friedewald,DE
+2662,Friedland,US
+2663,Friedrichstadt,DE
+2664,Friendship,US
+2665,Fruitland,US
+2666,Frumoasa,RO
+2667,Frías,ES
+2668,Fucheng,CN
+2669,Fuencaliente,ES
+2670,Fullerton,US
+2671,Fulton,US
+2672,Fundeni,RO
+2673,Funes,MX
+2674,Fântânele,RO
+2675,Fürstenberg,DE
+2676,Fürth,DE
+2677,Făgetu,RO
+2678,Gabao,GA
+2679,Gabi,US
+2680,Galatás,GR
+2681,Galeana,US
+2682,Galena,US
+2683,Gallo,US
+2684,Galveston,US
+2685,Gamba,TD
+2686,Gambara,IT
+2687,Gambo,CA
+2688,Gamut,US
+2689,Ganado,US
+2690,Gandorhun,SL
+2691,Gandra,PT
+2692,Gandusari,ID
+2693,Gangdong,KR
+2694,Ganges,IN
+2695,Gap,US
+2696,Garachico,ES
+2697,Gardendale,US
+2698,Garfield,US
+2699,Gargallo,US
+2700,Garko,NG
+2701,Garland,US
+2702,Garner,US
+2703,Garrett,US
+2704,Garrison,US
+2705,Gartenstadt,DE
+2706,Gaspar,US
+2707,Gaston,US
+2708,Gateshead,GB
+2709,Gatesville,US
+2710,Gateway,US
+2711,Gattendorf,AT
+2712,Gay,US
+2713,Gaylord,US
+2714,Gaziler,TR
+2715,Gazzo,MX
+2716,General Alvear,AR
+2717,General Luna,US
+2718,Geneva,CH
+2719,Genoa,IT
+2720,Gheorghe Doja,RO
+2721,Giehun,SL
+2722,Gierałtowice,PL
+2723,Gifford,US
+2724,Gilbert,US
+2725,Gilford,US
+2726,Gillingham,GB
+2727,Gilowice,PL
+2728,Girard,US
+2729,Girraween,AU
+2730,Gisborne,NZ
+2731,Glandorf,US
+2732,Glanegg,AT
+2733,Glasgow,GB
+2734,Glashütten,DE
+2735,Glastonbury,US
+2736,Glen Alpine,US
+2737,Glen Iris,US
+2738,Glen Rock,US
+2739,Glencoe,US
+2740,Glendora,US
+2741,Gleneagle,US
+2742,Glenfield,US
+2743,Glenroy,US
+2744,Glenside,US
+2745,Glenview,US
+2746,Glenville,US
+2747,Glenwood,US
+2748,Glina,HR
+2749,Glodeni,MD
+2750,Glubokiy,RU
+2751,Glubokoye,BY
+2752,Gmünd,AT
+2753,Gobindpur,IN
+2754,Goddard,US
+2755,Godo,US
+2756,Gogoşu,RO
+2757,Goldbach,CA
+2758,Golden,US
+2759,Golden Beach,US
+2760,Golden Grove,US
+2761,Golden Valley,US
+2762,Golem,US
+2763,Golfo Aranci,IT
+2764,Golina,PL
+2765,Goma,CD
+2766,Gombe,NG
+2767,Gondang,
+2768,Gondomar,PT
+2769,Gonzaga,US
+2770,Gonzales,US
+2771,González,US
+2772,Good Hope,US
+2773,Goodland,US
+2774,Goodman,US
+2775,Goodwood,US
+2776,Gopālpur,IN
+2777,Gordon,US
+2778,Gordonsville,US
+2779,Gorga,US
+2780,Gorgota,RO
+2781,Gorham,US
+2782,Gorman,US
+2783,Gorno Orizari,MK
+2784,Gornozavodsk,RU
+2785,Gornyak,RU
+2786,Gornyy,RU
+2787,Gorodishche,RU
+2788,Gorzyce,PL
+2789,Goshen,US
+2790,Gossau,CH
+2791,Gostyń,PL
+2792,Gotha,DE
+2793,Goulds,US
+2794,Govindgarh,IN
+2795,Grabovci,RS
+2796,Graceville,US
+2797,Gradec,HR
+2798,Grado,US
+2799,Grafenau,DE
+2800,Grafhorst,NL
+2801,Grafton,US
+2802,Graham,US
+2803,Granados,US
+2804,Granby,US
+2805,Grand Forks,US
+2806,Grand Rapids,US
+2807,Grandview,US
+2808,Graneros,CL
+2809,Grange,US
+2810,Granger,US
+2811,Granite,US
+2812,Granite Falls,US
+2813,Graniteville,US
+2814,Grant,US
+2815,Grant City,US
+2816,Grantham,US
+2817,Grantsville,US
+2818,Granville,US
+2819,Grasmere,GB
+2820,Gravenhurst,CA
+2821,Gray,US
+2822,Grayson,US
+2823,Graysville,US
+2824,Grazhdanka,
+2825,Gračanica,
+2826,Greci,IT
+2827,Greeley,US
+2828,Green,US
+2829,Green Level,US
+2830,Green Valley,US
+2831,Greenacres,US
+2832,Greenbriar,US
+2833,Greenbrier,US
+2834,Greencastle,US
+2835,Greendale,US
+2836,Greene,US
+2837,Greenfields,US
+2838,Greenhill,US
+2839,Greenhills,US
+2840,Greenland,GL
+2841,Greenock,GB
+2842,Greensboro,US
+2843,Greensburg,US
+2844,Greentown,US
+2845,Greenup,US
+2846,Greenvale,US
+2847,Greenwich,GB
+2848,Gregorio Méndez,MX
+2849,Gregory,US
+2850,Grenay,FR
+2851,Gretna,US
+2852,Greytown,NZ
+2853,Gridley,US
+2854,Gries,DE
+2855,Griffin,US
+2856,Grigny,FR
+2857,Grimston,GB
+2858,Grindu,RO
+2859,Griviţa,RO
+2860,Groesbeck,US
+2861,Grojec,PL
+2862,Gronau,DE
+2863,Groningen,NL
+2864,Groton,US
+2865,Grove,US
+2866,Grove City,US
+2867,Groveland,US
+2868,Groveton,US
+2869,Grozeşti,MD
+2870,Grădinari,RO
+2871,Grădiştea,RO
+2872,Guacamayas,US
+2873,Guadalcázar,MX
+2874,Guadalupe Hidalgo,MX
+2875,Guadalupe Victoria,MX
+2876,Guadarrama,ES
+2877,Guamal,CO
+2878,Guamúchil,MX
+2879,Guangming,US
+2880,Guangrao,CN
+2881,Guaranda,EC
+2882,Guarumal,PA
+2883,Guayabal,CO
+2884,Guayabito,MX
+2885,Guerrero,MX
+2886,Guia,PT
+2887,Guildford,GB
+2888,Guilford,US
+2889,Guisguis,PH
+2890,Guixi,CN
+2891,Gulfport,US
+2892,Gulia,US
+2893,Gulod,PH
+2894,Gulou,CN
+2895,Gunbuk,KR
+2896,Gundelfingen,DE
+2897,Gundelsheim,DE
+2898,Gunjur,IN
+2899,Gunnison,US
+2900,Gunseo,
+2901,Gunter,US
+2902,Gura Văii,RO
+2903,Guraidhoo,MV
+2904,Gur’yevsk,RU
+2905,Gutenberg,
+2906,Guthrie,US
+2907,Gutiérrez Zamora,MX
+2908,Guttenberg,US
+2909,Guyang,CN
+2910,Guyong,PH
+2911,Gwaram,NG
+2912,Gálvez,US
+2913,Géfyra,GR
+2914,Génova,IT
+2915,Gómez Farías,MX
+2916,Góra,US
+2917,Górno,PL
+2918,Górzno,PL
+2919,Gökdere,TR
+2920,Göktepe,TR
+2921,Gölbaşı,TR
+2922,Gölcük,TR
+2923,Gölova,TR
+2924,Gönen,TR
+2925,Göynük,TR
+2926,Gündoğdu,TR
+2927,Gürpınar,TR
+2928,Güzelsu,TR
+2929,Găneasa,RO
+2930,Găvănești,RO
+2931,Głuchów,PL
+2932,Gūdūr,IN
+2933,Haag,NL
+2934,Habach,US
+2935,Hackberry,US
+2936,Haddenham,GB
+2937,Hadleigh,GB
+2938,Hadley,US
+2939,Hagen,US
+2940,Hagerstown,US
+2941,Hagonoy,PH
+2942,Haibach,DE
+2943,Haicheng,CN
+2944,Haimen,CN
+2945,Haiming,AT
+2946,Haina,DO
+2947,Haldenwang,DE
+2948,Halfweg,NL
+2949,Hallam,US
+2950,Hallsville,US
+2951,Halstead,US
+2952,Halton,CA
+2953,Hamburg,DE
+2954,Hamlin,US
+2955,Hamm,DE
+2956,Hampden,US
+2957,Hampstead,US
+2958,Hanceville,US
+2959,Hancock,US
+2960,Hanyuan,CN
+2961,Happy Valley,US
+2962,Har-Us,MN
+2963,Harburg,DE
+2964,Hardin,US
+2965,Hardwick,US
+2966,Haren,DE
+2967,Haripur,PK
+2968,Harlan,US
+2969,Harlem,US
+2970,Harnai,PK
+2971,Haro,US
+2972,Harper,US
+2973,Harriman,US
+2974,Harrington,US
+2975,Harrington Park,US
+2976,Harrisburg,US
+2977,Harrisonburg,US
+2978,Harristown,US
+2979,Harrisville,US
+2980,Harrogate,GB
+2981,Hart,US
+2982,Hartenstein,US
+2983,Hartford,US
+2984,Hartheim,AT
+2985,Harthill,GB
+2986,Hartley,US
+2987,Hartmannsdorf,DE
+2988,Hartsville,US
+2989,Hartville,US
+2990,Hartwell,US
+2991,Harvard,US
+2992,Harwich,US
+2993,Hasanpur,IN
+2994,Haselbach,DE
+2995,Haskell,US
+2996,Hasköy,TR
+2997,Hasselt,BE
+2998,Hatfield,US
+2999,Hatten,DE
+3000,Hattenhofen,DE
+3001,Hatton,US
+3002,Hausen,DE
+3003,Hauterive,CH
+3004,Havana,CU
+3005,Haven,US
+3006,Hawarden,US
+3007,Hawley,US
+3008,Haworth,US
+3009,Hawthorn,US
+3010,Hay,US
+3011,Hayden,US
+3012,Hayes,US
+3013,Hayesville,US
+3014,Hayfield,US
+3015,Haymarket,US
+3016,Hays,US
+3017,Hayti,US
+3018,Hayward,US
+3019,Hazel Green,US
+3020,Hazelwood,US
+3021,Hazen,US
+3022,Hazlehurst,US
+3023,Healy,US
+3024,Heath,US
+3025,Heathcote,AU
+3026,Hebron,
+3027,Hechuan,CN
+3028,Hedersleben,DE
+3029,Heide,DE
+3030,Heiden,US
+3031,Heidenau,DE
+3032,Heighington,GB
+3033,Heimbach,DE
+3034,Hekou,CN
+3035,Helensburgh,GB
+3036,Helland,GB
+3037,Hem,US
+3038,Hemmingen,DE
+3039,Hempstead,US
+3040,Hendersonville,US
+3041,Hengelo,NL
+3042,Hengshui,CN
+3043,Heping,TW
+3044,Heringen,DE
+3045,Heritage Lake,US
+3046,Hermenegildo Galeana,MX
+3047,Hermitage,US
+3048,Hermosillo,MX
+3049,Hermsdorf,DE
+3050,Hernando,US
+3051,Hernani,ES
+3052,Herne,DE
+3053,Herne Hill,GB
+3054,Hernández,US
+3055,Herrera,US
+3056,Herten,DE
+3057,Hertford,GB
+3058,Herálec,CZ
+3059,Hestra,US
+3060,Heusden,NL
+3061,Heywood,CA
+3062,Hiawatha,US
+3063,Hickman,US
+3064,Hickory Creek,US
+3065,Hickory Hills,US
+3066,Hicksville,US
+3067,Hida,US
+3068,Hidalgo,US
+3069,Hidrolândia,BR
+3070,Higashiyamato,JP
+3071,High Point,US
+3072,High Wycombe,GB
+3073,Highgate,US
+3074,Highland Heights,US
+3075,Highland Park,US
+3076,Highlands,US
+3077,Higueras,MX
+3078,Hilbert,US
+3079,Hill,US
+3080,Hillcrest,US
+3081,Hilliard,US
+3082,Hillsboro,US
+3083,Hillsborough,US
+3084,Hillsdale,US
+3085,Hilton,US
+3086,Hinckley,US
+3087,Hingham,US
+3088,Hinsdale,US
+3089,Hinton,US
+3090,Hiram,US
+3091,Hirschbach,US
+3092,Hirschfeld,DE
+3093,Hisar,IN
+3094,Hita,JP
+3095,Hittarp,SE
+3096,Hlohovec,SK
+3097,Hobo,US
+3098,Hochdorf,CH
+3099,Hochfelden,FR
+3100,Hoeven,NL
+3101,Hof,US
+3102,Hofstetten,DE
+3103,Hohenau,PY
+3104,Hohentengen,DE
+3105,Hokuto,JP
+3106,Hol,NO
+3107,Holbrook,US
+3108,Holcomb,US
+3109,Holden,US
+3110,Holland,NL
+3111,Holley,US
+3112,Hollis,US
+3113,Hollister,US
+3114,Hollola,FI
+3115,Holly Hill,US
+3116,Holly Springs,US
+3117,Holsworthy,GB
+3118,Holt,US
+3119,Holtville,US
+3120,Holyoke,US
+3121,Holzheim,DE
+3122,Homberg,DE
+3123,Homburg,DE
+3124,Homer,US
+3125,Homestead,US
+3126,Hometown,US
+3127,Hongor,MN
+3128,Hook,US
+3129,Hope,US
+3130,Hope Valley,US
+3131,Hopewell,US
+3132,Hopkins,US
+3133,Hopkinton,US
+3134,Horia,RO
+3135,Horn,US
+3136,Horodyshche,UA
+3137,Horsham,US
+3138,Horsley,US
+3139,Horta,PT
+3140,Horton,US
+3141,Hostomice,CZ
+3142,Hot,US
+3143,Hot Springs,US
+3144,Houghton,US
+3145,Houston,US
+3146,Hov,US
+3147,Hovd,MN
+3148,Hove,GB
+3149,Howard,US
+3150,Hoxie,US
+3151,Hranice,CZ
+3152,Hrádek,CZ
+3153,Huajúmbaro,MX
+3154,Huallanca,PE
+3155,Huambo,AO
+3156,Huancabamba,PE
+3157,Huanggang,CN
+3158,Huangshan,CN
+3159,Huangzhuang,
+3160,Huaripampa,PE
+3161,Huata,US
+3162,Huayang,US
+3163,Huayuan,DE
+3164,Hubbard,US
+3165,Hudson,US
+3166,Hugo,US
+3167,Humboldt,US
+3168,Hunter,US
+3169,Huntingdon,US
+3170,Hurley,US
+3171,Huron,
+3172,Husum,DE
+3173,Hyannis,US
+3174,Hyde,US
+3175,Hyde Park,US
+3176,Hythe,GB
+3177,Hòa Bình,VN
+3178,Hölö,SE
+3179,Höshööt,
+3180,Højby,DK
+3181,Hüremt,MN
+3182,Iacobeni,RO
+3183,Ianca,RO
+3184,Iazu,RO
+3185,Iba,US
+3186,Ibarra,EC
+3187,Ifon,NG
+3188,Ifrane,MA
+3189,Iglesias,US
+3190,Ignacio Allende,MX
+3191,Ignacio Ramírez,MX
+3192,Ignacio Zaragoza,MX
+3193,Ilaya,US
+3194,Iluka,US
+3195,Ilıca,TR
+3196,Il’inskoye,RU
+3197,Imelda,US
+3198,Imeni Vorovskogo,RU
+3199,Ina,US
+3200,Independencia,BR
+3201,Independenţa,RO
+3202,Indian Head,US
+3203,Indian Hills,US
+3204,Indianola,US
+3205,Ineu,RO
+3206,Ingenio,US
+3207,Inverness,GB
+3208,Inwood,US
+3209,Ipil,PH
+3210,Ipswich,GB
+3211,Irig,US
+3212,Irsch,DE
+3213,Irvington,US
+3214,Irwin,US
+3215,Isla,US
+3216,Islaz,RO
+3217,Islington,GB
+3218,Isnos,CO
+3219,Istok,
+3220,Itaporanga,BR
+3221,Itasca,US
+3222,Ithaca,US
+3223,Iturbide,MX
+3224,Ituzaingó,AR
+3225,Itéa,GR
+3226,Ivanhoe,US
+3227,Ivanivka,UA
+3228,Ivanovka,AZ
+3229,Ivanovo,RU
+3230,Ivanovskoye,RU
+3231,Ivanteyevka,RU
+3232,Iveşti,RO
+3233,Iwade,GB
+3234,Ixcatla,MX
+3235,Ixtapa,MX
+3236,Ixtepec,MX
+3237,Ixtlahuaca,MX
+3238,Iza,MX
+3239,Izmaylovo,RU
+3240,Izobil’noye,
+3241,Izumisano,JP
+3242,Izvoare,RO
+3243,Izvoarele,RO
+3244,Izvoru,RO
+3245,Işıklar,TR
+3246,Jaba‘,US
+3247,Jabłonka,PL
+3248,Jabłonna,PL
+3249,Jacksboro,US
+3250,Jahānābād,IN
+3251,Jalaud,PH
+3252,Jamaica,JM
+3253,Janesville,US
+3254,Jargalant,MN
+3255,Jasienica,PL
+3256,Jasień,PL
+3257,Jasper,US
+3258,Javier,US
+3259,Javier Rojo Gómez,MX
+3260,Jefferson,US
+3261,Jeffersonville,US
+3262,Jericho,
+3263,Jericó,CO
+3264,Jerome,US
+3265,Jesenice,SI
+3266,Jesús del Monte,MX
+3267,Jiangkou,CN
+3268,Jilotzingo,MX
+3269,Jiménez,US
+3270,Jinchang,CN
+3271,Jinchuan,CN
+3272,Jindalee,AU
+3273,Jingyang,CN
+3274,Jingzhou,CN
+3275,Jinhe,CN
+3276,Jinhua,CN
+3277,Jinping,US
+3278,Jinshan,TW
+3279,Jinshi,CN
+3280,Ji’an,CN
+3281,Joaquín Miguel Gutiérrez,MX
+3282,Jodłówka,PL
+3283,Johnson,US
+3284,Johnson City,US
+3285,Johnstown,US
+3286,Jonesboro,US
+3287,Jonestown,US
+3288,Jonesville,US
+3289,Jordan,JO
+3290,José María Morelos,MX
+3291,José María Morelos y Pavón,MX
+3292,José María Pino Suárez,MX
+3293,Jovellar,PH
+3294,Juanacatlán,MX
+3295,Junction,US
+3296,Junction City,US
+3297,Juneau,US
+3298,Juru,BR
+3299,Jutiapa,GT
+3300,Juárez,MX
+3301,Józefów,PL
+3302,Kai,US
+3303,Kaiama,NG
+3304,Kainoúryion,GR
+3305,Kale,US
+3306,Kali,US
+3307,Kalian,US
+3308,Kalinino,RU
+3309,Kallithéa,GR
+3310,Kaltenbach,AT
+3311,Kama,US
+3312,Kamen,DE
+3313,Kamenica,
+3314,Kamenice,AL
+3315,Kamenka,RU
+3316,Kargı,TR
+3317,Karvia,FI
+3318,Karşıyaka,TR
+3319,Kastl,US
+3320,Kathu,TH
+3321,Katipunan,
+3322,Katoro,TZ
+3323,Katra,US
+3324,Katzelsdorf,AT
+3325,Kaulsdorf,DE
+3326,Kauswagan,PH
+3327,Kavak,MX
+3328,Kawanishi,JP
+3329,Kawayan,US
+3330,Kawit,PH
+3331,Kayapa,PH
+3332,Kayapınar,TR
+3333,Kazachinskoye,RU
+3334,Kazancı,BA
+3335,Kazanskaya,US
+3336,Kazımkarabekir,TR
+3337,Kearney,US
+3338,Kearns,US
+3339,Kearny,US
+3340,Kebonan,ID
+3341,Kebonsari,ID
+3342,Kediri,ID
+3343,Kedrovyy,RU
+3344,Keene,US
+3345,Keith,US
+3346,Kellyville,US
+3347,Kelso,US
+3348,Kemah,US
+3349,Kemalpaşa,TR
+3350,Kemer,TR
+3351,Kempsey,AU
+3352,Kendal,GB
+3353,Kendall,US
+3354,Kenilworth,US
+3355,Kenmare,IE
+3356,Kenn,US
+3357,Kennington,GB
+3358,Kensington Park,US
+3359,Kenton,US
+3360,Kentwood,US
+3361,Kenwood,US
+3362,Kerang,AU
+3363,Kerman,IR
+3364,Kesabpur,IN
+3365,Keswick,US
+3366,Ketapang,ID
+3367,Kew,GB
+3368,Keystone,US
+3369,Khalīlābād,IN
+3370,Kharar,IN
+3371,Kharkhauda,IN
+3372,Khed,IN
+3373,Kholm,RU
+3374,Khomutovo,RU
+3375,Khānaqāh,
+3376,Khānpur,PK
+3377,Kiel,DE
+3378,Kilburn,GB
+3379,Kilkenny,IE
+3380,Kilmarnock,US
+3381,Kilsyth,GB
+3382,Kimball,US
+3383,Kimberley,ZA
+3384,Kimberly,US
+3385,Kimbolton,GB
+3386,Kincardine,CA
+3387,King,US
+3388,King City,US
+3389,Kingman,US
+3390,Kings Beach,US
+3391,Kings Langley,GB
+3392,Kings Park,US
+3393,Kings Point,US
+3394,Kingsbury,US
+3395,Kingsford,US
+3396,Kingsland,US
+3397,Kingsley,US
+3398,Kingstown,VC
+3399,Kingsville,US
+3400,Kingswood,US
+3401,Kington,GB
+3402,Kinnula,FI
+3403,Kinross,CA
+3404,Kiowa,US
+3405,Kirazlı,TR
+3406,Kirchberg,AT
+3407,Kirchdorf,AT
+3408,Kirchheim,DE
+3409,Kirkebygda,NO
+3410,Kirknewton,GB
+3411,Kirkwood,US
+3412,Kirove,
+3413,Kirovskiy,RU
+3414,Kirovskoye,
+3415,Kirtland,US
+3416,Kirya,IL
+3417,Kiseljak,BA
+3418,Kishangarh,IN
+3419,Kiten,BG
+3420,Kizlyar,RU
+3421,Klimontów,PL
+3422,Klos,US
+3423,Klyuchi,RU
+3424,Knox,US
+3425,Knoxville,US
+3426,Ko Pha Ngan,TH
+3427,Koblenz,DE
+3428,Kobylanka,PL
+3429,Kobylnica,PL
+3430,Kohlberg,US
+3431,Kohler,US
+3432,Kol’chugino,RU
+3433,Kol’tsovo,RU
+3434,Kommunar,RU
+3435,Komsomolets,
+3436,Komsomol’skiy,AQ
+3437,Komárno,SK
+3438,Konakpınar,TR
+3439,Konotop,UA
+3440,Konradsreuth,DE
+3441,Konstantinovka,UA
+3442,Konstantinovo,RU
+3443,Konstantinovskaya,RU
+3444,Korem,CA
+3445,Korenica,HR
+3446,Korenëvo,RU
+3447,Koro,US
+3448,Koronadal,PH
+3449,Kose,US
+3450,Kosel,DE
+3451,Kosmach,UA
+3452,Kostino,RU
+3453,Kostyantynivka,UA
+3454,Kota,US
+3455,Kotaagung,ID
+3456,Kotabaru,ID
+3457,Kotel’nikovo,RU
+3458,Kotla,IN
+3459,Kozjak,SI
+3460,Kozlovka,RU
+3461,Kozlu,TR
+3462,Kościelec,PL
+3463,Krasnaya Gorka,RU
+3464,Krasnaya Polyana,RU
+3465,Krasne,US
+3466,Krasnoarmeyskoye,RU
+3467,Krasnogorsk,RU
+3468,Krasnogorskiy,RU
+3469,Krasnogorskoye,RU
+3470,Krasnogvardeyskoye,
+3471,Krasnokamenka,RU
+3472,Krasnokamensk,RU
+3473,Krasnoslobodsk,RU
+3474,Krasnoyarskaya,
+3475,Krasnoye,RU
+3476,Krasnoznamensk,RU
+3477,Krasnyy Kut,RU
+3478,Krasnyy Luch,UA
+3479,Krasnyy Oktyabr’,US
+3480,Krasnyy Yar,UA
+3481,Kratovo,MK
+3482,Kropotkin,
+3483,Krosno,PL
+3484,Krumbach,DE
+3485,Krylovskaya,RU
+3486,Kryry,CZ
+3487,Krzczonów,PL
+3488,Krzeszów,PL
+3489,Krzęcin,PL
+3490,Krásná Lípa,CZ
+3491,Kubu,ID
+3492,Kula,US
+3493,Kulykiv,UA
+3494,Kumlu,TR
+3495,Kumluca,TR
+3496,Kunda,IN
+3497,Kunyang,US
+3498,Kurchatov,KZ
+3499,Kuroishi,JP
+3500,Kurovskoye,RU
+3501,Kurşunlu,TR
+3502,Kuta,ID
+3503,Kuytun,CN
+3504,Kuyucak,TR
+3505,Kuzino,RU
+3506,Kwale,KE
+3507,Kärkölä,FI
+3508,Königsdorf,DE
+3509,Königsfeld,DE
+3510,Königstein,DE
+3511,Köprübaşı,TR
+3512,Küplü,TR
+3513,Kīranūr,IN
+3514,Kızılağaç,TR
+3515,Kızılören,TR
+3516,Kłodawa,PL
+3517,Kōnan,JP
+3518,La Aldea,US
+3519,La Alianza,US
+3520,La Angostura,AR
+3521,La Arena,MX
+3522,La Asunción,VE
+3523,La Aurora,US
+3524,La Blanca,US
+3525,La Calera,CO
+3526,La Candelaria,CO
+3527,La Cantera,MX
+3528,La Capilla,MX
+3529,La Carlota,PH
+3530,La Cañada,US
+3531,La Ceiba,HN
+3532,La Ceja,CO
+3533,La Center,US
+3534,La Ciénega,US
+3535,La Colonia,US
+3536,La Colorada,MX
+3537,La Compañía,CL
+3538,La Concepción,CL
+3539,La Conception,CA
+3540,La Concordia,MX
+3541,La Crosse,US
+3542,La Cruz,US
+3543,La Cuesta,US
+3544,La Cumbre,US
+3545,La Curva,US
+3546,La Democracia,MX
+3547,La Dicha,MX
+3548,La Dorada,US
+3549,La Encarnación,HN
+3550,La Ensenada,HN
+3551,La Entrada,US
+3552,La Ermita,US
+3553,La Escondida,US
+3554,La Esmeralda,US
+3555,La Esperanza,US
+3556,La Estancia,US
+3557,La Estanzuela,MX
+3558,La Estrella,US
+3559,La Floresta,US
+3560,La Florida,US
+3561,La Fortuna,CR
+3562,La Gloria,MX
+3563,La Grange,US
+3564,La Granja,US
+3565,La Guadalupe,US
+3566,La Guásima,MX
+3567,La Herradura,US
+3568,La Huerta,US
+3569,La Isla,US
+3570,La Joya,US
+3571,La Junta,US
+3572,La Labor,HN
+3573,La Laguna,US
+3574,La Laja,MX
+3575,La Lima,HN
+3576,La Loma,US
+3577,La Luz,US
+3578,La Maddalena,IT
+3579,La Magdalena,US
+3580,La Merced,MX
+3581,La Mesilla,US
+3582,La Mina,US
+3583,La Mojonera,ES
+3584,La Motte,US
+3585,La Máquina,US
+3586,La Noria,US
+3587,La Palma,US
+3588,La Paloma,US
+3589,La Pampa,US
+3590,La Perla,US
+3591,La Peña,US
+3592,La Piedad,US
+3593,La Pintada,MX
+3594,La Playa,US
+3595,La Presa,US
+3596,La Primavera,US
+3597,La Providencia,MX
+3598,La Punta,PE
+3599,La Purísima,US
+3600,La Reforma,US
+3601,La Rochette,FR
+3602,La Romana,DO
+3603,La Rosa,US
+3604,La Sabana,US
+3605,La Salle,US
+3606,La Sauceda,MX
+3607,La Solana,US
+3608,La Soledad,US
+3609,La Tijera,US
+3610,La Tinaja,US
+3611,La Toma,CA
+3612,La Trinidad,PH
+3613,La Trinité,FR
+3614,La Union,PH
+3615,La Vega,US
+3616,La Victoria,US
+3617,La Villa,US
+3618,Labrador,US
+3619,Lacaron,PH
+3620,Lachen,IN
+3621,Lacombe,US
+3622,Ladysmith,ZA
+3623,Lae,PG
+3624,Laghetto,IT
+3625,Lago,US
+3626,Lagoa,PT
+3627,Lagrange,US
+3628,Laguna Beach,US
+3629,Laguna Larga,MX
+3630,Laguna Seca,US
+3631,Lagunas,PE
+3632,Lagunilla,MX
+3633,Lagunillas,MX
+3634,Laingsburg,US
+3635,Lais,
+3636,Lajas,PR
+3637,Lajes,PT
+3638,Lake Arrowhead,US
+3639,Lake Butler,US
+3640,Lake City,US
+3641,Lake Hamilton,US
+3642,Lake Isabella,US
+3643,Lake Mills,US
+3644,Lake Mohawk,US
+3645,Lake Park,US
+3646,Lake Placid,US
+3647,Lake Shore,US
+3648,Lake View,US
+3649,Lake Worth,US
+3650,Lake of the Woods,
+3651,Lakefield,US
+3652,Lakeland,US
+3653,Lakelands,US
+3654,Lakeview,US
+3655,Lakewood Park,US
+3656,Lakhipur,IN
+3657,Lakota,US
+3658,Lama,US
+3659,Lamar,US
+3660,Lamarque,US
+3661,Lamas,US
+3662,Lambakin,PH
+3663,Lambertville,US
+3664,Lamont,US
+3665,Lampa,CL
+3666,Lampertheim,DE
+3667,Lampeter,US
+3668,Lanark,US
+3669,Lanas,CA
+3670,Landen,US
+3671,Landmark,US
+3672,Lanesborough,US
+3673,Langar,US
+3674,Langenburg,DE
+3675,Langendorf,US
+3676,Langenfeld,AT
+3677,Langenhorn,DE
+3678,Langenstein,US
+3679,Langford,CA
+3680,Langham,US
+3681,Langley,US
+3682,Langley Park,US
+3683,Langon,FR
+3684,Langtad,PH
+3685,Langwedel,DE
+3686,Lanmeur,FR
+3687,Lansdowne,US
+3688,Lantana,US
+3689,Lantangan,PH
+3690,Lantz,US
+3691,Laporte,US
+3692,Larantuka,ID
+3693,Laraos,PE
+3694,Larap,PH
+3695,Laren,NL
+3696,Lares,US
+3697,Largo,US
+3698,Largs,GB
+3699,Lari,US
+3700,Larkspur,US
+3701,Las Animas,US
+3702,Las Brisas,US
+3703,Las Cañas,US
+3704,Las Coloradas,MX
+3705,Las Compuertas,AR
+3706,Las Cruces,US
+3707,Las Delicias,US
+3708,Las Flores,US
+3709,Las Guabas,PA
+3710,Las Heras,AR
+3711,Las Higueras,AR
+3712,Las Juntas,US
+3713,Las Lajas,CO
+3714,Las Lajitas,AR
+3715,Las Lomas,US
+3716,Las Maravillas,US
+3717,Las Margaritas,US
+3718,Las Marias,US
+3719,Las Mesas,ES
+3720,Las Minas,US
+3721,Las Ollas,MX
+3722,Las Palmas,US
+3723,Las Piedras,PR
+3724,Las Rosas,US
+3725,Las Sabanas,NI
+3726,Las Tablas,US
+3727,Las Toscas,UY
+3728,Las Trancas,US
+3729,Las Tunas,CU
+3730,Las Varas,MX
+3731,Las Vegas,US
+3732,Las Ánimas,US
+3733,Latham,US
+3734,Lathrop,US
+3735,Latrobe,US
+3736,Laubach,DE
+3737,Lauben,DE
+3738,Laudenbach,DE
+3739,Lauderdale,US
+3740,Laufen,US
+3741,Laufenburg,DE
+3742,Launceston,AU
+3743,Laurel Hill,US
+3744,Laureles,CO
+3745,Laurens,US
+3746,Lauro,US
+3747,Lautenbach,US
+3748,Lauter,DE
+3749,Lautertal,DE
+3750,Lavalette,US
+3751,Laverton,AU
+3752,Lawa-an,PH
+3753,Lawnton,US
+3754,Lawrence Park,US
+3755,Lawrenceburg,US
+3756,Lawrenceville,US
+3757,Lawson,US
+3758,Lawton,US
+3759,Laza,RO
+3760,Lazi,PH
+3761,Lazo,US
+3762,Lazuri,
+3763,Le Gua,FR
+3764,Le Pin,FR
+3765,Le Roy,US
+3766,Le Vigan,FR
+3767,LeChee,US
+3768,Leavenworth,US
+3769,Lebedyn,UA
+3770,Lebrija,ES
+3771,Lebyazh’ye,RU
+3772,Ledeberg,BE
+3773,Ledsham,GB
+3774,Lee,US
+3775,Lee Acres,US
+3776,Leeds,GB
+3777,Leer,US
+3778,Leesville,US
+3779,Leezen,DE
+3780,Leicester,GB
+3781,Leichhardt,AU
+3782,Leigh,US
+3783,Leiva,ES
+3784,Leiyang,CN
+3785,Leknes,NO
+3786,Leland,US
+3787,Lemberg,UA
+3788,Lemery,PH
+3789,Lemont,US
+3790,Lemu,FI
+3791,Lena,US
+3792,Lend,US
+3793,Lengenfeld,DE
+3794,Lengerich,DE
+3795,Lenina,
+3796,Leninsk,RU
+3797,Leninskiy,RU
+3798,Leninskoye,RU
+3799,Lenningen,DE
+3800,Lennox,US
+3801,Lenox,US
+3802,Lens,US
+3803,Lent,US
+3804,Leola,US
+3805,Leominster,US
+3806,Leon,ES
+3807,Leona Vicario,MX
+3808,Leonberg,DE
+3809,Leones Arriba,PA
+3810,Lepanto,US
+3811,Leping,CN
+3812,Lere,US
+3813,Lerma,ES
+3814,Lermontovo,AM
+3815,Leshan,CN
+3816,Leslie,US
+3817,Lesnoye,RU
+3818,Lesnyye Polyany,RU
+3819,Lesogorsk,RU
+3820,Lespezi,RO
+3821,Leszno,PL
+3822,Leticia,CO
+3823,Leubsdorf,DE
+3824,Leutenbach,DE
+3825,Levanto,IT
+3826,Leven,GB
+3827,Levice,SK
+3828,Lewes,US
+3829,Lewisburg,US
+3830,Lewistown,US
+3831,Lewisville,US
+3832,Leśna,PL
+3833,Leśnica,PL
+3834,Lianjiang,CN
+3835,Liaoyang,CN
+3836,Libacao,PH
+3837,Libas,US
+3838,Libertad,US
+3839,Libertador General San Martín,AR
+3840,Liberty,US
+3841,Lichtenau,DE
+3842,Lichtenberg,DE
+3843,Lichtenegg,AT
+3844,Lido,US
+3845,Liebenau,AT
+3846,Ligaya,US
+3847,Ligonier,US
+3848,Lijiang,CN
+3849,Liloan,PH
+3850,Limon,CR
+3851,Lindau,DE
+3852,Lindsay,CA
+3853,Lingcheng,CN
+3854,Linjiang,CN
+3855,Linton,US
+3856,Linwood,US
+3857,Lisbon,PT
+3858,Litchfield,US
+3859,Liteni,RO
+3860,Little Falls,US
+3861,Livermore,US
+3862,Livezile,RO
+3863,Livonia,US
+3864,Llanarth,GB
+3865,Llanera,ES
+3866,Llangwm,GB
+3867,Llano Grande,US
+3868,Llano Largo,PA
+3869,Lockhart,US
+3870,Locust Grove,US
+3871,Lodrino,CH
+3872,Loftus,US
+3873,Logan,US
+3874,Logansport,US
+3875,Loganville,US
+3876,Lohne,DE
+3877,Lokve,HR
+3878,Loma,US
+3879,Loma Alta,US
+3880,Loma Bonita,MX
+3881,Loma Linda,US
+3882,Lomitas,US
+3883,Lomnice,CZ
+3884,Londa,IN
+3885,Londonderry,GB
+3886,Lone Star,US
+3887,Lone Tree,US
+3888,Long Lake,US
+3889,Longcheng,US
+3890,Longford,IE
+3891,Longgang,CN
+3892,Longhua,CN
+3893,Longnan,CN
+3894,Longquan,CN
+3895,Longshan,CN
+3896,Longtown,US
+3897,Longueville,AU
+3898,Longwood,US
+3899,Looc,PH
+3900,Lookout Mountain,US
+3901,Lopez Jaena,PH
+3902,Lordelo,PT
+3903,Lorena,US
+3904,Loreto,MX
+3905,Lorette,CA
+3906,Loretto,US
+3907,Los Alamos,US
+3908,Los Algarrobos,PA
+3909,Los Altos,US
+3910,Los Angeles,US
+3911,Los Arcos,US
+3912,Los Baños,US
+3913,Los Castillos,US
+3914,Los Cerritos,US
+3915,Los Laureles,US
+3916,Los Llanitos,PA
+3917,Los Llanos,DO
+3918,Los Molinos,US
+3919,Los Naranjos,MX
+3920,Los Olivos,US
+3921,Los Palacios,CU
+3922,Los Pilares,US
+3923,Los Pinos,US
+3924,Los Pocitos,AR
+3925,Los Pozos,PA
+3926,Los Ramírez,US
+3927,Los Remedios,US
+3928,Los Reyes,US
+3929,Los Rodríguez,US
+3930,Los Santos,ES
+3931,Los Sauces,US
+3932,Los Valles,US
+3933,Los Ángeles,US
+3934,Lota,US
+3935,Louisa,US
+3936,Louisburg,US
+3937,Lourdes,FR
+3938,Lowell,US
+3939,Ludlow,US
+3940,Lugu,CN
+3941,Luhua,US
+3942,Luis Espinoza,US
+3943,Luisenthal,DE
+3944,Luján,US
+3945,Lukavec,HR
+3946,Lukavica,BA
+3947,Lula,US
+3948,Lumberton,US
+3949,Luna,US
+3950,Lunca,RO
+3951,Luncaviţa,RO
+3952,Lund,SE
+3953,Lunenburg,CA
+3954,Luocheng,CN
+3955,Lyman,US
+3956,Lynchburg,US
+3957,Lyndhurst,US
+3958,Lyndon,US
+3959,Lynwood,US
+3960,Lyons,US
+3961,Lyuban’,BY
+3962,Lázaro Cárdenas,MX
+3963,Långsele,SE
+3964,López,US
+3965,Mabini,PH
+3966,Macedon,US
+3967,Macgregor,US
+3968,Machias,US
+3969,Mackenzie,US
+3970,Macon,US
+3971,Madalag,PH
+3972,Madalena,PT
+3973,Madawaska,US
+3974,Madeley,GB
+3975,Maden,TR
+3976,Madison Heights,US
+3977,Madisonville,US
+3978,Madridejos,ES
+3979,Mae Tha,TH
+3980,Mafa,NG
+3981,Mafra,PT
+3982,Magallanes,CL
+3983,Magdalena,US
+3984,Magenta,US
+3985,Magnolia,US
+3986,Magomeni,TZ
+3987,Magoúla,GR
+3988,Magsaysay,PH
+3989,Mahala,US
+3990,Mahayag,PH
+3991,Mahdia,TN
+3992,Mahmudiye,TR
+3993,Maia,US
+3994,Mainit,PH
+3995,Mairano,IT
+3996,Malinao,PH
+3997,Malitbog,PH
+3998,Malta,MT
+3999,Malvern,US
+4000,Mamou,US
+4001,Manatí,PR
+4002,Mandal,US
+4003,Mandeville,US
+4004,Manga,US
+4005,Mangas,US
+4006,Mani,US
+4007,Manila,PH
+4008,Manito,US
+4009,Mankato,US
+4010,Manlio Fabio Altamirano,MX
+4011,Manly,AU
+4012,Manning,US
+4013,Manoharpur,IN
+4014,Manor,US
+4015,Manta,US
+4016,Manton,US
+4017,Mantua,IT
+4018,Maoping,CN
+4019,Maple Glen,US
+4020,Maple Ridge,CA
+4021,Mapleton,US
+4022,Mara,US
+4023,Marathon,US
+4024,Maravillas,US
+4025,Marca,CA
+4026,Marcellina,US
+4027,Marcellus,US
+4028,March,US
+4029,Marco,US
+4030,Marden,US
+4031,Marengo,IT
+4032,Marennes,FR
+4033,Marfino,RU
+4034,Margarita,US
+4035,Margasari,ID
+4036,Margherita,US
+4037,Margos,US
+4038,Marhamat,UZ
+4039,Maria,US
+4040,Mariana,
+4041,Marianna,US
+4042,Mariano Escobedo,MX
+4043,Maricopa,US
+4044,Marieholm,SE
+4045,Mariental,NA
+4046,Marietta,US
+4047,Marigot,MF
+4048,Marin,US
+4049,Marina,US
+4050,Marines,US
+4051,Marino,US
+4052,Maripa,BR
+4053,Mariposa,US
+4054,Markham,US
+4055,Markova,US
+4056,Markovo,BG
+4057,Marks,US
+4058,Marlboro,US
+4059,Marlborough,US
+4060,Marlow,US
+4061,Marlton,US
+4062,Marly,FR
+4063,Marmagne,FR
+4064,Maroa,US
+4065,Marotta,US
+4066,Marsaglia,IT
+4067,Marsden,US
+4068,Marshall,US
+4069,Marshfield,US
+4070,Marston,US
+4071,Martapura,ID
+4072,Martin,US
+4073,Martinsburg,US
+4074,Martinsville,US
+4075,Martorell,ES
+4076,Maryborough,AU
+4077,Maryville,US
+4078,Marín,ES
+4079,Masaka,UG
+4080,Masaya,NI
+4081,Mascot,US
+4082,Mashhad,IR
+4083,Maslog,FI
+4084,Mason,US
+4085,Mason City,US
+4086,Massa,IT
+4087,Massy,FR
+4088,Maszewo,PL
+4089,Matamoras,US
+4090,Matamoros,MX
+4091,Matanzas,CU
+4092,Mathews,US
+4093,Mati,GR
+4094,Matmata,TN
+4095,Matnog,PH
+4096,Mattawa,US
+4097,Mayer,US
+4098,Mayfield,US
+4099,Mayisyan,AM
+4100,Maylands,AU
+4101,Mayna,US
+4102,Mayo,US
+4103,Mayskiy,RU
+4104,Maysville,US
+4105,Mayville,US
+4106,Mazatlán,MX
+4107,Mazatán,MX
+4108,McComb,US
+4109,McDonald,US
+4110,McEwen,US
+4111,McFarland,US
+4112,McGregor,US
+4113,McIntosh,US
+4114,McMinnville,US
+4115,Mead,US
+4116,Meadowbrook,US
+4117,Mechanicsville,US
+4118,Melchor Ocampo,MX
+4119,Melle,DE
+4120,Melrose Park,US
+4121,Melville,US
+4122,Memphis,US
+4123,Mendeleyevo,RU
+4124,Mendon,US
+4125,Mendoza,AR
+4126,Mentone,US
+4127,Mere,US
+4128,Mereni,MD
+4129,Meriden,US
+4130,Merișani,RO
+4131,Merkendorf,DE
+4132,Merklín,CZ
+4133,Merlo,US
+4134,Merrimac,US
+4135,Merriwa,AU
+4136,Merville,FR
+4137,Merxheim,DE
+4138,Mesillas,US
+4139,Metcalfe,US
+4140,Metepec,MX
+4141,Methven,US
+4142,Metković,HR
+4143,Metsamor,AM
+4144,Mettenheim,DE
+4145,Mexico,MX
+4146,Mezcala,MX
+4147,Mezhdurechensk,RU
+4148,Mezraa,TR
+4149,Mezzano,IT
+4150,Miahuatlán,MX
+4151,Miami,US
+4152,Miami Gardens,US
+4153,Michałów,PL
+4154,Middlebury,US
+4155,Middleport,US
+4156,Midway,US
+4157,Miguel Hidalgo,MX
+4158,Mihai Bravu,RO
+4159,Mihai Viteazu,RO
+4160,Mihail Kogălniceanu,RO
+4161,Mihovljan,HR
+4162,Mihăeşti,RO
+4163,Mihăileni,RO
+4164,Mihăileşti,RO
+4165,Mikhaylovka,RU
+4166,Milagro,US
+4167,Milagros,US
+4168,Milan,IT
+4169,Mildenhall,GB
+4170,Millbrook,US
+4171,Millersburg,US
+4172,Millington,US
+4173,Millville,US
+4174,Minatitlán,MX
+4175,Minden,DE
+4176,Minot,US
+4177,Min’an,CN
+4178,Mionica,RS
+4179,Mira,US
+4180,Mirabel,US
+4181,Miraflores,PE
+4182,Miranda,US
+4183,Mircea Vodă,RO
+4184,Mirny,RU
+4185,Mitchell,US
+4186,Miyoshi,US
+4187,Moiano,IT
+4188,Moira,US
+4189,Mol,
+4190,Moldoveni,RO
+4191,Molinos,ES
+4192,Mollas,AL
+4193,Molo,US
+4194,Molochnoye,RU
+4195,Molokovo,RU
+4196,Molteno,ZA
+4197,Mommenheim,DE
+4198,Monash,AU
+4199,Monasterolo,IT
+4200,Monastir,TN
+4201,Moncada,US
+4202,Mondoñedo,ES
+4203,Mondragon,ES
+4204,Monjarás,PA
+4205,Monmouth,US
+4206,Monona,US
+4207,Monor,HU
+4208,Monreal,US
+4209,Monroeville,US
+4210,Mons,BE
+4211,Mont-Dore,FR
+4212,Montagne,CA
+4213,Montagny,FR
+4214,Montague,US
+4215,Montaigut,FR
+4216,Montalbano,US
+4217,Montalbán,US
+4218,Montale,US
+4219,Montalvo,US
+4220,Montana,US
+4221,Montblanc,US
+4222,Monte Alegre,BR
+4223,Monte Blanco,US
+4224,Monte Grande,AR
+4225,Montebello,US
+4226,Montello,US
+4227,Monterey,US
+4228,Monterrey,MX
+4229,Montevideo,UY
+4230,Monticello,US
+4231,Montpelier,US
+4232,Montrose,US
+4233,Montréal,CA
+4234,Mora,US
+4235,Morehead,US
+4236,Morelos,MX
+4237,Morgantown,US
+4238,Morningside,US
+4239,Mornington,AU
+4240,Moro,US
+4241,Moroni,US
+4242,Morpeth,GB
+4243,Morris,US
+4244,Morrison,US
+4245,Morrisonville,US
+4246,Morrisville,US
+4247,Morrow,US
+4248,Morsbach,DE
+4249,Mortlake,GB
+4250,Morton,US
+4251,Mosquera,CO
+4252,Moss,NO
+4253,Mosty,PL
+4254,Moszczenica,PL
+4255,Motosu,JP
+4256,Mound City,US
+4257,Mount Airy,US
+4258,Mount Barker,AU
+4259,Mount Carmel,US
+4260,Mount Gilead,US
+4261,Mount Hermon,US
+4262,Mount Holly,US
+4263,Mount Morris,US
+4264,Mount Olive,US
+4265,Mount Sterling,US
+4266,Mount Zion,IL
+4267,Mountain City,US
+4268,Mountain Home,US
+4269,Mountain View,US
+4270,Moura,AU
+4271,Movileni,RO
+4272,Moviliţa,RO
+4273,Moville,US
+4274,Moya,US
+4275,Moñitos,CO
+4276,Moşna,RO
+4277,Mrozy,PL
+4278,Muhos,FI
+4279,Muirhead,US
+4280,Mulberry,US
+4281,Mulino,US
+4282,Munford,US
+4283,Mungyeong,KR
+4284,Munteni,RO
+4285,Mura,US
+4286,Muradiye,TR
+4287,Murat,US
+4288,Muratlı,TR
+4289,Murfreesboro,US
+4290,Muri,US
+4291,Muromtsevo,RU
+4292,Muros,ES
+4293,Murphy,US
+4294,Murton,GB
+4295,Musabeyli,TR
+4296,Muslyumovo,RU
+4297,Mustafābād,IN
+4298,Muñoz,US
+4299,Mvomero,TZ
+4300,Mwanza,TZ
+4301,Myre,NO
+4302,Myrtle Grove,US
+4303,Mândrești,RO
+4304,Méréville,FR
+4305,Mühlau,CH
+4306,Mühldorf,DE
+4307,Mühlhausen,DE
+4308,Müllendorf,AT
+4309,Müllheim,DE
+4310,Münsingen,DE
+4311,Münster,DE
+4312,Māndal,IN
+4313,Mădăraș,RO
+4314,Măgura,RO
+4315,Măgurele,RO
+4316,Măneşti,RO
+4317,Mărgineni,RO
+4318,Mărăcineni,RO
+4319,Naas,IE
+4320,Naco,US
+4321,Nagaoka,JP
+4322,Nagar,
+4323,Nagornyy,
+4324,Nagqu,CN
+4325,Naguilian,PH
+4326,Nailsworth,GB
+4327,Naka,US
+4328,Nakatsu,JP
+4329,Nakło,PL
+4330,Nammyeon,KR
+4331,Nanchangshan,CN
+4332,Nangan,
+4333,Nangka,
+4334,Nanjie,
+4335,Nanping,CN
+4336,Nanzhao,CN
+4337,Nan’an,CN
+4338,Napoleon,US
+4339,Narach,BY
+4340,Naranbulag,MN
+4341,Naranjal,EC
+4342,Naranjito,PR
+4343,Naranjo,CR
+4344,Naranjos,MX
+4345,Narberth,US
+4346,Narborough,GB
+4347,Narciso Mendoza,US
+4348,Nariño,CO
+4349,Narlı,IN
+4350,Naro,US
+4351,Narrows,US
+4352,Nash,US
+4353,Nashua,US
+4354,Nashville,US
+4355,Nassau,BS
+4356,Natal,ZA
+4357,Nato,US
+4358,Naumburg,DE
+4359,Nava,US
+4360,Navajas,CA
+4361,Navajo,US
+4362,Naval,US
+4363,Navarre,ES
+4364,Navarrete,US
+4365,Navarro,US
+4366,Navotas,PH
+4367,Nazareth,IL
+4368,Nazaré,PT
+4369,Necoxtla,MX
+4370,Nederland,US
+4371,Neftegorsk,RU
+4372,Negoiești,RO
+4373,Negreni,RO
+4374,Negrilești,RO
+4375,Nekrasovka,RU
+4376,Nema,US
+4377,Nentershausen,DE
+4378,Neochóri,GR
+4379,Nes,US
+4380,Netley,GB
+4381,Nettleton,US
+4382,Neubrück,DE
+4383,Neuburg,DE
+4384,Neudorf,DE
+4385,Neuenkirchen,DE
+4386,Neufchâteau,FR
+4387,Neuhaus,US
+4388,Neuhausen,CH
+4389,Neukirch,DE
+4390,Neukirchen,AT
+4391,Neunkirchen,DE
+4392,Neustadt,DE
+4393,Neuvic,FR
+4394,Nevada,US
+4395,New Albany,US
+4396,New Baltimore,US
+4397,New Berlin,US
+4398,New Boston,US
+4399,New Brighton,US
+4400,New Britain,US
+4401,New Carlisle,US
+4402,New Cumberland,US
+4403,New Franklin,US
+4404,New Hope,US
+4405,New London,US
+4406,New Market,US
+4407,New Milford,US
+4408,New Paris,US
+4409,New Philadelphia,US
+4410,New Plymouth,NZ
+4411,New Richmond,US
+4412,New Sharon,US
+4413,New Town,US
+4414,New Windsor,US
+4415,New York Mills,US
+4416,Newberry,US
+4417,Newborough,GB
+4418,Newbridge,US
+4419,Newburg,US
+4420,Newburgh,US
+4421,Newbury,US
+4422,Newfane,US
+4423,Newfield,US
+4424,Newhaven,US
+4425,Newington,US
+4426,Newman,US
+4427,Newstead,AU
+4428,Newtown,US
+4429,Ngoro,ID
+4430,Nice,FR
+4431,Nicholls,US
+4432,Nicholson,US
+4433,Nicolae Bălcescu,RO
+4434,Nicolás Bravo,MX
+4435,Nicosia,CY
+4436,Niederau,AT
+4437,Niederdorf,CH
+4438,Niedźwiada,PL
+4439,Nieuwpoort,BE
+4440,Nieves,US
+4441,Nikolayevka,RU
+4442,Nikol’sk,RU
+4443,Nikopol,UA
+4444,Ningi,AU
+4445,Ningjin,CN
+4446,Ninguno [CERESO],
+4447,Ning’an,CN
+4448,Nioro,ML
+4449,Niugan,PH
+4450,Niverville,CA
+4451,Nixon,US
+4452,Nizāmābād,IN
+4453,Noailles,CA
+4454,Nocatee,US
+4455,Nokomis,US
+4456,Nolay,FR
+4457,Nombre de Dios,PA
+4458,Nome,US
+4459,Nomi,US
+4460,Nong Saeng,TH
+4461,Nopaltepec,MX
+4462,Norashen,AM
+4463,Norco,US
+4464,Nordheim,US
+4465,Normandy,FR
+4466,Normanton,GB
+4467,Normanville,AU
+4468,North Beach,US
+4469,North Bend,US
+4470,North Berwick,US
+4471,North Branch,US
+4472,North Brighton,US
+4473,North East,US
+4474,North Haven,US
+4475,North Hills,US
+4476,North Liberty,US
+4477,North Madison,US
+4478,North Perth,CA
+4479,North Richmond,US
+4480,North Scituate,US
+4481,North Shore,US
+4482,North Side,US
+4483,North York,CA
+4484,Northam,US
+4485,Northborough,US
+4486,Northbridge,US
+4487,Northbrook,US
+4488,Northfield,US
+4489,Northgate,US
+4490,Northlake,US
+4491,Northport,US
+4492,Northridge,US
+4493,Northumberland,GB
+4494,Northville,US
+4495,Northwood,US
+4496,Norway,NO
+4497,Notre Dame,US
+4498,Nottingham,GB
+4499,Novaci,RO
+4500,Novallas,ES
+4501,Novara,US
+4502,Novi Pazar,RS
+4503,Novigrad,HR
+4504,Novo Selo,MK
+4505,Novomykolayivka,KZ
+4506,Novopavlovka,KG
+4507,Novopokrovka,KG
+4508,Novoselytsya,UA
+4509,Novoselë,AL
+4510,Nozay,FR
+4511,Nucet,RO
+4512,Nueva Concepción,GT
+4513,Nueva Esperanza,US
+4514,Nueva Independencia,GT
+4515,Nueva Libertad,MX
+4516,Nueva Palestina,MX
+4517,Nueva Santa Rosa,GT
+4518,Nueve de Julio,AR
+4519,Nuevo León,MX
+4520,Nuevo México,US
+4521,Nuevo Progreso,MX
+4522,Nurettin,
+4523,Nykvarn,SE
+4524,Náousa,GR
+4525,Néa Péramos,GR
+4526,Níkaia,GR
+4527,Năvodari,RO
+4528,Oak Grove,US
+4529,Oak Harbor,US
+4530,Oak Hill,US
+4531,Oak Hills,US
+4532,Oakfield,US
+4533,Oakham,US
+4534,Oakhurst,US
+4535,Oakland,US
+4536,Oakley,US
+4537,Oakwood,US
+4538,Oasis,US
+4539,Obando,PH
+4540,Oberhaid,DE
+4541,Oberhausen,DE
+4542,Oberhof,DE
+4543,Oberkirch,DE
+4544,Oberlin,US
+4545,Oberndorf,AT
+4546,Oberreichenbach,DE
+4547,Oberrieden,CH
+4548,Obrajuelo,MX
+4549,Obrigheim,DE
+4550,Obrovac,HR
+4551,Obukhovo,RU
+4552,Ocampo,MX
+4553,Ocaña,CO
+4554,Ocean City,US
+4555,Ocean Grove,US
+4556,Ocean Shores,US
+4557,Ocniţa,MD
+4558,Ocotepec,MX
+4559,Ocotlán,MX
+4560,Ocros,PE
+4561,Odell,US
+4562,Odiong,US
+4563,Odiongan,PH
+4564,Odobeşti,RO
+4565,Oelsnitz,DE
+4566,Offenhausen,AT
+4567,Ogden,US
+4568,Ogdensburg,US
+4569,Ohlsdorf,DE
+4570,Ojo de Agua,US
+4571,Ojos de Agua,SV
+4572,Oka,US
+4573,Okolona,US
+4574,Oktyabr’skiy,RU
+4575,Oktyabr’skoye,RU
+4576,Ola,US
+4577,Olari,FI
+4578,Olathe,US
+4579,Oldendorf,US
+4580,Oleiros,ES
+4581,Oleksandrivka,UA
+4582,Olesno,PL
+4583,Oleśnica,PL
+4584,Olinda,BR
+4585,Oliva,ES
+4586,Oliveira,US
+4587,Oliver,US
+4588,Olivet,US
+4589,Olivia,US
+4590,Olleros,PE
+4591,Olmedo,ES
+4592,Olney,US
+4593,Olofstorp,SE
+4594,Olstorp,SE
+4595,Olszanica,PL
+4596,Olsztyn,PL
+4597,Olszówka,PL
+4598,Olteni,RO
+4599,Oltinko‘l,UZ
+4600,Ol’gino,RU
+4601,Ol’ginskaya,RU
+4602,Ometepec,MX
+4603,Omoa,HN
+4604,Onalaska,US
+4605,Oneida,US
+4606,Oneonta,US
+4607,Ongi,MN
+4608,Oniceni,RO
+4609,Ontario,CA
+4610,Oostburg,US
+4611,Oosterhout,NL
+4612,Opatów,PL
+4613,Opi,US
+4614,Oran,DZ
+4615,Orange City,US
+4616,Orangeburg,US
+4617,Orangeville,CA
+4618,Orani,PH
+4619,Oranjestad,AW
+4620,Orchard Hills,US
+4621,Ordzhonikidze,UA
+4622,Oregon,US
+4623,Orgil,US
+4624,Oria,IT
+4625,Orion,US
+4626,Orizaba,MX
+4627,Orland,US
+4628,Orle,US
+4629,Orleans,US
+4630,Orlovskiy,US
+4631,Ormiston,AU
+4632,Orono,US
+4633,Oropesa,ES
+4634,Oroville,US
+4635,Orsha,BY
+4636,Ortaca,TR
+4637,Ortaköy,TR
+4638,Ortenberg,DE
+4639,Ortiz,US
+4640,Ortonville,US
+4641,Orwell,US
+4642,Osa,US
+4643,Osasco,BR
+4644,Osborne,US
+4645,Osceola,US
+4646,Osek,US
+4647,Oshkosh,US
+4648,Osiek,PL
+4649,Oskaloosa,US
+4650,Osmeña,US
+4651,Ospedaletto,IT
+4652,Osseo,US
+4653,Ossun,US
+4654,Oster,US
+4655,Osteria Nuova,IT
+4656,Ostheim,DE
+4657,Ostra,US
+4658,Ostrovskoye,RU
+4659,Ostrowite,PL
+4660,Ostrów,PL
+4661,Ostrówek,PL
+4662,Ovacık,TR
+4663,Overton,US
+4664,Ozark,US
+4665,Oğuz,US
+4666,Oštra Luka,BA
+4667,Ożarów,PL
+4668,Pablo L. Sidar,MX
+4669,Pacatuba,BR
+4670,Paccha,EC
+4671,Pacific,US
+4672,Pacora,PA
+4673,Padang,ID
+4674,Paddaya,PH
+4675,Paddington,US
+4676,Paderne,PT
+4677,Padiglione,
+4678,Padilla,US
+4679,Padina,US
+4680,Padre Burgos,PH
+4681,Padstow,GB
+4682,Paducah,US
+4683,Pagalungan,PH
+4684,Pagatan,ID
+4685,Page,US
+4686,Pagliare,IT
+4687,Paisley,US
+4688,Pajo,CA
+4689,Pakel,DE
+4690,Palaiochóri,GR
+4691,Palanca,US
+4692,Palca,PE
+4693,Palenque,MX
+4694,Palermo,IT
+4695,Palestina,PS
+4696,Palm Beach,US
+4697,Palmer,US
+4698,Palmillas,MX
+4699,Palmyra,SY
+4700,Palo,US
+4701,Palo Alto,US
+4702,Palomas,US
+4703,Palu,ID
+4704,Pama,US
+4705,Pameungpeuk,ID
+4706,Pampas,US
+4707,Pandan,US
+4708,Pangdan,PH
+4709,Pangil,PH
+4710,Pangpang,US
+4711,Panikian,
+4712,Paniqui,PH
+4713,Paola,US
+4714,Papayal,PE
+4715,Papozze,IT
+4716,Paprotnia,PL
+4717,Paralía,GR
+4718,Parang,US
+4719,Paraíso,CR
+4720,Parbatipur,BD
+4721,Paredes,US
+4722,Paredón,MX
+4723,Parigi,US
+4724,Park City,US
+4725,Park Ridge,US
+4726,Parker,US
+4727,Parkside,US
+4728,Parkville,US
+4729,Parkwood,US
+4730,Parsons,US
+4731,Paso Nacional,MX
+4732,Passi,US
+4733,Patti,US
+4734,Pau,FR
+4735,Paucarbamba,PE
+4736,Paulista,US
+4737,Paulo Ramos,BR
+4738,Pausa,US
+4739,Pavia,IT
+4740,Pavlivka,UA
+4741,Pavlovka,RU
+4742,Pavlovo,RU
+4743,Pawa,PH
+4744,Paya,US
+4745,Pazar,US
+4746,Pazarköy,TR
+4747,Pea Ridge,US
+4748,Peabody,US
+4749,Pearce,US
+4750,Pearl River,US
+4751,Pearsall,US
+4752,Pecos,US
+4753,Pedemonte,US
+4754,Pedernales,US
+4755,Pedraza,ES
+4756,Pedroso,PT
+4757,Peebles,US
+4758,Peglio,IT
+4759,Pego,ES
+4760,Peißen,DE
+4761,Pekalongan,ID
+4762,Pelham,US
+4763,Pelican Bay,US
+4764,Pella,US
+4765,Pemberton,US
+4766,Pembroke,US
+4767,Pendleton,US
+4768,Pennington,US
+4769,Penrith,GB
+4770,Penryn,US
+4771,Peque,US
+4772,Perai,MY
+4773,Perales,US
+4774,Peralta,US
+4775,Pericos,US
+4776,Perieni,RO
+4777,Perieţi,RO
+4778,Perivólia,GR
+4779,Pero,US
+4780,Perry,US
+4781,Perryville,US
+4782,Peru,PE
+4783,Pervomayskiy,UA
+4784,Pervomayskoye,RU
+4785,Peterhead,GB
+4786,Petersburg,US
+4787,Petershagen,DE
+4788,Petra,JO
+4789,Petreşti,RO
+4790,Petrești,RO
+4791,Peña Blanca,US
+4792,Peñuelas,PR
+4793,Pfaffenhofen,DE
+4794,Philadelphia,US
+4795,Philipsburg,SX
+4796,Phillip,US
+4797,Phillips,US
+4798,Phillipsburg,US
+4799,Phoenix,US
+4800,Phon Charoen,TH
+4801,Phong Điền,VN
+4802,Phú Lộc,VN
+4803,Piatra,RO
+4804,Piazza,CA
+4805,Pickens,US
+4806,Pickering,CA
+4807,Picos,US
+4808,Picton,NZ
+4809,Piedmont,IT
+4810,Piedras Negras,MX
+4811,Pietrari,RO
+4812,Pietroasa,RO
+4813,Pietrosu,RO
+4814,Pietroşani,RO
+4815,Pieve,IT
+4816,Pila,IT
+4817,Pili,US
+4818,Pimentel,DO
+4819,Pine Crest,US
+4820,Pine Grove,US
+4821,Pine Hills,US
+4822,Pine Island,US
+4823,Pine Level,US
+4824,Pine Mountain,US
+4825,Pine Ridge,US
+4826,Pinehurst,US
+4827,Pinet,US
+4828,Pineville,US
+4829,Piney,US
+4830,Pingdu,CN
+4831,Pingjiang,CN
+4832,Pingshan,CN
+4833,Pingxiang,CN
+4834,Pinillos,CO
+4835,Piobesi Torinese,IT
+4836,Pioneer,US
+4837,Pionerskiy,RU
+4838,Piraziz,TR
+4839,Piru,US
+4840,Pisaflores,MX
+4841,Pisarzowice,PL
+4842,Pisignano,IT
+4843,Pital,CR
+4844,Pitogo,PH
+4845,Pittsboro,US
+4846,Pittsfield,US
+4847,Plains,US
+4848,Plainville,US
+4849,Plan de Ayala,MX
+4850,Plano,US
+4851,Plantation,AU
+4852,Plaridel,PH
+4853,Pleasant Grove,US
+4854,Pleasant Hill,US
+4855,Pleasant Valley,US
+4856,Pleasanton,US
+4857,Pleasantville,US
+4858,Plopeni,RO
+4859,Plopu,RO
+4860,Plumpton,GB
+4861,Plympton,US
+4862,Pniewy,PL
+4863,Pocahontas,US
+4864,Pocola,US
+4865,Pocrí,PA
+4866,Podgora,HR
+4867,Podgornoye,RU
+4868,Podhum,HR
+4869,Podoleni,RO
+4870,Poduri,RO
+4871,Pogórze,PL
+4872,Poiana,RO
+4873,Poiana Mărului,RO
+4874,Poienari,RO
+4875,Poieni,RO
+4876,Poigar,ID
+4877,Point Pleasant,US
+4878,Pointe-Noire,CG
+4879,Poio,ES
+4880,Pokrovka,KG
+4881,Pokrovsk,UA
+4882,Pokrovskoye,RU
+4883,Polanco,MX
+4884,Poland,PL
+4885,Poli,
+4886,Polk City,US
+4887,Polling,US
+4888,Polo,US
+4889,Polovinnoye,RU
+4890,Poltavka,RU
+4891,Pomabamba,PE
+4892,Pomacocha,PE
+4893,Pomaretto,IT
+4894,Pomeroy,US
+4895,Pomona,US
+4896,Ponso,IT
+4897,Pont-Saint-Martin,IT
+4898,Ponta do Sol,PT
+4899,Ponte,US
+4900,Pontiac,US
+4901,Popeşti,RO
+4902,Popești,RO
+4903,Popovača,HR
+4904,Popovo,BG
+4905,Poppenhausen,DE
+4906,Port Byron,US
+4907,Port Elizabeth,ZA
+4908,Port Royal,JM
+4909,Port Washington,US
+4910,Port-Louis,MU
+4911,Portariá,GR
+4912,Portarlington,AU
+4913,Portel,PT
+4914,Porter,CA
+4915,Portezuelo,SV
+4916,Porto,US
+4917,Porvenir,US
+4918,Poręba,PL
+4919,Posada,US
+4920,Posadas,AR
+4921,Potcoava,RO
+4922,Potoci,BA
+4923,Potosi,BO
+4924,Potosí,BO
+4925,Potrerillo,AR
+4926,Potrerillos,AR
+4927,Potsdam,DE
+4928,Pottenstein,DE
+4929,Pottsville,US
+4930,Powell,US
+4931,Pozorrubio,PH
+4932,Pozuelos,ES
+4933,Połomia,PL
+4934,Poświętne,PL
+4935,Požega,HR
+4936,Prades,FR
+4937,Prado,ES
+4938,Prague,CZ
+4939,Prairie Grove,US
+4940,Prakhon Chai,TH
+4941,Prati,IT
+4942,Prato,US
+4943,Pratāpgarh,IN
+4944,Pravda,CA
+4945,Preetz,DE
+4946,Prescott,US
+4947,President Roxas,PH
+4948,Presidio,US
+4949,Prestbury,US
+4950,Priboj,RS
+4951,Prigorodnoye,
+4952,Prilep,MK
+4953,Primero de Mayo,MX
+4954,Primorsk,RU
+4955,Primorskiy,RU
+4956,Prince Albert,US
+4957,Prince George,US
+4958,Princeville,US
+4959,Pringy,FR
+4960,Prinza,ES
+4961,Privetnoye,UA
+4962,Privlaka,HR
+4963,Privolzhskiy,RU
+4964,Prnjavor,BA
+4965,Probota,RO
+4966,Profítis Ilías,GR
+4967,Proletarskiy,RU
+4968,Prospect,US
+4969,Prospect Park,US
+4970,Prosperidad,US
+4971,Prosperity,US
+4972,Providence,US
+4973,Providencia,CO
+4974,Prudy,
+4975,Prundu,RO
+4976,Przecław,PL
+4977,Przyborów,PL
+4978,Psary,PL
+4979,Pualas,PH
+4980,Puan,AR
+4981,Pucheng,CN
+4982,Puchheim,DE
+4983,Pudūr,US
+4984,Pueblo Hidalgo,MX
+4985,Pueblo Nuevo,US
+4986,Pueblo Viejo,US
+4987,Puentecillas,US
+4988,Puerres,CO
+4989,Puerto Castilla,HN
+4990,Puerto Escondido,MX
+4991,Puerto Esperanza,CU
+4992,Puerto Guzmán,CO
+4993,Puerto Lleras,CO
+4994,Puerto Real,ES
+4995,Puerto Rico,PR
+4996,Puji,
+4997,Pula,HR
+4998,Pulaski,US
+4999,Pule,US
+5000,Pulo,US
+5001,Pumpkin Center,US
+5002,Punta,US
+5003,Punta Gorda,US
+5004,Punta de Piedras,VE
+5005,Pura,US
+5006,Purani,RO
+5007,Purcăreni,RO
+5008,Purdy,US
+5009,Purificación,US
+5010,Putina,
+5011,Putineiu,RO
+5012,Putney,US
+5013,Putte,BE
+5014,Puyang,CN
+5015,Pyhäjärvi,FI
+5016,Pyrgetós,GR
+5017,Pánormos,GR
+5018,Pánuco,MX
+5019,Pénjamo,MX
+5020,Pérama,GR
+5021,Périgny,FR
+5022,Píritu,VE
+5023,Písek,CZ
+5024,Póros,GR
+5025,Pýrgos,GR
+5026,Pădureni,RO
+5027,Păltiniş,RO
+5028,Păuleşti,RO
+5029,Pınarbaşı,TR
+5030,Qala,MT
+5031,Qarah Bāgh,IR
+5032,Qianjiang,CN
+5033,Qincheng,
+5034,Qinglong,CN
+5035,Qingquan,
+5036,Qingyang,CN
+5037,Qingyuan,CN
+5038,Qobustan,AZ
+5039,Quanzhou,CN
+5040,Quattro Strade,IT
+5041,Quebrada Seca,PR
+5042,Queens Park,US
+5043,Queensbury,US
+5044,Queenscliff,AU
+5045,Queensferry,GB
+5046,Queenstown,NZ
+5047,Quero,IT
+5048,Quesada,ES
+5049,Quetzalapa,MX
+5050,Quezaltepeque,SV
+5051,Quintana Roo,MX
+5052,Quipot,PH
+5053,Quirino,PH
+5054,Quiroga,MX
+5055,Quitman,US
+5056,Quyang,CN
+5057,Rabat,MA
+5058,Rabenau,DE
+5059,Raceland,US
+5060,Racoviţa,RO
+5061,Racovița,RO
+5062,Racławice,PL
+5063,Radomir,BG
+5064,Raduzhnyy,RU
+5065,Radwanice,PL
+5066,Radzanów,PL
+5067,Rafaḩ,
+5068,Raglan,US
+5069,Rain,US
+5070,Rainier,US
+5071,Rakovica,HR
+5072,Raleigh,US
+5073,Ramberg,NO
+5074,Ramon,US
+5075,Ramos,US
+5076,Ramsau,AT
+5077,Ramsen,CH
+5078,Ramsgate,GB
+5079,Rancho Alegre,US
+5080,Rancho Grande,US
+5081,Rancho Nuevo,US
+5082,Rancho Viejo,US
+5083,Rankin,US
+5084,Rapid City,US
+5085,Rashaant,MN
+5086,Rasht,IR
+5087,Rassvet,
+5088,Ratangarh,IN
+5089,Rathdrum,US
+5090,Rathmines,IE
+5091,Rattenberg,AT
+5092,Rauna,LV
+5093,Ravenel,US
+5094,Ravenna,IT
+5095,Ravenstone,GB
+5096,Ravenswood,US
+5097,Raymond,US
+5098,Rayne,US
+5099,Rayón,MX
+5100,Razdol’noye,RU
+5101,Real,US
+5102,Recea,RO
+5103,Recodo,MX
+5104,Recreo,US
+5105,Red Bank,US
+5106,Red Hill,US
+5107,Red Lake,US
+5108,Red Lion,US
+5109,Red Oak,US
+5110,Redan,US
+5111,Redding,US
+5112,Redenção,BR
+5113,Redfield,US
+5114,Rediu,RO
+5115,Redland,US
+5116,Redlands,US
+5117,Redlynch,AU
+5118,Redwood,US
+5119,Reepham,GB
+5120,Reforma,US
+5121,Regents Park,US
+5122,Rehoboth,US
+5123,Reichelsheim,DE
+5124,Reichenbach,CH
+5125,Reidsville,US
+5126,Reinsberg,DE
+5127,Remedios,CU
+5128,Remetea,RO
+5129,Remlingen,DE
+5130,Rena,NO
+5131,Rende,IT
+5132,Renfrew,US
+5133,Reno,US
+5134,Rensselaer,US
+5135,Renton,US
+5136,Republic,US
+5137,Requena,ES
+5138,Resende,BR
+5139,Reserve,US
+5140,Restrepo,US
+5141,Rettenbach,DE
+5142,Reuth,IL
+5143,Revda,RU
+5144,Revel,US
+5145,Revere,US
+5146,Reşadiye,TR
+5147,Rhede,DE
+5148,Rheden,NL
+5149,Rheinau,DE
+5150,Rheinfelden,CH
+5151,Rialto,US
+5152,Rians,FR
+5153,Ribeira Brava,PT
+5154,Ribeira Grande,PT
+5155,Ribeira Seca,PT
+5156,Ribeirão,BR
+5157,Ricardo Flores Magón,US
+5158,Ricaurte,CO
+5159,Richardson,US
+5160,Richelieu,US
+5161,Richfield,US
+5162,Richland,US
+5163,Richlands,US
+5164,Richmond Heights,US
+5165,Richwood,US
+5166,Ridgecrest,US
+5167,Ridgefield,US
+5168,Ridgeland,US
+5169,Ridgely,US
+5170,Ried,AT
+5171,Rieden,DE
+5172,Rieux,FR
+5173,Rijswijk,NL
+5174,Rimbach,DE
+5175,Rinconada,PE
+5176,Rincón,PR
+5177,Ringgold,US
+5178,Ringwood,US
+5179,Rio Grande,US
+5180,Rio Mau,PT
+5181,Rio Tinto,CA
+5182,Rio Verde,US
+5183,Rioja,ES
+5184,Rionegro,CO
+5185,Riosucio,CO
+5186,Ripley,US
+5187,Rishton,GB
+5188,Rising Sun,US
+5189,Riva,US
+5190,Rivadavia,AR
+5191,Rivera,US
+5192,Riverdale,US
+5193,Riverton,US
+5194,Riverview,US
+5195,Rizal,PH
+5196,Roanoke,US
+5197,Robertson,US
+5198,Rochefort,FR
+5199,Rock Hill,US
+5200,Rockdale,US
+5201,Rockford,US
+5202,Rockingham,US
+5203,Rockport,US
+5204,Rockville,US
+5205,Rockwell,US
+5206,Rockwood,US
+5207,Rocky Point,MX
+5208,Rodeo,US
+5209,Rogers,US
+5210,Rogersville,US
+5211,Rogów,PL
+5212,Rogóźno,PL
+5213,Rohr,US
+5214,Rohrbach,US
+5215,Roma,US
+5216,Romanovka,RU
+5217,Romny,UA
+5218,Romsey,GB
+5219,Romsley,GB
+5220,Românești,RO
+5221,Români,US
+5222,Ronco,US
+5223,Ronda,ES
+5224,Rongcheng,CN
+5225,Rong’an,CN
+5226,Roosevelt,US
+5227,Roque,US
+5228,Roquefort,FR
+5229,Rosales,US
+5230,Rosario,AR
+5231,Rosciano,IT
+5232,Roscoe,US
+5233,Roscommon,IE
+5234,Rose Hill,US
+5235,Roseau,US
+5236,Rosebank,US
+5237,Rosebud,US
+5238,Roseland,US
+5239,Rosemont,US
+5240,Rosemount,US
+5241,Rosenberg,US
+5242,Rosenthal,US
+5243,Rosetta,US
+5244,Roshchino,RU
+5245,Rosice,CZ
+5246,Rosières,FR
+5247,Ross,US
+5248,Rossmoor,US
+5249,Rossmoyne,US
+5250,Rosso,US
+5251,Rossum,US
+5252,Rostrevor,GB
+5253,Roth,US
+5254,Rothenburg,DE
+5255,Rothley,GB
+5256,Rothwell,US
+5257,Rotonda,US
+5258,Rotunda,US
+5259,Rougemont,US
+5260,Roussillon,FR
+5261,Rouvroy,FR
+5262,Rovereto,IT
+5263,Rovnoye,RU
+5264,Roxana,US
+5265,Royalton,US
+5266,Roye,FR
+5267,Royston,US
+5268,Rozhdestveno,RU
+5269,Rozivka,UA
+5270,Roztoky,CZ
+5271,Roșiori,RO
+5272,Rudnichnyy,RU
+5273,Rudnik,PL
+5274,Runaway Bay,AU
+5275,Runcu,RO
+5276,Rus,US
+5277,Rushville,US
+5278,Russell,US
+5279,Russellville,US
+5280,Rust,US
+5281,Rutherford,US
+5282,Rutherglen,AU
+5283,Rutland,US
+5284,Rye,US
+5285,Río Bravo,
+5286,Río Chiquito,US
+5287,Río Hondo,US
+5288,Río Segundo,AR
+5289,Rădeni,MD
+5290,Rădești,RO
+5291,Saal,DE
+5292,Sabana Grande,PR
+5293,Sabanagrande,CO
+5294,Sabanalarga,CO
+5295,Sabang,ID
+5296,Sabanilla,CR
+5297,Sablons,CA
+5298,Sada,US
+5299,Sadova,RO
+5300,Sadovoye,RU
+5301,Sagana,KE
+5302,Saint Albans,US
+5303,Saint Clair,US
+5304,Saint Francis,US
+5305,Saint George,US
+5306,Saint James,US
+5307,Saint John,CA
+5308,Saint Johns,US
+5309,Saint Joseph,US
+5310,Saint Marys,US
+5311,Saint Paul,US
+5312,Saint-Alexandre,CA
+5313,Saint-Cyprien,FR
+5314,Saint-François,GP
+5315,Saint-Félicien,CA
+5316,Saint-Georges,US
+5317,Saint-Gilles,BE
+5318,Saint-Hippolyte,FR
+5319,Saint-Jean,CA
+5320,Saint-Julien,CA
+5321,Saint-Just,FR
+5322,Saint-Léonard,CA
+5323,Saint-Marcel,CA
+5324,Saint-Martin-des-Champs,FR
+5325,Saint-Martin-du-Tertre,FR
+5326,Saint-Mathieu,FR
+5327,Saint-Maurice,CH
+5328,Saint-Michel,FR
+5329,Saint-Nazaire,FR
+5330,Saint-Nicolas,CA
+5331,Saint-Ouen,FR
+5332,Saint-Paul,US
+5333,Saint-Priest,FR
+5334,Saint-Privat,FR
+5335,Saint-Rémy,FR
+5336,Saint-Saturnin,FR
+5337,Saint-Sauveur,CA
+5338,Saint-Savin,FR
+5339,Saint-Sulpice,CA
+5340,Saint-Symphorien,FR
+5341,Saint-Urbain,CA
+5342,Saint-Vallier,FR
+5343,Saint-Victor,CA
+5344,Saint-Vincent-de-Paul,US
+5345,Saint-Vérand,FR
+5346,Saint-Étienne-du-Bois,FR
+5347,Sainte-Anne,GP
+5348,Sainte-Colombe,FR
+5349,Sainte-Croix,CH
+5350,Sainte-Geneviève-des-Bois,FR
+5351,Sainte-Hélène,SH
+5352,Sainte-Marguerite,FR
+5353,Sainte-Radegonde,FR
+5354,Sainte-Rose,GP
+5355,Sainte-Suzanne,FR
+5356,Saku,CA
+5357,Sakura,US
+5358,Sala,US
+5359,Salado,US
+5360,Salamina,GR
+5361,Salamá,GT
+5362,Salas,US
+5363,Salcedo,DO
+5364,Salcia,RO
+5365,Saldaña,ES
+5366,Salento,IT
+5367,Saletto,IT
+5368,Salida,US
+5369,Saligny,US
+5370,Salina,US
+5371,Saline,US
+5372,Salitral,MX
+5373,Salitrillo,SV
+5374,Salla,FI
+5375,Salsipuedes,MX
+5376,Saltillo,MX
+5377,Saluda,US
+5378,Salvacion,US
+5379,Salvador,BR
+5380,Salvador Urbina,MX
+5381,Samaniego,ES
+5382,Samaná,DO
+5383,Same,
+5384,Samokov,BG
+5385,Samone,IT
+5386,Samos,GR
+5387,Sampaloc,PH
+5388,Sampang,ID
+5389,Sampao,US
+5390,San Agustin,US
+5391,San Agustín,US
+5392,San Andres,CO
+5393,San Andrés,CO
+5394,San Antonio Buenavista,MX
+5395,San Antonio de la Cal,MX
+5396,San Antonio del Monte,SV
+5397,San Bartolo,PE
+5398,San Bartolomeo,IT
+5399,San Bartolomé,ES
+5400,San Basilio,CO
+5401,San Bernardino,US
+5402,San Bernardo,CO
+5403,San Biagio,US
+5404,San Blas,PA
+5405,San Casimiro,VE
+5406,San Cassiano,IT
+5407,San Cayetano,US
+5408,San Enrique,PH
+5409,San Esteban,MX
+5410,San Germán,PR
+5411,San Giacomo,US
+5412,San Giorgio,US
+5413,San Giovanni,US
+5414,San Giuseppe,US
+5415,San Gregorio,US
+5416,San Ignacio,BZ
+5417,San Ildefonso,US
+5418,San Jerónimo,MX
+5419,San Joaquin,US
+5420,San Joaquín,US
+5421,San Jorge,HN
+5422,San José de Gracia,MX
+5423,San José de la Montaña,CR
+5424,San José de las Flores,MX
+5425,San José del Potrero,HN
+5426,San José del Progreso,MX
+5427,San José del Valle,ES
+5428,San Juan Bautista,US
+5429,San Juan Mixtepec,MX
+5430,San Juan de Abajo,MX
+5431,San Juan de Dios,MX
+5432,San Juan del Río,US
+5433,San Juanito,US
+5434,San Julian,US
+5435,San Julián,AR
+5436,San Justo,AR
+5437,San Leonardo,IT
+5438,San Lorenzo Tlalmimilolpan,MX
+5439,San Lucas,MX
+5440,San Manuel,US
+5441,San Mariano,PH
+5442,San Martin,US
+5443,San Martino,IT
+5444,San Michele,US
+5445,San Miguelito,US
+5446,San Nicolás,US
+5447,San Nicolás Tolentino,MX
+5448,San Nicolò,IT
+5449,San Paolo,IT
+5450,San Pascual,US
+5451,San Patricio,US
+5452,San Pedro Mixtepec,MX
+5453,San Pedro Mártir,MX
+5454,San Pedro Sacatepéquez,GT
+5455,San Pedro el Alto,MX
+5456,San Pelayo,CO
+5457,San Pietro,US
+5458,San Ramon,US
+5459,San Ramón,US
+5460,San Remigio,PH
+5461,San Remo,IT
+5462,San Rocco,US
+5463,San Roque,US
+5464,San Salvador,SV
+5465,San Sebastian,ES
+5466,San Sebastián,ES
+5467,San Simón,US
+5468,San Teodoro,IT
+5469,San Vito,US
+5470,San Ángel,MX
+5471,Sanchahe,CN
+5472,Sand,US
+5473,Sande,NO
+5474,Sandford,US
+5475,Sandhurst,GB
+5476,Sandown,US
+5477,Sandringham,GB
+5478,Sandusky,US
+5479,Sandvika,NO
+5480,Sandwich,US
+5481,Sandy,US
+5482,Sandy Bay,AU
+5483,Sanger,US
+5484,Sangiyn Dalay,
+5485,Sangju,KR
+5486,Sanhe,CN
+5487,Sanjiang,CN
+5488,Sankt Gallen,CH
+5489,Sankt Leonhard,AT
+5490,Sankt Martin,DE
+5491,Sans Souci,US
+5492,Sant'Alberto,IT
+5493,Sant'Andrea,US
+5494,Sant'Angelo,IT
+5495,Sant'Antonio,US
+5496,Sant'Apollinare,IT
+5497,Santa,US
+5498,Santa Ana Jilotzingo,MX
+5499,Santa Anita,US
+5500,Santa Apolonia,PT
+5501,Santa Brigida,ES
+5502,Santa Bárbara,US
+5503,Santa Catalina,US
+5504,Santa Catarina,BR
+5505,Santa Eulalia,ES
+5506,Santa Fé,US
+5507,Santa Lucia,US
+5508,Santa Marta,CO
+5509,Santa Martha,CO
+5510,Santa María,US
+5511,Santa María Nativitas,MX
+5512,Santa María de los Ángeles,MX
+5513,Santa María del Oro,MX
+5514,Santa Monica,US
+5515,Santa Mónica,US
+5516,Santa Rosa de Lima,US
+5517,Santa Rosalía,MX
+5518,Santa Teresa,CR
+5519,Santa Teresita,US
+5520,Santana,US
+5521,Santo André,BR
+5522,Santo Cristo,US
+5523,Santo Niño,US
+5524,Santo Rosario,US
+5525,Santo Stefano,US
+5526,Santo Tomas,CO
+5527,Santo Tomás,MX
+5528,Santol,US
+5529,Santuario,US
+5530,Sapucaia,BR
+5531,Saratoga,US
+5532,Saray,US
+5533,Sardasht,IR
+5534,Sardis,US
+5535,Sasbach,DE
+5536,Sasi,US
+5537,Satis,US
+5538,Satu Mare,RO
+5539,Satu Nou,RO
+5540,Sauce,US
+5541,Sault Ste. Marie,US
+5542,Savage,US
+5543,Savannah,US
+5544,Savigny,FR
+5545,Sawang,BT
+5546,Saxon,US
+5547,Sayansk,RU
+5548,Saynshand,MN
+5549,Sayre,US
+5550,Schapen,DE
+5551,Scheia,RO
+5552,Schitu,RO
+5553,Schlierbach,DE
+5554,Schmitten,AT
+5555,Schopfloch,DE
+5556,Schorndorf,DE
+5557,Schwalbach,DE
+5558,Schwalmtal,DE
+5559,Schwarzach,DE
+5560,Schwarzenbach,DE
+5561,Schwarzenberg,DE
+5562,Schwenningen,DE
+5563,Schömberg,DE
+5564,Schönau,DE
+5565,Schönbach,AT
+5566,Schönberg,DE
+5567,Schönwald,DE
+5568,Scone,US
+5569,Scorţeni,RO
+5570,Scott City,US
+5571,Scottdale,US
+5572,Scottsdale,US
+5573,Scottsville,US
+5574,Scurtești,RO
+5575,Scânteia,RO
+5576,Scărişoara,RO
+5577,Seabrook,US
+5578,Seaca,US
+5579,Seacliff,US
+5580,Seaforth,US
+5581,Seaside,US
+5582,Seaton,US
+5583,Sebaste,TR
+5584,Sebastian,US
+5585,Sebastián Lerdo de Tejada,MX
+5586,Sebastopol,US
+5587,Sebring,US
+5588,Secuieni,RO
+5589,Seda,US
+5590,Sedan,US
+5591,Sedgwick,US
+5592,Sedlice,CZ
+5593,Seebach,DE
+5594,Seedorf,US
+5595,Seehausen,DE
+5596,Seewalchen,AT
+5597,Seis de Enero,
+5598,Selah,US
+5599,Selby,GB
+5600,Selce,HR
+5601,Selitë,AL
+5602,Selkirk,US
+5603,Selters,DE
+5604,Selva,US
+5605,Semenivka,UA
+5606,Seminole,US
+5607,Seneca,US
+5608,Senftenberg,DE
+5609,Senj,HR
+5610,Senovo,DE
+5611,Seoni,IN
+5612,Serebryanka,
+5613,Sergelen,MN
+5614,Sergeyevka,KZ
+5615,Sernovodsk,RU
+5616,Serra,US
+5617,Serrano,US
+5618,Serravalle,IT
+5619,Serre,CA
+5620,Serzedo,PT
+5621,Settimo,IT
+5622,Seven Hills,US
+5623,Severka,RU
+5624,Severnoye,RU
+5625,Severnyy,RU
+5626,Seville,ES
+5627,Seward,US
+5628,Sferracavallo,IT
+5629,Sfântu Gheorghe,RO
+5630,Shahrak,AF
+5631,Shahumyan,AM
+5632,Shamrock,US
+5633,Shancheng,US
+5634,Shangjie,US
+5635,Shannon,IE
+5636,Shaping,
+5637,Sharan,
+5638,Sharga,MN
+5639,Sharon,US
+5640,Sharpsburg,US
+5641,Shaw,US
+5642,Sheffield,GB
+5643,Shelburne,US
+5644,Sheldon,US
+5645,Shell Point,US
+5646,Shelley,US
+5647,Shelton,US
+5648,Shenandoah,US
+5649,Shenavan,AM
+5650,Shengli,US
+5651,Shepherd,US
+5652,Sherburn,US
+5653,Sheridan,US
+5654,Sherman,US
+5655,Shevchenkove,UA
+5656,Shibetsu,JP
+5657,Shillington,US
+5658,Shiloh,US
+5659,Shilu,CN
+5660,Shima,US
+5661,Shimonoseki,JP
+5662,Shiqiao,CN
+5663,Shiree,US
+5664,Shorewood,US
+5665,Shoushan,TW
+5666,Shuangjiang,CN
+5667,Shuangxi,TW
+5668,Shuya,US
+5669,Shyroke,UA
+5670,Shëngjin,AL
+5671,Siano,US
+5672,Sibley,US
+5673,Sibul,US
+5674,Sibulan,PH
+5675,Sicheng,
+5676,Sidi Moussa,DZ
+5677,Sidney,US
+5678,Sidzina,PL
+5679,Siedliska,PL
+5680,Sieniawa,PL
+5681,Sierra de Agua,BZ
+5682,Siliştea,RO
+5683,Silkstone,GB
+5684,Silvan,US
+5685,Silver Lake,US
+5686,Silver Springs,US
+5687,Silverdale,US
+5688,Silverton,US
+5689,Simala,PH
+5690,Simmern,DE
+5691,Simpang,US
+5692,Simpang Empat,MY
+5693,Simpson,US
+5694,Simpsonville,US
+5695,Sinagra,AU
+5696,Sinait,PH
+5697,Sinan,IR
+5698,Sindi,EE
+5699,Sineşti,RO
+5700,Singa,US
+5701,Singleton,US
+5702,Sini,US
+5703,Sinjār,IQ
+5704,Sinubong,PH
+5705,Sison,US
+5706,Sivrice,TR
+5707,Siyang,US
+5708,Skelton,US
+5709,Skrzyszów,PL
+5710,Skála,FO
+5711,Skänninge,SE
+5712,Skåre,SE
+5713,Skópelos,GR
+5714,Slater,US
+5715,Slatina,RO
+5716,Sleepy Hollow,US
+5717,Sloboda,US
+5718,Slănic,RO
+5719,Smedby,SE
+5720,Smithfield,US
+5721,Smithton,US
+5722,Smithville,US
+5723,Smârdan,RO
+5724,Snezhnogorsk,RU
+5725,Snow Hill,US
+5726,Snyder,US
+5727,Soave,IT
+5728,Sobrado,US
+5729,Soci,US
+5730,Soconusco,MX
+5731,Sogod,PH
+5732,Sohodol,RO
+5733,Sokolniki,PL
+5734,Sola,US
+5735,Solana,US
+5736,Solano,US
+5737,Solaro,US
+5738,Solarolo,IT
+5739,Soldiers Hill,AU
+5740,Soledad Atzompa,MX
+5741,Soledade,BR
+5742,Solesmes,FR
+5743,Solnechniy,RU
+5744,Solnechnoye,RU
+5745,Solnechnyy,RU
+5746,Solntsevo,RU
+5747,Solon,US
+5748,Solsona,ES
+5749,Soma,US
+5750,Somers,US
+5751,Somerton,US
+5752,Somerville,US
+5753,Song,US
+5754,Songyang,CN
+5755,Songyuan,CN
+5756,Sonora,MX
+5757,Sopot,PL
+5758,Sora,US
+5759,Sorrento,IT
+5760,Sosa,US
+5761,Sosnovka,RU
+5762,Sosnovoborsk,RU
+5763,Sosnówka,PL
+5764,Soufrière,LC
+5765,Souillac,FR
+5766,Soure,US
+5767,Souris,US
+5768,South Amherst,US
+5769,South Beach,US
+5770,South Bend,US
+5771,South Boston,US
+5772,South Charleston,US
+5773,South Haven,US
+5774,South Hill,US
+5775,South Lebanon,US
+5776,South Pasadena,US
+5777,South Point,US
+5778,South River,US
+5779,South Shore,US
+5780,South Windham,US
+5781,South Windsor,US
+5782,Southampton,GB
+5783,Southfield,US
+5784,Southgate,US
+5785,Southmont,US
+5786,Southside,US
+5787,Southwick,US
+5788,Sovetskaya,RU
+5789,Sovetskiy,KG
+5790,Sovetskoye,KG
+5791,Sovkhoznoye,RU
+5792,Sovkhoznyy,RU
+5793,Spalding,US
+5794,Sparks,US
+5795,Sparta,US
+5796,Spassk,RU
+5797,Spasskoye,RU
+5798,Spay,US
+5799,Speicher,DE
+5800,Spencer,US
+5801,Spencerville,US
+5802,Spirit Lake,US
+5803,Spotswood,US
+5804,Spring City,US
+5805,Spring Grove,US
+5806,Spring Lake,US
+5807,Spring Ridge,US
+5808,Springdale,US
+5809,Springhill,US
+5810,Springs,US
+5811,Springvale,US
+5812,Springville,US
+5813,Springwood,US
+5814,Spytkowice,PL
+5815,Srbica,
+5816,St Helens,US
+5817,St Leonards,US
+5818,St Marys,US
+5819,Stammham,DE
+5820,Stanfield,US
+5821,Stanford,US
+5822,Stanhope,US
+5823,Stanmore,GB
+5824,Stanowice,PL
+5825,Stans,CH
+5826,Stanton,US
+5827,Stapleton,US
+5828,Star City,US
+5829,Staraya Stanitsa,RU
+5830,Stare Miasto,PL
+5831,Stari Grad,HR
+5832,Staré Město,CZ
+5833,Staufen,DE
+5834,Staunton,US
+5835,Staveley,GB
+5836,Stavrós,GR
+5837,Stavyshche,UA
+5838,Stazione,US
+5839,Steele,US
+5840,Stein,US
+5841,Steinach,DE
+5842,Steinbach,CA
+5843,Steinen,DE
+5844,Steinfeld,US
+5845,Steinhagen,DE
+5846,Steinheim,DE
+5847,Steinkirchen,DE
+5848,Stejaru,RO
+5849,Stella,US
+5850,Stenstorp,SE
+5851,Stephenville,US
+5852,Stepnoye,RU
+5853,Stetten,DE
+5854,Stevenson,US
+5855,Stevensville,US
+5856,Stewartville,US
+5857,Stickney,US
+5858,Stigliano,IT
+5859,Stirling,GB
+5860,Stockbridge,US
+5861,Stockheim,DE
+5862,Stockton,US
+5863,Stoeneşti,RO
+5864,Stoenești,RO
+5865,Stolberg,DE
+5866,Stone,US
+5867,Stonehouse,US
+5868,Stoneville,US
+5869,Stonewall,US
+5870,Stony Point,US
+5871,Storvik,SE
+5872,Stoughton,US
+5873,Stow,US
+5874,Stowe,US
+5875,Strada,US
+5876,Stradella,IT
+5877,Strafford,US
+5878,Straja,RO
+5879,Strasburg,US
+5880,Strassen,LU
+5881,Strathalbyn,US
+5882,Strathmore,US
+5883,Stratton,US
+5884,Straume,NO
+5885,Straumen,NO
+5886,Strelka,RU
+5887,Stretton,GB
+5888,Stroiești,RO
+5889,Stroud,GB
+5890,Strum,US
+5891,Strzelno,PL
+5892,Strzyżowice,PL
+5893,Strâmtura,RO
+5894,Stuart,US
+5895,Stubenberg,AT
+5896,Sturgis,US
+5897,Stuttgart,DE
+5898,Stăneşti,RO
+5899,Stăuceni,MD
+5900,Stężyca,PL
+5901,Subang,MY
+5902,Subiaco,US
+5903,Subic,PH
+5904,Suicheng,CN
+5905,Sukadana,ID
+5906,Sulak,US
+5907,Sulangan,PH
+5908,Sullivan,US
+5909,Sultānpur,IN
+5910,Sulz,DE
+5911,Summit,US
+5912,Sumner,US
+5913,Sun Valley,US
+5914,Sunbury,US
+5915,Sungai Raya,ID
+5916,Sunnyslope,US
+5917,Sunnyvale,US
+5918,Sunset,US
+5919,Sunset Beach,US
+5920,Sunzha,RU
+5921,Superior,US
+5922,Sur,US
+5923,Surabaya,ID
+5924,Surf City,US
+5925,Surfside,US
+5926,Surgut,RU
+5927,Surrey,GB
+5928,Surry,US
+5929,Susa,IR
+5930,Susanino,RU
+5931,Suseni,RO
+5932,Sussex,US
+5933,Sutherland,US
+5934,Sutton,US
+5935,Suvorovo,BG
+5936,Suyo,US
+5937,Suárez,US
+5938,Sułkowice,PL
+5939,Sułów,PL
+5940,Svetlogorsk,RU
+5941,Svetlyy,RU
+5942,Svislach,BY
+5943,Svobodnyy,RU
+5944,Sweetwater,US
+5945,Sylva,US
+5946,Sylvania,US
+5947,Sypniewo,PL
+5948,Szydłowo,PL
+5949,Sánchez,US
+5950,Sâncrai,RO
+5951,Sârbi,RO
+5952,São Mateus,BR
+5953,São Pedro do Sul,PT
+5954,São Roque,BR
+5955,São Sebastião,BR
+5956,São Tomé,ST
+5957,São Vicente,CV
+5958,Söğütlü,TR
+5959,Săcel,RO
+5960,Săcele,RO
+5961,Săcueni,RO
+5962,Sălcioara,RO
+5963,Sălcuța,MD
+5964,Sărata,UA
+5965,Săruleşti,RO
+5966,Sărățeni,RO
+5967,Săveni,RO
+5968,Sławno,PL
+5969,Słubice,PL
+5970,Słupia,PL
+5971,Słupno,PL
+5972,Tabon,US
+5973,Taft,US
+5974,Taiping,MY
+5975,Taizhou,CN
+5976,Tala,US
+5977,Talalayivka,UA
+5978,Talavera,US
+5979,Talheim,DE
+5980,Talisayan,PH
+5981,Taloy,PH
+5982,Taltal,CL
+5983,Tama,US
+5984,Tamayo,US
+5985,Tamazula,MX
+5986,Tambo,US
+5987,Tamboril,DO
+5988,Tambovka,RU
+5989,Tampakan,PH
+5990,Tanah Merah,MY
+5991,Tanay,PH
+5992,Tancheng,CN
+5993,Tangstedt,DE
+5994,Tanjung,ID
+5995,Tanjung Lubuk,ID
+5996,Tanjungampalu,ID
+5997,Tanjungbatu,ID
+5998,Tanjunggadang,ID
+5999,Tann,DE
+6000,Tannheim,AT
+6001,Tansa,MX
+6002,Tanta,US
+6003,Tanza,PH
+6004,Taocheng,
+6005,Taos,US
+6006,Tapejara,BR
+6007,Taperoá,BR
+6008,Tapon,PH
+6009,Tar,US
+6010,Tara,US
+6011,Taraksu,TR
+6012,Tarata,PE
+6013,Tarbagatay,KZ
+6014,Taretán,MX
+6015,Tarnowiec,PL
+6016,Tarragona,ES
+6017,Tata,US
+6018,Tatsuno,JP
+6019,Taufkirchen,DE
+6020,Taura,NZ
+6021,Tavares,US
+6022,Taverna,US
+6023,Tavernelle,IT
+6024,Tavistock,US
+6025,Taylorsville,US
+6026,Taytay,PH
+6027,Taşköprü,TR
+6028,Tecumseh,US
+6029,Temple,US
+6030,Templeton,US
+6031,Tenango,US
+6032,Tepetzingo,MX
+6033,Terme,TR
+6034,Ternovka,UA
+6035,Terny,UA
+6036,Terrace Heights,US
+6037,Terre Haute,US
+6038,Terrebonne,CA
+6039,Terry,US
+6040,Terrytown,US
+6041,Terryville,US
+6042,Teruel,ES
+6043,Teslui,RO
+6044,Tetitlán,MX
+6045,Tetla,MX
+6046,Teulada,ES
+6047,Texcala,MX
+6048,Texcatepec,MX
+6049,Thal,
+6050,Theodore,US
+6051,Thomaston,US
+6052,Thompson,US
+6053,Thornbury,US
+6054,Thornton,US
+6055,Three Lakes,US
+6056,Three Oaks,US
+6057,Three Rivers,US
+6058,Thurso,GB
+6059,Thạnh Mỹ,VN
+6060,Tiefenbach,US
+6061,Tierra Blanca,MX
+6062,Tierra Colorada,MX
+6063,Tierra Nueva,US
+6064,Tiltepec,MX
+6065,Tilton,US
+6066,Tinajas,MX
+6067,Tipton,US
+6068,Titusville,US
+6069,Tiverton,US
+6070,Tivoli,US
+6071,Tiwi,AU
+6072,Tlachichilco,MX
+6073,Tlacomulco,MX
+6074,Tlacotepec,MX
+6075,Tlalnepantla,MX
+6076,Tlanepantla,MX
+6077,Todireşti,RO
+6078,Tolga,NO
+6079,Tolosa,US
+6080,Tomatlán,MX
+6081,Tomeşti,RO
+6082,Tonalixco,MX
+6083,Torcy,FR
+6084,Toro,US
+6085,Toronto,CA
+6086,Torquay,GB
+6087,Torralba,ES
+6088,Torrance,US
+6089,Torrent,US
+6090,Torrenueva,ES
+6091,Torres,BR
+6092,Torretta,IT
+6093,Torricella,IT
+6094,Torrijos,ES
+6095,Torrington,US
+6096,Tortosa,ES
+6097,Totolapa,MX
+6098,Totora,US
+6099,Totoral,AR
+6100,Toulon,FR
+6101,Towanda,US
+6102,Town and Country,US
+6103,Townsend,US
+6104,Tracy,US
+6105,Trafalgar,US
+6106,Traian,US
+6107,Tran,US
+6108,Trancoso,BR
+6109,Tranmere,CA
+6110,Trappe,US
+6111,Trebbio,IT
+6112,Treia,US
+6113,Tremont,US
+6114,Trifeşti,RO
+6115,Trinity,US
+6116,Triunfo,US
+6117,Trnava,SK
+6118,Trogen,CH
+6119,Trois-Rivières,CA
+6120,Troitskaya,RU
+6121,Troitskiy,
+6122,Troitskoye,RU
+6123,Tronconal,MX
+6124,Trostyanets’,UA
+6125,Trudovoye,RU
+6126,Trun,CH
+6127,Tryon,US
+6128,Trzciana,PL
+6129,Trzcinica,PL
+6130,Trzebinia,PL
+6131,Tríkala,GR
+6132,Trąbki,PL
+6133,Tsagaan-Ovoo,MN
+6134,Tselinnoye,RU
+6135,Tsetserleg,MN
+6136,Tsushima,US
+6137,Tuao,PH
+6138,Tuban,ID
+6139,Tubao,PH
+6140,Tubod,PH
+6141,Tuburan,PH
+6142,Tuckahoe,US
+6143,Tudela,ES
+6144,Tudor Vladimirescu,RO
+6145,Tufeni,RO
+6146,Tula,US
+6147,Tuojiang,CN
+6148,Tura,US
+6149,Turda,RO
+6150,Turgut,TR
+6151,Turka,UA
+6152,Turner,US
+6153,Tuscumbia,US
+6154,Tuta,US
+6155,Tuxtla,MX
+6156,Tuzamapan,MX
+6157,Tuzla,BA
+6158,Twin Lakes,US
+6159,Tyler,US
+6160,Tyrnyauz,RU
+6161,Tyrone,US
+6162,Tzicatlán,MX
+6163,Támara,US
+6164,Tân Châu,VN
+6165,Tân Hiệp,VN
+6166,Tân Phú,VN
+6167,Târnava,RO
+6168,Târnova,RO
+6169,Tögrög,MN
+6170,Tătaru,RO
+6171,Tătărani,RO
+6172,Ubalá,CO
+6173,Uda,US
+6174,Udarnyy,RU
+6175,Udel’naya,RU
+6176,Uglovoye,RU
+6177,Ujazd,PL
+6178,Ukrainka,UA
+6179,Ula,US
+6180,Ulaan-Uul,MN
+6181,Ulmeni,RO
+6182,Ulmi,RO
+6183,Ulmu,MD
+6184,Ulubey,TR
+6185,Umatilla,US
+6186,Ummendorf,DE
+6187,Umraniye,TR
+6188,Umurbey,TR
+6189,Unadilla,US
+6190,Ungheni,MD
+6191,Ungsang,
+6192,Ungureni,RO
+6193,Unidad Habitacional José María Morelos y Pavón,MX
+6194,Unidos,US
+6195,Union,US
+6196,Union Springs,US
+6197,Uniontown,US
+6198,Unionville,US
+6199,Unirea,RO
+6200,Unity,US
+6201,University,US
+6202,University Heights,US
+6203,Unión,US
+6204,Unión Juárez,MX
+6205,Upi,US
+6206,Upland,US
+6207,Upton,US
+6208,Urayasu,JP
+6209,Urbach,DE
+6210,Urbana,US
+6211,Urecheşti,RO
+6212,Uri,US
+6213,Urozhaynoye,
+6214,Urt,FR
+6215,Urziceni,RO
+6216,Uspenka,UA
+6217,Uta,US
+6218,Utica,US
+6219,Utrecht,NL
+6220,Uttendorf,AT
+6221,Uvarovka,RU
+6222,Uvarovo,RU
+6223,Uxbridge,US
+6224,Vacha,DE
+6225,Vad,CA
+6226,Vado,US
+6227,Vadu Izei,RO
+6228,Vail,US
+6229,Valdez,US
+6230,Valdice,CZ
+6231,Valdivia,CL
+6232,Vale,CA
+6233,Valea Mare,RO
+6234,Valea Părului,RO
+6235,Valea Seacă,RO
+6236,Valence,US
+6237,Valentine,US
+6238,Valenza,US
+6239,Valenzuela,PH
+6240,Valga,EE
+6241,Valkenburg,NL
+6242,Valla,US
+6243,Valle Hermoso,MX
+6244,Valle Vista,US
+6245,Valle de Juárez,MX
+6246,Valle de Ángeles,HN
+6247,Vallecillo,MX
+6248,Vallenar,CL
+6249,Valley,US
+6250,Valley Center,US
+6251,Valley Falls,US
+6252,Valley View,US
+6253,Valmala,IT
+6254,Valongo,PT
+6255,Valparaiso,US
+6256,Valverde,US
+6257,Vama,US
+6258,Van,US
+6259,Van Buren,US
+6260,Vandalia,US
+6261,Vargas,VE
+6262,Varna,BG
+6263,Vathý,GR
+6264,Vedea,RO
+6265,Veinte de Noviembre,MX
+6266,Veinticinco de Mayo,AR
+6267,Velden,AT
+6268,Veltheim,CH
+6269,Venecia,IT
+6270,Ventosa,US
+6271,Vera,US
+6272,Verdun,FR
+6273,Vereya,
+6274,Vergara,UY
+6275,Vermilion,US
+6276,Vernouillet,FR
+6277,Verona,IT
+6278,Versailles,FR
+6279,Vescovato,IT
+6280,Vesele,US
+6281,Vetluzhskiy,RU
+6282,Veyras,CH
+6283,Vi,US
+6284,Viadana,IT
+6285,Viale,US
+6286,Vicente Guerrero,MX
+6287,Vicksburg,US
+6288,Victor,US
+6289,Vidalia,US
+6290,Vidor,US
+6291,Vidra,RO
+6292,Vidyayevo,RU
+6293,Viga,US
+6294,Vignola,IT
+6295,Vigo,ES
+6296,Viile,RO
+6297,Viimsi,EE
+6298,Viişoara,RO
+6299,Viișoara,RO
+6300,Vik,IS
+6301,Viken,NO
+6302,Vila Verde,US
+6303,Vilcabamba,EC
+6304,Villa,US
+6305,Villa Aldama,MX
+6306,Villa Castelli,IT
+6307,Villa Constitución,AR
+6308,Villa Cuauhtémoc,MX
+6309,Villa Elisa,AR
+6310,Villa Emiliano Zapata,MX
+6311,Villa Guerrero,MX
+6312,Villa Hidalgo,MX
+6313,Villa Juárez,MX
+6314,Villa Luvianos,MX
+6315,Villa Madero,MX
+6316,Villa Morelos,MX
+6317,Villa Ocampo,MX
+6318,Villa Park,US
+6319,Villa Rica,US
+6320,Villa Unión,MX
+6321,Villa Verde,US
+6322,Villa Vicente Guerrero,MX
+6323,Villa Victoria,US
+6324,Villa de Guadalupe,US
+6325,Villa del Campo,MX
+6326,Villa del Rosario,CO
+6327,Villaescusa,ES
+6328,Villaflores,US
+6329,Villafranca,IT
+6330,Villagrande,US
+6331,Villagrán,MX
+6332,Villahermosa,MX
+6333,Villalba,PR
+6334,Villamar,US
+6335,Villanova,US
+6336,Villarosa,US
+6337,Villas,US
+6338,Villaviciosa,ES
+6339,Villavieja,CO
+6340,Villeneuve,CA
+6341,Villepinte,FR
+6342,Villers-Bocage,FR
+6343,Vilémov,CZ
+6344,Vineland,US
+6345,Vineuil,FR
+6346,Vineyard,US
+6347,Vinica,MK
+6348,Vinogradnoye,RU
+6349,Vinogradovo,RU
+6350,Vinton,US
+6351,Viola,US
+6352,Vir,US
+6353,Virden,US
+6354,Virginia,US
+6355,Virginia City,US
+6356,Visoko,BA
+6357,Vista Alegre,US
+6358,Vista Hermosa,US
+6359,Vita,US
+6360,Vithkuq,AL
+6361,Vitina,
+6362,Vitis,US
+6363,Vito,US
+6364,Vizela,PT
+6365,Vişina,RO
+6366,Vlădeni,RO
+6367,Vlădeşti,RO
+6368,Vlčnov,CZ
+6369,Vodice,HR
+6370,Voineasa,RO
+6371,Voineşti,RO
+6372,Volga,RU
+6373,Volovo,US
+6374,Volzhskiy,RU
+6375,Vorontsovka,AM
+6376,Voskresenskoye,RU
+6377,Vostochnyy,RU
+6378,Vostok,MX
+6379,Vougy,FR
+6380,Vouillé,FR
+6381,Voykovo,UA
+6382,Voznesenskaya,
+6383,Vrbice,CZ
+6384,Vrbovec,HR
+6385,Vredenburg,ZA
+6386,Vulcan,US
+6387,Vultureni,RO
+6388,Vultureşti,RO
+6389,Vulturu,RO
+6390,Vurpăr,RO
+6391,Vyshneve,UA
+6392,Vári,GR
+6393,Vâlcele,RO
+6394,Vâlcelele,RO
+6395,Vânători,RO
+6396,Vöhringen,DE
+6397,Vădurele,RO
+6398,Văleni,RO
+6399,Vĩnh Thạnh,VN
+6400,Vřesina,CZ
+6401,Waddington,US
+6402,Wadena,US
+6403,Wadsworth,US
+6404,Waeng,TH
+6405,Wageningen,NL
+6406,Wagrain,AT
+6407,Waialua,US
+6408,Wailua,US
+6409,Waimea,US
+6410,Waitara,NZ
+6411,Wald,US
+6412,Waldbrunn,DE
+6413,Walden,US
+6414,Waldenburg,DE
+6415,Waldkirch,DE
+6416,Waldkirchen,DE
+6417,Waldo,US
+6418,Waldstetten,DE
+6419,Wales,GB
+6420,Walford,US
+6421,Walker,US
+6422,Walkertown,US
+6423,Wallace,US
+6424,Walldorf,DE
+6425,Waller,US
+6426,Wallhausen,DE
+6427,Wallingford,US
+6428,Wallington,US
+6429,Wallsend,GB
+6430,Walnut,US
+6431,Walnut Grove,US
+6432,Waltham,US
+6433,Walton,US
+6434,Walworth,US
+6435,Wang,US
+6436,Wangen,DE
+6437,Warden,US
+6438,Ware,US
+6439,Waren,DE
+6440,Warkworth,GB
+6441,Warm Springs,US
+6442,Warner,US
+6443,Warrensburg,US
+6444,Warrenton,US
+6445,Warrenville,US
+6446,Warrington,US
+6447,Warsaw,PL
+6448,Wartburg,US
+6449,Wartenberg,DE
+6450,Warth,AT
+6451,Warton,GB
+6452,Washburn,US
+6453,Washington Heights,US
+6454,Washington Park,US
+6455,Waslala,NI
+6456,Wasserburg,DE
+6457,Waterbury,US
+6458,Waterville,US
+6459,Watervliet,US
+6460,Wates,US
+6461,Watford,US
+6462,Watson,US
+6463,Wattle Grove,AU
+6464,Watton,GB
+6465,Wau,US
+6466,Waverly,US
+6467,Waverton,US
+6468,Wawa,US
+6469,Wayland,US
+6470,Waynesboro,US
+6471,Waynesville,US
+6472,Weatherford,US
+6473,Weaverville,US
+6474,Weber City,US
+6475,Webster,US
+6476,Wedgefield,US
+6477,Wehr,US
+6478,Weibern,DE
+6479,Weilbach,DE
+6480,Weiler,US
+6481,Weilheim,DE
+6482,Weimar,DE
+6483,Weingarten,DE
+6484,Weinsheim,DE
+6485,Weissach,CA
+6486,Weiten,AT
+6487,Weiyuan,
+6488,Weißenborn,DE
+6489,Weißensee,DE
+6490,Welcome,US
+6491,Weldon,US
+6492,Welford,GB
+6493,Wellen,US
+6494,Wellesley,US
+6495,Wells,US
+6496,Wellston,US
+6497,Wellsville,US
+6498,Wembley,GB
+6499,Wenchang,CN
+6500,Wendell,US
+6501,Wenden,US
+6502,Wendover,US
+6503,Wenquan,CN
+6504,Wentworth,US
+6505,Werda,DE
+6506,Werrington,AU
+6507,Wesley Chapel,US
+6508,Wesoła,PL
+6509,West Beach,US
+6510,West Branch,US
+6511,West Columbia,US
+6512,West End,US
+6513,West Gate,US
+6514,West Haven,US
+6515,West Hills,US
+6516,West Jefferson,US
+6517,West Lafayette,US
+6518,West Lawn,US
+6519,West Liberty,US
+6520,West Melbourne,US
+6521,West Monroe,US
+6522,West Orange,US
+6523,West Park,US
+6524,West Point,US
+6525,West Salem,US
+6526,West Union,US
+6527,Westbrook,US
+6528,Westcourt,US
+6529,Westendorf,US
+6530,Westerheim,DE
+6531,Westhampton,US
+6532,Westheim,DE
+6533,Westhill,US
+6534,Westlake,US
+6535,Westmoreland,US
+6536,Westover,US
+6537,Westport,US
+6538,Westville,US
+6539,Westwood,US
+6540,Wharton,US
+6541,Wheatland,US
+6542,Whetstone,US
+6543,Whiston,GB
+6544,Whitburn,GB
+6545,Whitchurch,GB
+6546,White City,US
+6547,White Hall,GB
+6548,White Plains,US
+6549,White River,US
+6550,White Rock,US
+6551,White Sulphur Springs,US
+6552,Whitefield,IN
+6553,Whitehall,GB
+6554,Whitesboro,US
+6555,Whitfield,US
+6556,Whittington,US
+6557,Wick,US
+6558,Wickham,US
+6559,Wielka Wieś,PL
+6560,Wilburton,US
+6561,Wilder,US
+6562,Wildwood,US
+6563,Wilków,PL
+6564,Willard,US
+6565,Willaston,GB
+6566,Williams,US
+6567,Williamson,US
+6568,Williamsport,US
+6569,Williamston,US
+6570,Williamstown,US
+6571,Williston,US
+6572,Willowbrook,US
+6573,Wilson,US
+6574,Wilton,CA
+6575,Windham,US
+6576,Winfield,US
+6577,Wingham,CA
+6578,Winnsboro,US
+6579,Winona,US
+6580,Winslow,US
+6581,Winston,US
+6582,Winthrop,US
+6583,Winton,US
+6584,Woodbine,CA
+6585,Woodbridge,US
+6586,Woodburn,US
+6587,Woodbury,US
+6588,Woodend,US
+6589,Woodford,US
+6590,Woodside,US
+6591,Woodville,US
+6592,Wootton,US
+6593,Worthington,US
+6594,Wright,US
+6595,Wrightsville,US
+6596,Wucheng,CN
+6597,Wufeng,TW
+6598,Wuhu,CN
+6599,Wustrow,DE
+6600,Wuyang,CN
+6601,Wynyard,AU
+6602,Wyoming,US
+6603,Wysoka,PL
+6604,Wąsosz,PL
+6605,Xalatlaco,MX
+6606,Xaltepec,MX
+6607,Xiangcheng,CN
+6608,Xiangyang,CN
+6609,Xiaodian,CN
+6610,Xiayang,CN
+6611,Xicoténcatl,MX
+6612,Xilin,US
+6613,Xiling,CN
+6614,Xinan,CN
+6615,Xincheng,TW
+6616,Xindian,TW
+6617,Xindu,CN
+6618,Xingguo,CN
+6619,Xinghua,CN
+6620,Xing’an,CN
+6621,Xinhua,US
+6622,Xinhui,CN
+6623,Xinji,US
+6624,Xinli,
+6625,Xinning,CN
+6626,Xinxing,US
+6627,Xinyu,CN
+6628,Xinyuan,US
+6629,Xin’an,CN
+6630,Xiongzhou,
+6631,Xiping,CN
+6632,Xishan,CN
+6633,Xixiang,CN
+6634,Xochiltepec,MX
+6635,Xochimilco,MX
+6636,Xochitepec,MX
+6637,Xochitlán,MX
+6638,Xoxocotla,MX
+6639,Xuri,US
+6640,Yakovlevo,RU
+6641,Yala,US
+6642,Yale,US
+6643,Yalta,
+6644,Yamagata,JP
+6645,Yampil’,UA
+6646,Yanacancha,PE
+6647,Yanahuanca,PE
+6648,Yancheng,CN
+6649,Yangiqo‘rg‘on,UZ
+6650,Yanji,CN
+6651,Yanjing,CN
+6652,Yanta,LB
+6653,Yaoshi,
+6654,Yarmouth,US
+6655,Yenice,TR
+6656,Yeniköy,TR
+6657,Yenipazar,TR
+6658,Yeşilyurt,TR
+6659,Yong’an,CN
+6660,Yorktown,US
+6661,Yorkville,US
+6662,Young,US
+6663,Youngstown,US
+6664,Youngsville,US
+6665,Youngtown,US
+6666,Yucheng,CN
+6667,Yueyang,CN
+6668,Yushan,TW
+6669,Yuzhnyy,UA
+6670,Zacualpan,MX
+6671,Zakrzew,PL
+6672,Zakrzów,PL
+6673,Zalesie,PL
+6674,Zaliznychne,UA
+6675,Zambrano,US
+6676,Zapotitlán,MX
+6677,Zarzecze,PL
+6678,Zavetnoye,RU
+6679,Zebrzydowice,PL
+6680,Zelenikovo,MK
+6681,Zell,DE
+6682,Zempoala,MX
+6683,Zernovoye,RU
+6684,Zhangwan,CN
+6685,Zhaogezhuang,CN
+6686,Zheleznodorozhnyy,RU
+6687,Zhijiang,CN
+6688,Zhongcheng,US
+6689,Zhongfang,CN
+6690,Zhongshan,CN
+6691,Zhongshu,
+6692,Zhoukou,CN
+6693,Zhukovka,RU
+6694,Zion,US
+6695,Zlynka,RU
+6696,Znamenka,UA
+6697,Znamensk,RU
+6698,Znamenskoye,RU
+6699,Zolochiv,UA
+6700,Zomba,MW
+6701,Zona Industriale,RS
+6702,Zumpango,MX
+6703,Álvaro Obregón,MX
+6704,Ås,NO
+6705,Çiftlik,TR
+6706,Čelinac,BA
+6707,İkizce,TR
+6708,Łagów,PL
+6709,Łubnice,PL
+6710,Łubowo,PL
+6711,Łukowa,PL
+6712,Łętownia,PL
+6713,Říčany,CZ
+6714,Ślesin,PL
+6715,Świdnica,PL
+6716,Şenyurt,TR
+6717,Şimian,US
+6718,Şirvan,AZ
+6719,Ştefan Vodă,MD
+6720,Ştefan cel Mare,CA
+6721,Ştefăneşti,RO
+6722,Şuwayr,SA
+6723,Štitar,HR
+6724,Štěpánov,CZ
+6725,Żarki,PL
+6726,Živinice,BA
+6727,Șerbănești,RO
+6728,Ḩajjah,YE
+6729,Ḩājjīābād,IR
+6730,‘Ayn al Bayḑā,SY
+6731,Luling,US
+6732,San Maurizio,IT
+6733,Făget,RO
+6734,Ilchester,US
+6735,Patria Nueva,MX
+6736,Lumangbayan,PH
+6737,Yorkshire,US
+6738,Justice,US
+6739,El Jícaro,GT
+6740,Jussy,CH
+6741,Chalma,MX
+6742,The Gap,US
+6743,Jardim,US
+6744,Făurei,RO
+6745,Yongding,CN
+6746,Campo Alegre,CW
+6747,Picnic Point,US
+6748,Saint-Gervais,FR
+6749,Petersfield,GB
+6750,Lukino,RU
+6751,Mikhaylovsk,RU
+6752,Mikhaylovskoye,RU
+6753,Yongning,
+6754,Calvi,FR
+6755,Ruse,US
+6756,Újezd,CZ
+6757,San Matías,MX
+6758,Mazatepec,MX
+6759,San Antonio de las Huertas,MX
+6760,Amstetten,AT
+6761,Fărcaşa,RO
+6762,El Ayote,NI
+6763,Yuli,US
+6764,Lugovoye,RU
+6765,Panama City,US
+6766,Alunișu,RO
+6767,Amara,US
+6768,Camp Hill,US
+6769,Patterson,US
+6770,Fundão,PT
+6771,São João Batista,BR
+6772,Luverne,US
+6773,Amanalco de Becerra,MX
+6774,Rzeczyca,PL
+6775,Irsta,SE
+6776,São João,US
+6777,Thil,FR
+6778,Mina,US
+6779,Amalfi,IT
+6780,Fundación,US
+6781,Amaigbo,NG
+6782,Amarante,PT
+6783,Thompsonville,US
+6784,Thomastown,IE
+6785,Japitan,PH
+6786,Judendorf,AT
+6787,Amatitlán,GT
+6788,El Carril,AR
+6789,El Carrizal,US
+6790,El Carrizo,US
+6791,Alubijid,PH
+6792,Juan Aldama,MX
+6793,Juan Díaz,US
+6794,El Cazadero,MX
+6795,Thomson,US
+6796,El Ejido,ES
+6797,Amarpur,IN
+6798,El Cedro,MX
+6799,Camerano,IT
+6800,Minanga Norte,PH
+6801,São Domingos,CV
+6802,Alunda,SE
+6803,Irtyshskiy,RU
+6804,Tecuci,RO
+6805,Mandāwar,IN
+6806,Zacamulpa,MX
+6807,Alvito,PT
+6808,Râmnicelu,RO
+6809,Luzino,PL
+6810,Fulda,DE
+6811,Camino,US
+6812,Saint-Henri,CA
+6813,São Gonçalo do Amarante,BR
+6814,El Copé,PA
+6815,Panay,PH
+6816,El Congo,CD
+6817,Zacatepec,MX
+6818,Milo,US
+6819,El Corozo,US
+6820,Milot,HT
+6821,Milpillas,MX
+6822,El Corte,US
+6823,El Cortezo,PA
+6824,El Cortijo,US
+6825,Thoiry,FR
+6826,Zaborze,PL
+6827,El Ciruelo,MX
+6828,Zacualpa,GT
+6829,Luyang,CN
+6830,Piedras Blancas,US
+6831,El Cobre,CU
+6832,San Nicola,US
+6833,Luz,US
+6834,El Coco,US
+6835,Chacalapa,MX
+6836,El Cuá,NI
+6837,Ama,US
+6838,San Narciso,PH
+6839,Milltown,US
+6840,El Colegio,US
+6841,El Colomo,MX
+6842,Saint-Hilaire,FR
+6843,Luzerne,US
+6844,Piedras Gordas,PA
+6845,Juban,US
+6846,Chadian,TD
+6847,Thiers,FR
+6848,Alto Lucero,US
+6849,Rybno,PL
+6850,Campamento,ES
+6851,Yunxi,
+6852,Ambon,ID
+6853,San Pancrazio,IT
+6854,Luqiao,CN
+6855,San Miguel Tecomatlán,MX
+6856,Yunyang,CN
+6857,Rybnoye,RU
+6858,El Bosque,US
+6859,Amboasary,MG
+6860,Altos,US
+6861,Campagnola,US
+6862,Minglanilla,PH
+6863,Sânpaul,RO
+6864,San Miguel Tenango,MX
+6865,Öldziyt,MN
+6866,Luray,US
+6867,Amboy,US
+6868,El Fresno,ES
+6869,Talaga,US
+6870,Juli,US
+6871,Yuma,US
+6872,Julián Grajales,MX
+6873,Pampamarca,PE
+6874,Minneapolis,US
+6875,Sânmartin,RO
+6876,Río Abajo,PA
+6877,Camberwell,GB
+6878,Yuncheng,CN
+6879,Panganiban,PH
+6880,Sânmărtin,PE
+6881,Campanario,US
+6882,Lupeni,RO
+6883,Campana,US
+6884,Espinal,US
+6885,Ambulong,PH
+6886,Chaiyo,US
+6887,El Blanco,US
+6888,Piedra Blanca,US
+6889,Fusine,IT
+6890,Altınyayla,TR
+6891,Lynbrook,US
+6892,Millerovo,RU
+6893,Yuto,US
+6894,Pando,US
+6895,Ambar,US
+6896,Mineola,US
+6897,Fuji,US
+6898,Thornhill,CA
+6899,Carnarvon,AU
+6900,Lusk,US
+6901,Yutan,US
+6902,Pandi,US
+6903,Yuxi,CN
+6904,Altınova,TR
+6905,Millersville,US
+6906,São Bartolomeu,PT
+6907,Thorndale,US
+6908,Mindelo,CV
+6909,Mane,US
+6910,Mineral Springs,US
+6911,Mineral Wells,US
+6912,Piedra Gorda,PR
+6913,Amberg,DE
+6914,Ryczywół,PL
+6915,Millbury,US
+6916,Ryd,MX
+6917,Lynn,US
+6918,El Calvario,US
+6919,Cambria,US
+6920,Amberley,US
+6921,Miller,US
+6922,Zagra,ES
+6923,Pamukkale,TR
+6924,Jrashen,AM
+6925,Luserna,IT
+6926,Altura,US
+6927,Alturas,US
+6928,Furulund,SE
+6929,Sântimbru,RO
+6930,Lyneham,GB
+6931,El Marañón,US
+6932,Anadia,PT
+6933,Jangheung,KR
+6934,El Pájaro,US
+6935,Almagro,ES
+6936,Lozna,RO
+6937,Galesburg,US
+6938,Galeras,CO
+6939,Cerro Corá,BR
+6940,Edison,US
+6941,Angostura,US
+6942,Yazykovo,RU
+6943,El Puesto,US
+6944,Edinburgh,GB
+6945,Kabasalan,PH
+6946,Angola,AO
+6947,Yağlıdere,TR
+6948,Tecamachalco,MX
+6949,Paulba,PH
+6950,Mjällby,SE
+6951,Maba,US
+6952,Almafuerte,US
+6953,Tha Maka,TH
+6954,Middle Island,US
+6955,Üçpınar,TR
+6956,Caldas,US
+6957,Swineshead,GB
+6958,Tha Chang,TH
+6959,Joinville,BR
+6960,Edgemere,US
+6961,Mickleton,US
+6962,Kabo,CF
+6963,Mayorga,US
+6964,Zebulon,US
+6965,Edina,US
+6966,Paoli,US
+6967,Carlow,US
+6968,Edgeworth,US
+6969,Palena,IT
+6970,Loyola,US
+6971,Rājāpur,IN
+6972,Kabare,CD
+6973,Mișca,RO
+6974,Allonnes,FR
+6975,Kabahaydar,TR
+6976,Kabala,TR
+6977,Palian,TH
+6978,Anger,US
+6979,Calera,US
+6980,Cerro Largo,BR
+6981,Yeghegnut,AM
+6982,Frontenac,US
+6983,Cavan,IE
+6984,Sydenham,CA
+6985,Manay,PH
+6986,Lubei,CN
+6987,Middleburg,US
+6988,El Prado,US
+6989,San Marino,SM
+6990,Rudniki,PL
+6991,El Pozo,US
+6992,Almeirim,PT
+6993,Maasim,PH
+6994,Mayskoye,RU
+6995,Edremit,TR
+6996,Ibăneşti,RO
+6997,Middle Park,US
+6998,Yeadon,US
+6999,Palestine,PS
+7000,Pesqueira,BR
+7001,Luanda,AO
+7002,Chandmanĭ,MN
+7003,Cerro Grande,US
+7004,Cerro Iglesias,PA
+7005,Sychëvo,RU
+7006,Miękinia,PL
+7007,Florentino Ameghino,AR
+7008,Maasin,PH
+7009,Almaznyy,RU
+7010,Międzylesie,PL
+7011,Sychëvka,RU
+7012,Luba,US
+7013,Edwards,US
+7014,Zeeland,NL
+7015,Söderfors,SE
+7016,Yekaterinovka,US
+7017,Allanton,GB
+7018,Palatka,US
+7019,Ecublens,CH
+7020,Roșcani,RO
+7021,Changé,FR
+7022,Palau,PW
+7023,Calatrava,US
+7024,Kadino,MK
+7025,Loveland,US
+7026,Lovell,US
+7027,Canaan,US
+7028,Calauag,PH
+7029,Eddington,US
+7030,Changzhi,CN
+7031,Cerrito,US
+7032,Jarocin,PL
+7033,Eddyville,US
+7034,Mica,US
+7035,Calatagan,PH
+7036,Iberia,US
+7037,Mochdre,GB
+7038,Teya,MX
+7039,Sanborn,US
+7040,Yarkovo,RU
+7041,Macclesfield,GB
+7042,Yarkoye Pole,
+7043,Calantas,US
+7044,Mianyang,CN
+7045,Galston,US
+7046,Modbury,GB
+7047,Sölden,AT
+7048,El Sauce,NI
+7049,Yaroslavskiy,US
+7050,Loutráki,GR
+7051,Roşia,RO
+7052,Piano,US
+7053,Moctezuma,US
+7054,Canadian,CA
+7055,Roşiori,RO
+7056,Papalotla,MX
+7057,Ede,NL
+7058,Michurinskoye,RU
+7059,San Vincenzo,IT
+7060,Tezze,IT
+7061,Tiffin,US
+7062,Johnsonville,US
+7063,Alliance,US
+7064,Anju,US
+7065,Moate,IE
+7066,Gallatin,US
+7067,MacArthur,US
+7068,El Retiro,MX
+7069,Johnsonburg,US
+7070,San Vigilio,IT
+7071,Camrose,CA
+7072,Yatton,GB
+7073,Mabuhay,US
+7074,Yauli,PE
+7075,Isabela,PH
+7076,Anilao,PH
+7077,Saint-Georges-du-Bois,FR
+7078,Tehuixtla,MX
+7079,Agía Varvára,CY
+7080,Moca,US
+7081,Swanton,US
+7082,Södra Sandby,SE
+7083,Tigbao,PH
+7084,Ankola,IN
+7085,El Sabino,US
+7086,Zelenogorsk,RU
+7087,Tezoyuca,MX
+7088,Lovington,US
+7089,Galliano,US
+7090,Michelau,DE
+7091,Allenstown,US
+7092,Allentown,US
+7093,Manat,US
+7094,El Rosal,US
+7095,Ābyek,IR
+7096,Michałowice,PL
+7097,Rāmāpuram,IN
+7098,Frisco,US
+7099,Maanĭt,IL
+7100,Rudnya,RU
+7101,Zapolyarnyy,RU
+7102,Eichberg,CH
+7103,Mazapa,MX
+7104,Lüderitz,NA
+7105,Calliano,IT
+7106,Migliarino,IT
+7107,Palmarejo,PR
+7108,Mango,US
+7109,Mission Hills,US
+7110,Yeşildere,TR
+7111,Yeşilova,TR
+7112,Ruma,US
+7113,Paucartambo,PE
+7114,Úrsulo Galván,MX
+7115,El Nigromante,MX
+7116,Anchorage,US
+7117,Ilihan,PH
+7118,Panorama,US
+7119,Pikeville,US
+7120,San Quintín,MX
+7121,Gagarin,US
+7122,Zarechnoye,RU
+7123,El Naranjito,US
+7124,Tianchang,CN
+7125,Mitchellville,US
+7126,Yermolino,RU
+7127,Ahorn,US
+7128,Lucknow,IN
+7129,Jonstorp,SE
+7130,Lucma,PE
+7131,Florești,RO
+7132,Lucre,US
+7133,Tiana,US
+7134,Ironton,US
+7135,Rückersdorf,DE
+7136,Ehingen,DE
+7137,Palmanova,IT
+7138,Séguéla,CI
+7139,Zarichne,UA
+7140,Andalusia,ES
+7141,Zarech’ye,RU
+7142,Palmar Grande,MX
+7143,San Quintin,MX
+7144,San Prospero,IT
+7145,Zarubino,RU
+7146,Gabrovo,BG
+7147,Palmerston,CA
+7148,Yining,CN
+7149,Frăsinet,RO
+7150,Runcorn,GB
+7151,Palmetto,US
+7152,El Milagro,US
+7153,Alsdorf,DE
+7154,Chambly,CA
+7155,Óbidos,PT
+7156,Yiyang,CN
+7157,Campo Real,BR
+7158,Anahuac,US
+7159,Anahawan,PH
+7160,Janowice,PL
+7161,Mirto,CA
+7162,Cervo,US
+7163,Calonge,ES
+7164,Ancaster,CA
+7165,Palmasola,MX
+7166,Mislīyah,
+7167,Calmont,US
+7168,Takeo,JP
+7169,El Nacimiento,US
+7170,Cavaillon,FR
+7171,Gadsden,US
+7172,Palmdale,US
+7173,Patong,TH
+7174,Järna,SE
+7175,Palmeira,US
+7176,Chametla,MX
+7177,San Polo,IT
+7178,Mishkino,RU
+7179,Anao,US
+7180,Röttenbach,DE
+7181,Pantanal,US
+7182,Luciu,RO
+7183,Saint-Germain,US
+7184,Rāfāt,
+7185,Pantoja,US
+7186,Tiburon,US
+7187,Zavodskoy,RU
+7188,Gais,CH
+7189,Lubukalung,ID
+7190,El Pilar,US
+7191,Sylvan Lake,US
+7192,Yelwa,NG
+7193,Patna,IN
+7194,Lubrza,PL
+7195,Midvale,US
+7196,Foley,US
+7197,Illingen,DE
+7198,Illescas,ES
+7199,El Perelló,ES
+7200,Egestorf,DE
+7201,Lucan,IE
+7202,Egg,US
+7203,Piaski,PL
+7204,Midlothian,US
+7205,Andreyevka,RU
+7206,Pias,US
+7207,Rudnyy,KZ
+7208,Almenara,ES
+7209,Saint-Germain-Laval,FR
+7210,Cavallino,IT
+7211,Effingham,US
+7212,Carlyle,US
+7213,El Portal,US
+7214,Chanal,MX
+7215,Sykesville,US
+7216,Sykiá,GR
+7217,El Playón,CO
+7218,Palizada,MX
+7219,Frontino,CO
+7220,Lubomierz,PL
+7221,Rue,US
+7222,Calhoun,US
+7223,Ahmadpur,IN
+7224,Icoana,RO
+7225,San Ricardo,PH
+7226,Mancos,US
+7227,Saint-Germain-des-Prés,FR
+7228,Lucheng,CN
+7229,Fruitvale,US
+7230,Palm Valley,US
+7231,Egling,US
+7232,Irondale,US
+7233,Andilly,FR
+7234,Zarzal,CO
+7235,Essingen,DE
+7236,Mitrofanovka,RU
+7237,Yerbabuena,US
+7238,San Romano,IT
+7239,Tianguismanalco,MX
+7240,Anderstorp,SE
+7241,Mieres,ES
+7242,Zarya,
+7243,Palma Sola,US
+7244,Lucero,US
+7245,Isa,US
+7246,Ahmetli,TR
+7247,Lucas,US
+7248,El Pedregoso,US
+7249,Eggendorf,AT
+7250,Rugby,US
+7251,Lucban,PH
+7252,Thalheim,DE
+7253,Pantepec,MX
+7254,Tibacuy,CO
+7255,Ruginoasa,RO
+7256,El Pardo,ES
+7257,Yenişehir,TR
+7258,Lăcusteni,RO
+7259,Esslingen,DE
+7260,Mbale,UG
+7261,Pantelimon,RO
+7262,Andosilla,ES
+7263,Jones,US
+7264,Lucerne,CH
+7265,Gedangan,ID
+7266,San Juan Nepomuceno,PY
+7267,Safonovo,RU
+7268,Huichang,CN
+7269,Huicheng,CN
+7270,Arthur,US
+7271,Tempe,US
+7272,Caravonica,AU
+7273,Drnovice,CZ
+7274,San Francisco Javier,US
+7275,Sugarcreek,US
+7276,Tepalcatepec,MX
+7277,Saint-Barnabé,CA
+7278,Akköy,TR
+7279,Dumbarton,GB
+7280,Dumas,US
+7281,Forrest,US
+7282,Água Branca,BR
+7283,Pasuruan,ID
+7284,Woburn,US
+7285,Mena,US
+7286,Jalpa,MX
+7287,Saint Bernard,US
+7288,Roebuck,US
+7289,Livo,US
+7290,Zwolle,NL
+7291,Wiśniowa,PL
+7292,Wilhelmsdorf,DE
+7293,Mali,ML
+7294,Cherryvale,US
+7295,Huntingdale,AU
+7296,Geneseo,US
+7297,Mantang,ID
+7298,Erdenetsogt,MN
+7299,Samson,US
+7300,Montero,BO
+7301,Mantalongon,PH
+7302,Hughesville,US
+7303,Santa Úrsula,ES
+7304,Arteaga,MX
+7305,Tabing,DE
+7306,Tabio,
+7307,Temizhbekskaya,RU
+7308,Dumitrești,RO
+7309,Santa Magdalena,IT
+7310,Fontvieille,FR
+7311,Bâlta,RO
+7312,Liyang,CN
+7313,Megálo Chorió,GR
+7314,Lindley,US
+7315,Dumfries,GB
+7316,Jefferson City,US
+7317,Saint-Benoît,US
+7318,Dumeşti,RO
+7319,Saint Anthony,US
+7320,Cherry Valley,US
+7321,Al Jafr,JO
+7322,Saint Augusta,US
+7323,Wohlen,CH
+7324,Artesia,US
+7325,Santa Margarita,US
+7326,Al Jubayl,SA
+7327,Jetpur,IN
+7328,Withington,GB
+7329,Ágios Athanásios,GR
+7330,Genola,US
+7331,Livadia,
+7332,Rodniki,RU
+7333,Moose Lake,US
+7334,Sulzbach,DE
+7335,Asten,NL
+7336,Saint-Augustin,MG
+7337,Forsbacka,SE
+7338,Etowah,US
+7339,Livada,US
+7340,Al ‘Azīzīyah,LY
+7341,Bärenstein,DE
+7342,Santa Rosa de Viterbo,CO
+7343,Wittenberg,US
+7344,Ourém,PT
+7345,Moosburg,DE
+7346,Montezuma,US
+7347,Bürglen,CH
+7348,Montfaucon,FR
+7349,Tongchuan,CN
+7350,Arzano,US
+7351,Liulin,CN
+7352,Tolimán,MX
+7353,Tongcheng,CN
+7354,Saint Dennis,US
+7355,Meicheng,CN
+7356,Cherëmushki,RU
+7357,Montferrat,IT
+7358,Al Karāmah,JO
+7359,Sulzberg,AT
+7360,Akhaldaba,GE
+7361,Taysan,PH
+7362,Erdenet,MN
+7363,Inya,MM
+7364,Taytayan,
+7365,Jatiroto,ID
+7366,Ágios Nikólaos,GR
+7367,Chertsey,GB
+7368,Livezi,RO
+7369,Mehring,DE
+7370,Livezeni,RO
+7371,Sulzheim,DE
+7372,Pasil,PH
+7373,Placer,US
+7374,Sulzfeld,DE
+7375,Bârza,RO
+7376,Lingen,DE
+7377,Ágios Geórgios,GR
+7378,Chiaravalle,US
+7379,Huiloapan,MX
+7380,Foster,US
+7381,Santa Maria Nuova,IT
+7382,Zykovo,RU
+7383,Wittorf,DE
+7384,Astrakhan,RU
+7385,Chiara,US
+7386,Wittnau,DE
+7387,Wilkowice,PL
+7388,Flagstaff,US
+7389,Al Jīzah,EG
+7390,Ottenhofen,DE
+7391,Lindenhurst,US
+7392,Ottenbach,CH
+7393,Sumidero,MX
+7394,Drenovë,AL
+7395,Tepehan,TR
+7396,Menen,BE
+7397,Rogowo,PL
+7398,Arroyo Grande,US
+7399,Atbasar,KZ
+7400,Karacaköy,TR
+7401,Moravany,CZ
+7402,Dundrum,IE
+7403,Parona,IT
+7404,Santa Gertrudis,US
+7405,Otsego,US
+7406,Tepecik,TR
+7407,Piña,US
+7408,Dundonald,GB
+7409,San Alejo,US
+7410,Encino,US
+7411,Enciso,CO
+7412,Lincheng,US
+7413,Santa Giustina,IT
+7414,Saint-Lazare,CA
+7415,Megalochóri,GR
+7416,Mendota,US
+7417,Petrosino,IT
+7418,Llama,US
+7419,Majagual,CO
+7420,Manson,US
+7421,Santa Fiora,IT
+7422,Petropavlovskaya,RU
+7423,General Enrique Mosconi,AR
+7424,Parnamirim,BR
+7425,Ghimpați,RO
+7426,Woltersdorf,DE
+7427,Montegut,US
+7428,Santa Eufemia,ES
+7429,Pfäffikon,CH
+7430,Dunlop,US
+7431,Meeker,US
+7432,Llangynog,GB
+7433,Arras,FR
+7434,Áyios Konstandínos,GR
+7435,Llangybi,GB
+7436,Tepetitla,MX
+7437,Mengen,DE
+7438,Carbonera,US
+7439,Agno,CH
+7440,Roha,US
+7441,Iola,US
+7442,Tabatinga,BR
+7443,General Conesa,AR
+7444,Linao,US
+7445,Hueyotlipan,MX
+7446,Parola,FI
+7447,Ingleton,GB
+7448,Ovsyanka,RU
+7449,Inglewood,US
+7450,Chernivtsi,UA
+7451,Alameda,US
+7452,Ghermănești,RO
+7453,Lincoln Heights,US
+7454,Tabia,MA
+7455,Wilberforce,US
+7456,Menden,DE
+7457,Enderby,GB
+7458,Linda,US
+7459,Huntly,GB
+7460,Paso Blanco,PA
+7461,Over,US
+7462,Escalante,US
+7463,Wola,US
+7464,Eunice,US
+7465,Lindale,US
+7466,Atalaya,US
+7467,Atalaia,BR
+7468,Lindavista,MX
+7469,Mende,FR
+7470,Huntley,US
+7471,Pervoye Maya,KG
+7472,Çaybağı,TR
+7473,Monterey Park,US
+7474,Majur,RS
+7475,Petřvald,CZ
+7476,Temirtau,KZ
+7477,Wilczyce,PL
+7478,Zvëzdnyy,RU
+7479,Fitzwilliam,US
+7480,Lindenberg,DE
+7481,Endingen,DE
+7482,Capitignano,IT
+7483,General San Martín,AR
+7484,Lind,US
+7485,Cañete,PE
+7486,Sumberan,ID
+7487,Meadville,US
+7488,Santa Inés,US
+7489,Tepebaşı,TR
+7490,General Lavalle,AR
+7491,Huolu,CN
+7492,Santa Inês,US
+7493,San Alberto,CO
+7494,Roghun,TJ
+7495,Robinson,US
+7496,Lincoln Village,US
+7497,Roggwil,CH
+7498,Drexel,US
+7499,Bālāpur,IN
+7500,Sumber,ID
+7501,Malino,US
+7502,Ingram,US
+7503,Wold Newton,GB
+7504,Robinwood,US
+7505,Lincolnton,US
+7506,Wolcott,US
+7507,Lincolnville,US
+7508,Pawnee,US
+7509,Hughes,US
+7510,Karabash,RU
+7511,General Roca,AR
+7512,Castroville,US
+7513,Forst,DE
+7514,Chicheng,US
+7515,Lishu,
+7516,Wingate,US
+7517,Wing,US
+7518,Montoro,US
+7519,Sukaraja,ID
+7520,Ensenada,MX
+7521,Sukarama,ID
+7522,Capriglia,IT
+7523,Fort Washington,US
+7524,Santa María la Asunción,MX
+7525,Dubovka,RU
+7526,Hujirt,MN
+7527,Ash Shuhadā’,EG
+7528,Melide,ES
+7529,Gernrode,DE
+7530,Sula,US
+7531,Ash Shāmīyah,SA
+7532,Maud,US
+7533,Agbannawag,PH
+7534,Jaltepec,MX
+7535,Tayan,KG
+7536,Sukuta,GM
+7537,Tompkinsville,US
+7538,Ephrata,US
+7539,Askiz,RU
+7540,Santa María Xadani,MX
+7541,Interlaken,CH
+7542,Ashbourne,GB
+7543,Chevilly,FR
+7544,Lishi,
+7545,Al Qurayn,SA
+7546,Mechanicsburg,US
+7547,Wilsonville,US
+7548,Montmorency,FR
+7549,Saint Matthews,US
+7550,Winnebago,US
+7551,Chetwynd,CA
+7552,Malabar,US
+7553,Rock Island,US
+7554,Asendorf,DE
+7555,Melissa,US
+7556,Saint Michaels,US
+7557,Malabon,PH
+7558,Cedros,US
+7559,Sukamaju,ID
+7560,Winklarn,AT
+7561,Kapan,AM
+7562,Mauer,US
+7563,Rock Creek,US
+7564,Ash,US
+7565,Lin’an,CN
+7566,Montorio,IT
+7567,Samur,FR
+7568,Ash Shajarah,SY
+7569,Dubravica,HR
+7570,Casuarina,US
+7571,Saint-André,RE
+7572,Dubrava,HR
+7573,Çeltikçi,TR
+7574,Ensdorf,DE
+7575,Saint Peter,US
+7576,Ashby,US
+7577,Tolland,US
+7578,Saint Stephen,US
+7579,Çağlayan,TR
+7580,Lipnik,US
+7581,Asia,
+7582,Ashwell,US
+7583,Ashville,US
+7584,Malakoff,US
+7585,Jennings,US
+7586,Lipno,PL
+7587,Gersdorf,DE
+7588,Cedar Hill,US
+7589,Pasaje,MX
+7590,Santa María de la Paz,US
+7591,Mechelen,BE
+7592,Cheyenne,US
+7593,Five Points,US
+7594,Jepara,ID
+7595,Lipova,RO
+7596,Cedar Hills,US
+7597,Chevy Chase,US
+7598,Ashton,US
+7599,Peñaflor,CL
+7600,Geronimo,US
+7601,Saint-Alban,FR
+7602,Insjön,SE
+7603,İnönü,TR
+7604,Duarte,US
+7605,Telford,GB
+7606,San Gaspar,US
+7607,Roche,US
+7608,Erzin,TR
+7609,Lipnica Wielka,PL
+7610,Lisa,US
+7611,Lipnica,PL
+7612,Caracal,US
+7613,Maubec,FR
+7614,Malasin,PH
+7615,Rochelle,US
+7616,Ashcroft,US
+7617,Saint-Ambroise,CA
+7618,San Félix,PA
+7619,Dubna,RU
+7620,Dublyany,UA
+7621,Tome,US
+7622,Etúcuaro,MX
+7623,Lipia,RO
+7624,Drăgoteşti,RO
+7625,Santa María del Monte,IT
+7626,Montreuil,FR
+7627,Manuel Ávila Camacho,MX
+7628,Drăgușeni,RO
+7629,Fort Smith,US
+7630,Fort Meade,US
+7631,Santa María Zacatepec,MX
+7632,Melfi,IT
+7633,Złota,PL
+7634,Złotniki,PL
+7635,Hull,GB
+7636,Taihe,US
+7637,Windermere,US
+7638,Cedarville,US
+7639,Ashington,GB
+7640,Pastores,US
+7641,Monção,PT
+7642,Tomşani,RO
+7643,Carano,CA
+7644,Al Ḩusaynīyah,SA
+7645,Jessup,US
+7646,Chessy,FR
+7647,Makrychóri,GR
+7648,Ger,US
+7649,Maldon,GB
+7650,Inkerman,US
+7651,Malden,US
+7652,Fort Bragg,US
+7653,Al Ḩazm,QA
+7654,Moorhead,US
+7655,Partizanskoye,SK
+7656,Wirdum,NL
+7657,Mecatlán,MX
+7658,Kani,US
+7659,Inman,US
+7660,Willingham,US
+7661,Mooresville,US
+7662,Mellingen,CH
+7663,Sulphur Springs,US
+7664,Willington,US
+7665,Gettysburg,US
+7666,Sulphur,US
+7667,Toluca,MX
+7668,As Sukhnah,SY
+7669,Makushino,RU
+7670,Eufaula,US
+7671,Tena,US
+7672,Jauja,MX
+7673,Williamsville,US
+7674,Linkou,TW
+7675,Linxi,US
+7676,Little River,US
+7677,Pfaffing,DE
+7678,Chesapeake,US
+7679,Mama,US
+7680,George,US
+7681,Plain City,US
+7682,Platteville,US
+7683,Aginskoye,RU
+7684,Akkol’,KZ
+7685,Pastrana,US
+7686,Georgenberg,DE
+7687,Meckenheim,DE
+7688,Rodenbach,BE
+7689,Ceiba,US
+7690,Littleton,US
+7691,Erbach,DE
+7692,Roden,NL
+7693,Fossa,US
+7694,Saint Helena,SH
+7695,İğdir,TR
+7696,Santa María Ajoloapan,MX
+7697,Santa María Amajac,MX
+7698,Monti,US
+7699,Georgiyevka,RU
+7700,İçmeler,TR
+7701,Jesup,US
+7702,Saint-Didier,FR
+7703,Little Rock,US
+7704,Jalpilla,MX
+7705,Rocky Mount,US
+7706,Carson City,US
+7707,Aghavnadzor,AM
+7708,Winterville,US
+7709,Winsted,US
+7710,Winsen,DE
+7711,Willow Springs,US
+7712,Eudora,US
+7713,Innere Stadt,AT
+7714,Santa María Magdalena,MX
+7715,Ascensión,MX
+7716,Jena,DE
+7717,Duda,US
+7718,Embleton,GB
+7719,Huixcolotla,MX
+7720,Erwin,US
+7721,Jerusalén,IL
+7722,Carterville,US
+7723,Montmagny,CA
+7724,Gerger,TR
+7725,Ascheberg,DE
+7726,Caraguatay,PY
+7727,Dry Ridge,US
+7728,Manturovo,RU
+7729,Pasco,US
+7730,Moody,US
+7731,Listowel,CA
+7732,Asciano,IT
+7733,Agarak,AM
+7734,Enon,US
+7735,Aspach,DE
+7736,Tona,US
+7737,İhsaniye,TR
+7738,Payao,PH
+7739,Bösingen,CH
+7740,Mecca,SA
+7741,Meiningen,DE
+7742,Dueñas,ES
+7743,Kaniów,PL
+7744,Huitzila,MX
+7745,Malbug,PH
+7746,Huitzilac,MX
+7747,Sulmierzyce,PL
+7748,Winters,US
+7749,Saint Leonards,US
+7750,Al Ḩamrā’,OM
+7751,Paxton,US
+7752,Asahi,US
+7753,Rockland,US
+7754,Saint-Antoine,FR
+7755,Matzendorf,CH
+7756,Willoughby,US
+7757,Montilla,ES
+7758,Epureni,RO
+7759,Winterbourne,CA
+7760,Kapellen,BE
+7761,Ettringen,DE
+7762,Plaisance,CA
+7763,Jaltocan,MX
+7764,Rockledge,US
+7765,Tenancingo,MX
+7766,Summerfield,US
+7767,Iskar,BG
+7768,Montecristo,US
+7769,Santa Cristina,IT
+7770,Pleasant View,US
+7771,Ermelo,NL
+7772,Çamlıdere,TR
+7773,Eurasburg,DE
+7774,Monte Verde,US
+7775,Monte Redondo,PT
+7776,Caparroso,ES
+7777,Topeka,US
+7778,Akarsu,GB
+7779,Maltby,US
+7780,Chengyang,US
+7781,Jastrząb,PL
+7782,Woodcroft,US
+7783,Chiché,FR
+7784,Wickliffe,US
+7785,Tequisquiapan,MX
+7786,Bystřice,CZ
+7787,San Josecito,CR
+7788,Malkāpur,IN
+7789,Catarina,US
+7790,Bălan,RO
+7791,Chiconamel,MX
+7792,Akşar,TR
+7793,Whittingham,US
+7794,Otatitlán,MX
+7795,Rokiciny,PL
+7796,Malone,US
+7797,Woodhaven,US
+7798,Arjona,US
+7799,Rizhao,CN
+7800,Estrella,US
+7801,Rokeby,US
+7802,Chiconcuac,MX
+7803,Emmering,DE
+7804,Bădeni,RO
+7805,Saint-Clément,US
+7806,Moreira,PT
+7807,Karaköprü,TR
+7808,Forest Glen,US
+7809,Tobermory,CA
+7810,Wierzchosławice,PL
+7811,Ozerne,UA
+7812,Arnö,SE
+7813,San Eduardo,US
+7814,Zscherben,DE
+7815,San José Buenavista,PH
+7816,Limoges,FR
+7817,Duquesne,US
+7818,Whitney,US
+7819,Industry,US
+7820,Javānrūd,IR
+7821,Saint-Charles,US
+7822,San Fabian,PH
+7823,Capel,US
+7824,Attica,US
+7825,Åkarp,SE
+7826,Çan,TR
+7827,Fordham,US
+7828,Medvedevo,RU
+7829,Mera,US
+7830,Morgan,US
+7831,Tagudin,PH
+7832,Llata,PE
+7833,Fraccionamiento San Miguel,MX
+7834,Rojas,US
+7835,Durack,AU
+7836,Malmesbury,GB
+7837,Aksakovo,BG
+7838,Saint-Laurent,US
+7839,Huejotitán,MX
+7840,Karangan,MY
+7841,Infanta,US
+7842,Kamień,PL
+7843,Emporia,US
+7844,Wieprz,PL
+7845,Kampot,KH
+7846,Morden,CA
+7847,Caridad,US
+7848,Emerson,US
+7849,Tazewell,US
+7850,Albersdorf,DE
+7851,Whittlesea,AU
+7852,Woodlake,US
+7853,Akıncılar,TR
+7854,Morelia,MX
+7855,Sun Prairie,US
+7856,Sagy,US
+7857,Årnes,NO
+7858,Paynesville,US
+7859,Rivière,FR
+7860,Sagasa,PH
+7861,Rokytne,UA
+7862,Llorente,US
+7863,Łaziska,PL
+7864,Suchitlán,MX
+7865,San Dionisio,PH
+7866,Medellín,CO
+7867,Woodridge,US
+7868,Lobanovo,RU
+7869,Oxley,AU
+7870,San Cristobal,MX
+7871,Karantaba,GM
+7872,Topsham,US
+7873,Montecarlo,MC
+7874,Lobios,ES
+7875,Woodsboro,US
+7876,Roman,US
+7877,Emilio Portes Gil,MX
+7878,Ford,US
+7879,Sahagún,ES
+7880,Roland,US
+7881,Sagay,PH
+7882,Atlantis,BS
+7883,Malpaso,ES
+7884,Estorf,DE
+7885,Malpica,ES
+7886,Armutlu,TR
+7887,Malsch,DE
+7888,Drain,US
+7889,Armstrong,US
+7890,Atoyac,MX
+7891,Emory,US
+7892,Pittston,US
+7893,Agra,IN
+7894,Mercatale,IT
+7895,Husiatyn,UA
+7896,Morenci,US
+7897,Mori,US
+7898,Eminence,US
+7899,Rokietnica,PL
+7900,Otates,MX
+7901,Forbach,FR
+7902,Woodland,US
+7903,Atotonilco,US
+7904,Whitton,US
+7905,Ota,US
+7906,Arkansas City,US
+7907,Oyster Bay,US
+7908,Jay,US
+7909,Roa,US
+7910,Arles,FR
+7911,Limerick,IE
+7912,Jayapura,ID
+7913,Aksay,KZ
+7914,Bărbăteşti,RO
+7915,Pitigliano,IT
+7916,Limestone,US
+7917,Rivne,UA
+7918,Atkinson,US
+7919,Sagunto,ES
+7920,Akçaova,TR
+7921,Durenan,ID
+7922,Woodmere,US
+7923,Huehuetla,MX
+7924,Tabachnoye,
+7925,Woodward,US
+7926,Riviera Beach,US
+7927,Whitwell,US
+7928,Woodway,US
+7929,San Felice,IT
+7930,Arkhangel’skoye,RU
+7931,Mercato,US
+7932,Santiago Cuautlalpan,MX
+7933,Montecillo,US
+7934,Wiang Sa,TH
+7935,Woodland Park,US
+7936,Rolla,US
+7937,Woodland Hills,US
+7938,Wierzbno,PL
+7939,Ta Khmau,KH
+7940,Javhlant,
+7941,Gibsonia,US
+7942,Hurst,US
+7943,Summerside,CA
+7944,Rohrdorf,DE
+7945,Arpino,IT
+7946,Huehuetán,MX
+7947,Hurricane,US
+7948,Owensville,US
+7949,Zoquitlán,MX
+7950,Jawornik,PL
+7951,Santa Cecilia,US
+7952,Monteagudo,ES
+7953,Akpınar,TR
+7954,Akunk’,AM
+7955,Doğankent,TR
+7956,Emerald,US
+7957,Monte Carmelo,US
+7958,Agoo,CA
+7959,Tepetongo,MX
+7960,Petrovskiy,RU
+7961,Fleetwood,US
+7962,Sunderland,GB
+7963,Arouca,PT
+7964,Çandır,TR
+7965,Wiesen,DE
+7966,Dunstable,US
+7967,Woolwich,GB
+7968,Petrovskaya,RU
+7969,Santa Cruz del Valle,ES
+7970,Summerville,US
+7971,Riversdale,US
+7972,Saint-Jérôme,CA
+7973,Ioneşti,RO
+7974,Zumarraga,ES
+7975,Arma,US
+7976,Chichicapa,MX
+7977,Cazilhac,FR
+7978,Atengo,MX
+7979,Zumpahuacán,MX
+7980,Atwood,US
+7981,Riverdale Park,US
+7982,San Ferdinando,IT
+7983,Atenguillo,MX
+7984,Whitehouse,US
+7985,Perşembe,TR
+7986,Tlapacoyan,MX
+7987,Agoncillo,PH
+7988,Morazán,SV
+7989,Tavşanlı,TR
+7990,Chichester,GB
+7991,Saint-Claude,FR
+7992,Mahmutlar,TR
+7993,Hvardiiske,
+7994,Indian Springs,US
+7995,Kamo,JP
+7996,Petrovsk,RU
+7997,Fox Lake,US
+7998,Indiana,US
+7999,Cheney,US
+8000,Woonsocket,US
+8001,Sungairaya,ID
+8002,Cardiff,GB
+8003,Saga,US
+8004,Atwater,US
+8005,Iona,US
+8006,Monte Alto,US
+8007,Caxias,PT
+8008,Emmaus,US
+8009,Summerland,US
+8010,Inez,US
+8011,Albaredo,IT
+8012,Wroxall,GB
+8013,Al Burayqah,LY
+8014,Çardak,TR
+8015,Medway,US
+8016,Jalgaon,IN
+8017,Whiteville,US
+8018,Toba,ID
+8019,Capella,US
+8020,Santa Cruz de las Flores,MX
+8021,Albert Park,AU
+8022,Otok,HR
+8023,Tlatzala,MX
+8024,Jastrzębia,PL
+8025,Meadow Lake,US
+8026,Erskine,US
+8027,Mahuta,US
+8028,Gibraltar,GI
+8029,Tepexco,MX
+8030,Whiting,US
+8031,Maidstone,GB
+8032,Gibson,US
+8033,Tepetzitzintla,MX
+8034,Robbinsville,US
+8035,Afumaţi,RO
+8036,Wood River,US
+8037,Arona,ES
+8038,Forchheim,DE
+8039,Santa Cruz de la Sierra,BO
+8040,Limones,US
+8041,Capela,US
+8042,Pleasant Hills,US
+8043,Whitman,US
+8044,Kamienica,PL
+8045,Tlaxco,MX
+8046,Karasu,US
+8047,Doğruyol,TR
+8048,Emsworth,US
+8049,Mavrodin,RO
+8050,Park Hills,US
+8051,Aromatnoye,
+8052,Dyer,US
+8053,Erlbach,DE
+8054,Lochau,AT
+8055,Forino,US
+8056,Hutang,
+8057,Robbins,US
+8058,Santiago Tenango,MX
+8059,Doğanyurt,TR
+8060,Tlatlauquitepec,MX
+8061,Ford City,US
+8062,Attleborough,GB
+8063,Tequila,US
+8064,Parkersburg,US
+8065,Fleet,US
+8066,Dysart,US
+8067,Rollingwood,US
+8068,Băleşti,RO
+8069,Albareto,IT
+8070,Hutchinson,US
+8071,Tepetzintla,MX
+8072,Maipú,CL
+8073,Bīlāspur,IN
